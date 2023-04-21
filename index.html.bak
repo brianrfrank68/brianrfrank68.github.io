@@ -6,13 +6,7 @@
   </head>
   <body>
     <ul>
-      <li> <a href="/DLB-1/index.htm" target="_top">Diamond League Baseball -
-          Season 1</a></li>
-    </ul>
-    <p><br>
-    </p>
-    <ul>
-      <li><a href="Strat-1/index.html" target="_top">Strat-O-Matic Baseball -
+      <li> <a href="./DLB-1/index.htm" target="_top">Diamond League Baseball -
           Season 1</a></li>
     </ul>
     <br>
