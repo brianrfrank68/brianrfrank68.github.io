@@ -1,0 +1,27 @@
+SELECT full_name,
+       flb_team_init,
+                     Age,
+       Tm,
+       W,
+       L,
+       ERA,
+       G,
+       GS,
+       SV,
+       IP,
+       H,
+       R,
+       ER,
+       BB,
+       SO,
+       FIP,
+       WHIP,
+       H9,
+       HR9,
+       BB9,
+       SO9,
+       "SO/W",
+       "Name-additional"
+  FROM roster
+INNER JOIN Pitching on Pitching."Name-additional" = roster.player_id
+ORDER BY flb_team_init, "Name-additional"
