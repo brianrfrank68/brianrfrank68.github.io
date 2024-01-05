@@ -1,0 +1,3 @@
+SELECT count(*), ETA, "Pos."
+  FROM Dynasty_Prospect_October
+  Group by ETA, "Pos."
