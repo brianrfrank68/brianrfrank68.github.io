@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/brian/dev/brianrfrank68.github.io/league/strat.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="4335"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:mainroster"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Appearances" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="73"/><column index="9" value="80"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="127"/><column index="31" value="152"/></column_widths><filter_values><column index="2" value="mcc"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="122"/><column index="31" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Dynasty_March_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="221"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="144"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="85"/><column index="10" value="78"/></column_widths><filter_values><column index="3" value="abram"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Fielding" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="59"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="56"/><column index="16" value="52"/><column index="17" value="74"/><column index="18" value="52"/><column index="19" value="76"/><column index="20" value="66"/><column index="21" value="53"/><column index="22" value="55"/><column index="23" value="127"/><column index="24" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pitching" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="203"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="64"/><column index="9" value="57"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="58"/><column index="29" value="52"/><column index="30" value="59"/><column index="31" value="52"/><column index="32" value="52"/><column index="33" value="52"/><column index="34" value="52"/><column index="35" value="61"/><column index="36" value="152"/></column_widths><filter_values><column index="2" value="Hand"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="player_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="178"/><column index="2" value="98"/><column index="3" value="150"/><column index="4" value="82"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="roster" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="298"/><column index="2" value="126"/><column index="3" value="97"/></column_widths><filter_values><column index="2" value="WAIVE"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Batting">SELECT 
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/brian/dev/brianrfrank68.github.io/league/strat.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="4335"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:mainroster"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Appearances" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="73"/><column index="9" value="80"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="127"/><column index="31" value="152"/></column_widths><filter_values><column index="2" value="mcc"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="122"/><column index="31" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Dynasty_March_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="221"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="144"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="85"/><column index="10" value="78"/></column_widths><filter_values><column index="3" value="abram"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Fielding" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="59"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="56"/><column index="16" value="52"/><column index="17" value="74"/><column index="18" value="52"/><column index="19" value="76"/><column index="20" value="66"/><column index="21" value="53"/><column index="22" value="55"/><column index="23" value="127"/><column index="24" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pitching" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="203"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="64"/><column index="9" value="57"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="58"/><column index="29" value="52"/><column index="30" value="59"/><column index="31" value="52"/><column index="32" value="52"/><column index="33" value="52"/><column index="34" value="52"/><column index="35" value="61"/><column index="36" value="152"/></column_widths><filter_values><column index="2" value="Hand"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pitching_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="178"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="64"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="58"/><column index="29" value="52"/><column index="30" value="59"/><column index="31" value="52"/><column index="32" value="52"/><column index="33" value="52"/><column index="34" value="52"/><column index="35" value="61"/><column index="36" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="player_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="178"/><column index="2" value="98"/><column index="3" value="150"/><column index="4" value="82"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="roster" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="298"/><column index="2" value="126"/><column index="3" value="97"/></column_widths><filter_values><column index="2" value="WAIVE"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Batting">SELECT 
 flb_team_init,
 Batting.Name,
        Batting.Age,
@@ -106,12 +106,12 @@ LEFT OUTER JOIN Dynasty_Prospect_March_2024 on (player_list.player_name = Dynast
 LEFT OUTER JOIN Dynasty_Prospect_March on (player_list.player_name = Dynasty_Prospect_March.Player OR Dynasty_Prospect_March.Player = player_list.alt_name)
 WHERE 
 (
-Batting.&quot;Pos Summary&quot; LIKE '7%'
-OR Batting.&quot;Pos Summary&quot; LIKE '*7%'
-OR Batting.&quot;Pos Summary&quot; LIKE '/7%'
+Batting.&quot;Pos Summary&quot; LIKE '%'
+--OR Batting.&quot;Pos Summary&quot; LIKE '*7%'
+--OR Batting.&quot;Pos Summary&quot; LIKE '/7%'
 )
-AND roster.flb_team_init IS NULL
-AND (CAST(Batting.Age AS INT) &lt; 28 OR CAST(Batting_Value.WAR AS NUMERIC) &gt; 0)
+AND roster.flb_team_init = 'WAIVE'
+--AND (CAST(Batting.Age AS INT) &lt; 28 OR CAST(Batting_Value.WAR AS NUMERIC) &gt; 0)
 ORDER BY 
 CAST(Dynasty_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March_2024.Rank AS INT) ASC NULLS LAST, 
@@ -130,7 +130,7 @@ Batting_Value.WAR DESC, Batting.&quot;Name-additional&quot;</sql><sql name="All 
        Dynasty_Prospect_March.&quot;POS.&quot;,
        Dynasty_Prospect_March.&quot;SEC. POS.&quot;,
        Batting_2024.Tm,
---       Batting_Value.WAR,
+       Batting_Value.WAR,
        Batting_2024.G,
        Batting_2024.AB,
        Batting_2024.R,
@@ -153,7 +153,7 @@ Batting_Value.WAR DESC, Batting.&quot;Name-additional&quot;</sql><sql name="All 
 	   MainPos
   FROM Batting_2024 
 LEFT OUTER JOIN roster on Batting_2024.&quot;Name-additional&quot; = roster.player_id
---LEFT OUTER JOIN Batting_Value on Batting.&quot;Name-additional&quot; = Batting_Value.&quot;Name-additional&quot;
+LEFT OUTER JOIN Batting_Value on Batting_2024.&quot;Name-additional&quot; = Batting_Value.&quot;Name-additional&quot;
 LEFT OUTER JOIN player_list on player_list.player_id = Batting_2024.&quot;Name-additional&quot;
 LEFT OUTER JOIN Dynasty_March_2024 on (player_list.player_name = Dynasty_March_2024.Player OR Dynasty_March_2024.Player = player_list.alt_name)
 LEFT OUTER JOIN Dynasty_Prospect_March_2024 on (player_list.player_name = Dynasty_Prospect_March_2024.Player OR Dynasty_Prospect_March_2024.Player = player_list.alt_name)
@@ -166,12 +166,12 @@ Batting_2024.&quot;PosSummary&quot; LIKE '%'
 --)
 AND roster.flb_team_init = 'WAIVE'
 --AND (CAST(Batting.Age AS INT) &lt; 28 OR CAST(Batting_Value.WAR AS NUMERIC) &gt; 0)
-and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null OR Dynasty_Prospect_March.Rank is not null)
+--and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null OR Dynasty_Prospect_March.Rank is not null)
 ORDER BY 
 CAST(Dynasty_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March.Rank AS INT) ASC NULLS LAST 
---,Batting_Value.WAR DESC, Batting.&quot;Name-additional&quot;</sql><sql name="Pitcher-Type Rankings">
+--,Batting_Value.WAR DESC, Batting_2024.&quot;Name-additional&quot;</sql><sql name="Pitcher-Type Rankings">
 SELECT 
 pitching.Name,
 roster.flb_team_init,
@@ -226,7 +226,7 @@ LEFT OUTER JOIN Dynasty_Prospect_March on (player_list.player_name = Dynasty_Pro
   roster.flb_team_init = 'WAIVE'
 --  AND (CAST(Pitching.Age AS INT) &lt; 28 OR CAST(Pitching_Value.WAR AS NUMERIC) &gt; 0)
 --  AND CAST(pitching.GS AS INT) &gt; 0
-and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null)
+--and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null)
 ORDER BY CAST(Dynasty_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March.Rank AS INT) ASC NULLS LAST, 
@@ -280,8 +280,8 @@ LEFT OUTER JOIN Dynasty_Prospect_March_2024 on (player_list.player_name = Dynast
 LEFT OUTER JOIN Dynasty_Prospect_March on (player_list.player_name = Dynasty_Prospect_March.Player OR Dynasty_Prospect_March.Player = player_list.alt_name)
   --inner join fielding on fielding.player_id = pitchers.player_id
  WHERE
-  roster.flb_team_init  IS NULL
-and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null OR Dynasty_Prospect_March.Rank is not null)
+  roster.flb_team_init  = 'WAIVE'
+--and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null OR Dynasty_Prospect_March.Rank is not null)
 ORDER BY CAST(Dynasty_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March_2024.Rank AS INT) ASC NULLS LAST, 
 CAST(Dynasty_Prospect_March.Rank AS INT) ASC NULLS LAST 
@@ -355,7 +355,7 @@ select Name, &quot;Name-additional&quot;, Tm
 from Pitching_2024 where Pitching_2024.&quot;Name-additional&quot; NOT IN
 (select player_list.player_id from player_list)
 
-select *   from player_list where player_name LIKE '%*%'</sql><sql name="DNP">
+select *   from player_list where player_name LIKE '%*%'</sql><sql name="DNP 2023">
 SELECT 
 flb_team_init,
 roster.full_name
@@ -364,10 +364,83 @@ roster.full_name
  NOT EXISTS (select  Pitching.&quot;Name-additional&quot; from pitching where Pitching.&quot;Name-additional&quot; = roster.player_id)
  AND
  NOT EXISTS (select  Batting.&quot;Name-additional&quot; from Batting where Batting.&quot;Name-additional&quot; = roster.player_id)
-  ORDER BY flb_team_init, roster.full_name</sql><sql name="DNP (1)">
+  ORDER BY flb_team_init, roster.full_name</sql><sql name="Team List">
 SELECT 
 flb_team_init,
 roster.full_name
   FROM roster
  WHERE
- flb_team_init = 'WAIVE'</sql><current_tab id="4"/></tab_sql></sqlb_project>
+ flb_team_init = 'WAIVE'</sql><sql name="Pitching_2024">
+SELECT 
+flb_team_init,
+Pitching_2024.Name,
+       Age,
+       Tm,
+       W,
+       L,
+       ERA,
+       G,
+       GS,
+       GF,
+       SV,
+       IP,
+       H,
+       R,
+       ER,
+       HR,
+       BB,
+       SO,
+       FIP,
+       WHIP,
+       H9,
+       HR9,
+       BB9,
+       SO9,
+       &quot;SO/W&quot;,
+       Pitching_2024.&quot;Name-additional&quot;,
+	   MainPos AS Position
+  FROM Pitching_2024
+LEFT OUTER JOIN roster on Pitching_2024.&quot;Name-additional&quot; = roster.player_id
+LEFT OUTER JOIN player_list on player_list.player_id = Pitching_2024.&quot;Name-additional&quot;
+  --inner join fielding on fielding.player_id = pitchers.player_id
+ WHERE
+  roster.flb_team_init IS not NULL
+  ORDER BY flb_team_init, Pitching_2024.&quot;Name-additional&quot;</sql><sql name="DNP 2024">
+SELECT 
+flb_team_init,
+roster.full_name
+  FROM roster
+ WHERE
+ NOT EXISTS (select  Pitching_2024.&quot;Name-additional&quot; from Pitching_2024 where Pitching_2024.&quot;Name-additional&quot; = roster.player_id)
+ AND
+ NOT EXISTS (select  Batting_2024.&quot;Name-additional&quot; from Batting_2024 where Batting_2024.&quot;Name-additional&quot; = roster.player_id)
+  ORDER BY flb_team_init, roster.full_name</sql><sql name="Batting 2024">SELECT 
+flb_team_init,
+Batting_2024.Name,
+       Age,
+       Tm,
+       G,
+       AB,
+       R,
+       H,
+       &quot;2B&quot;,
+       &quot;3B&quot;,
+       HR,
+       RBI,
+       SB,
+       CS,
+       BB,
+       SO,
+       BA,
+       OBP,
+       SLG,
+       OPS,
+       Batting_2024.PosSummary,
+       Batting_2024.&quot;Name-additional&quot;,
+	   MainPos AS Position
+  FROM Batting_2024 
+LEFT OUTER JOIN roster on Batting_2024.&quot;Name-additional&quot; = roster.player_id
+LEFT OUTER JOIN player_list on player_list.player_id = Batting_2024.&quot;Name-additional&quot;
+WHERE 
+roster.flb_team_init IS NOT NULL
+ORDER BY flb_team_init, Batting_2024.&quot;Name-additional&quot;</sql><current_tab id="12"/></tab_sql></sqlb_project>
