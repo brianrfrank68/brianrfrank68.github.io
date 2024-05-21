@@ -1,5 +1,6 @@
 import sqlite3
 from collections import namedtuple
+from fpdf import FPDF
 
 def namedtuple_factory(cursor, row):
     fields = [column[0] for column in cursor.description]
@@ -27,12 +28,24 @@ con.row_factory = namedtuple_factory
 team_rows = get_teams()
 
 for team in team_rows:
+    batterstr = ""
+    pdf = FPDF()
+    pdf.add_page(orientation = "L")
+    pdf.set_font("Arial", size = 10)
+    pdf.cell(0, 10, txt = team.flb_team_init, ln = 1, align = 'L')
+    
     print(team.flb_team_init)
     player_rows = get_team_players(team)
     for player in player_rows:
         print(player.full_name + ":" + player.player_id)
         batter = get_batter_line(player)
-        print(batter)
+        if batter != None:
+            for ele in batter:
+                batterstr += str(ele)
+            print(batter)
+            pdf.cell(0, 10, txt = batterstr, ln = 1, align = 'L')
+
+    pdf.output("GFG.pdf") 
 
 # con.row_factory = sqlite3.Row
 # res = con.execute("SELECT * from Batting")
