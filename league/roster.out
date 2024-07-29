@@ -45,7 +45,6 @@ Jasson Dominguez,NYY
 Caleb Ferguson,LAD
 Andres Gimenez,CLE
 MacKenzie Gore,WSN
-Robbie Grossman,TEX
 Ryan Jeffers,MIN
 Clayton Kershaw,LAD
 Isiah Kiner-Falefa,NYY
@@ -53,7 +52,6 @@ Jordan Lawlar,ARI
 Dylan Lee,ATL
 Nick Lodolo,CIN
 Reynaldo Lopez,3TM
-Jorge Mateo,BAL
 Tim Mayza,TOR
 Curtis Mead,TBR
 A.J. Minter,ATL
@@ -61,12 +59,14 @@ Casey Mize,NA
 Andres Munoz,SEA
 Joe Musgrove,SDP
 Zach Neto,LAA
+David Peterson,NYM
 Cal Quantrill,CLE
 Cal Raleigh,SEA
 Harold Ramirez,TBR
 Jose Ramirez,CLE
 Bryan Reynolds,PIT
 Grayson Rodriguez,BAL
+Jose Siri,TBR
 Kyle Tucker,HOU
 Jordan Wicks,CHC
 Gavin Williams,CLE
@@ -553,9 +553,6 @@ Logan Webb,SFG
 Zack Wheeler,PHI
 Juan Yepez,STL
 
-WAIT
-Whit Merrifield,TOR
-
 WAIVE
 Tyler Alexander,DET
 Christian Bethancourt,TBR
@@ -567,6 +564,7 @@ Anthony DeSclafani,SFG
 Marco Gonzales,SEA
 Yuli Gurriel,MIA
 Trent Grisham,SDP
+Robbie Grossman,TEX
 Rich Hill,2TM
 James Kaprielian,OAK
 James Karinchak,CLE
@@ -575,14 +573,14 @@ Ramon Laureano,2TM
 Jonathan Loaisiga,NYY
 Nicky Lopez,2TM
 Trey Mancini,CHC
+Jorge Mateo,BAL
 Collin McHugh,ATL
+Whit Merrifield,TOR
 Mike Moustakas,2TM
 David Peralta,LAD
 Martin Perez,TEX
-David Peterson,NYM
 Connor Phillips,CIN
 Robbie Ray,SEA
-Jose Siri,TBR
 Donovan Solano,MIN
 Michael Soroka,ATL
 Ross Stripling,SFG
