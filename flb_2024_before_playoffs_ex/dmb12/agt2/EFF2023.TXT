@@ -1,0 +1,321 @@
+Measuring 2023 Team Efficiency
+------------------------------
+
+By Everett James
+December 10, 2023
+
+
+In this article, we’ll see what we can learn about the 2023 season by 
+examining team performance at three levels:
+
+  Level 1 – how many games did they win?
+  Level 2 – how much did they outscore their opponents?
+  Level 3 – how much did they outproduce their opponents statistically?
+
+Obviously, the results at Level 1 decide who takes home the trophies.  But 
+the results at Level 2 put you in the best position to lead the pack at 
+Level 1, and the best way to come out on top in Level 2 is to dominate at 
+Level 3.
+
+If you examine the data across many real-life seasons, you’ll see that the 
+relationships between levels are quite strong.  Runs predict wins and 
+statistical performance predicts runs to a high degree.  But not perfectly.  
+And the exceptions make for some surprising outcomes at Level 1.
+
+We use the term “team efficiency” to describe the ability to turn batting 
+events into runs and runs into wins. An efficient team is one that produces 
+more wins than expected given its run margin, produces more runs than 
+expected given its batting events, or allows fewer runs than expected given 
+the hits and walks produced by their opponents.
+
+In the 2007 edition of this article, we showed that teams that are unusually 
+efficient (or inefficient) have exhibited a strong tendency to revert to the 
+norm the next year. That is good news for some teams and unwelcome news for 
+others. If you would like to find out who falls into which category, read on.
+
+Converting runs into wins
+-------------------------
+
+The rules of baseball say that the winner of any one game is the team that 
+scores the most runs, so of course there’s a strong connection between runs 
+and wins. 
+
+Over a full season, outscoring your opponents by a lot of runs means you’re 
+very likely to win a lot of games.  Bill James used a formula that he called 
+the Pythagorean method to calculate the mostly likely win total (where RF is 
+runs for, RA is runs against, and ^2 means we’re squaring the number):
+
+                                RF^2
+  Projected wins =  Games * -----------
+                            RF^2 + RA^2
+
+Some teams come out ahead of or behind their predicted win total because of 
+an unusual distribution of runs between games.  If you play a three-game 
+series and outscore your opponents by a total of 9 runs to 6, the formula 
+predicts that you would win twice.  But it’s also possible to sweep that 
+series with three one-run victories or lose the series with a 6-1 win and 
+losses by scores of 2-1 and 3-2.  
+
+Over the course of a full season, these short-run variations tend to cancel 
+each other out, but there are exceptions, and those exceptions can play a 
+major role in the outcome of the season.
+
+Since 1962, the first year when both leagues played a 162-game schedule, 
+nearly half of all teams have finished within 2 wins of their predicted total 
+and 84% of teams have finished within 5 wins.  Most often, the exceptions 
+resulted from winning a lot of blowouts (that pad run differentials) and 
+losing a lot of close games.  Or vice versa.
+
+The biggest exception on the upside was the 2021 Seattle club that allowed 
+51 more runs than they scored and still managed to win 90 games.  Normally, 
+that run margin would produce 75 wins.
+
+The biggest exception on the downside was the 1993 Mets, who were outscored 
+by 72 runs.  That’s not a good result, but it would normally lead to an 
+almost respectable 73-89 record.  Their actual record was an ugly 59-103.
+
+In 2023, the biggest over-performers were Miami, which parlayed a run margin 
+of -57 into 84 wins and a playoff spot.  That was 10 wins more than predicted.
+Three teams – Baltimore, Detroit, and Pittsburgh – won 6 games more than 
+their run margins would normally support.
+
+The biggest under-performing team this season was San Diego, which would 
+normally be expected to cruise into the postseason with 93 wins on the back 
+of a +104 run margin.  Instead, they finished with only 82 wins and missed 
+the tournament.  Much the same could be said about their NL counterparts in 
+Chicago, who outscored their opponents by 96 runs but won only 83 games.  In 
+the AL, Texas fell 8 games short of expectations, but made up for it in 
+October.
+
+Converting offensive events into runs
+-------------------------------------
+
+Just as there is a strong relationship between runs and wins, it is also true 
+that the more walks, singles and extra-base hits you produce, the more runs 
+you score. Sometimes, of course, a productive team comes up short on the 
+scoreboard because they did not hit in the clutch, did not run the bases 
+well, or hit line drives right at people in key situations. 
+
+To shed light on this relationship, we need a way to take batting stats and 
+turn them into a measure of overall offensive production. There are several 
+good options here, including Runs Created (Bill James), Batting Runs (Pete 
+Palmer), and Base Runs (David Smyth).
+
+For this exercise, we will use the sum of total bases, walks, and hit by 
+pitch, or TB+ for short. TB+ is not a perfect measure, but it does capture 
+the most important things a team does to produce runs and it is easy to 
+figure without a computer.
+
+As with other statistics, a team's TB+ total can be heavily influenced by its 
+home park. For that reason, we focus on the difference between the TB+ 
+produced by a team's hitters and the TB+ allowed by its pitchers. This 
+effectively removes the park from the equation and helps us identify the 
+teams that outproduced their opponents by the largest margins.
+
+2023 AL
+-------
+
+The following table shows the offensive and defensive TB+ figures for the 
+2023 AL, along with the difference between these two figures and each team's 
+league rank based on those differences. It also shows runs for and against, 
+the run differential, and the rankings based on run differential.  If you 
+see a team that ranked much higher on TB+ than runs, or vice versa, that's
+an indication that the team was unusually efficient or inefficient.
+
+The second table lists each team's win total, league rank, Pythagorean win
+total, difference between actual and expected wins, and record in one-run 
+games.  
+
+                   ---------- TB+ ---------   -------- Runs ---------  
+Team                Off    Def  Diff   Rank   Off   Def   Diff   Rank  
+Baltimore          2870   2711   159     7    807   678    129     3t   
+Tampa Bay          3061   2604   457     1    860   665    195     1   
+Toronto            2936   2767   169     6    746   671     75     7   
+New York           2719   2741   -22     8    673   698    -25     9   
+Boston             2917   2979   -62     9    772   776     -4     8   
+                                 
+Minnesota          3033   2683   350     3    778   659    119     5   
+Detroit            2647   2714   -67    10    661   740    -79    11   
+Cleveland          2629   2783  -154    12    662   697    -35    10   
+Chicago            2540   3076  -536    14    641   841   -200    14   
+Kansas City        2640   3032  -392    13    676   859   -183    13   
+                                    
+Houston            3053   2833   220     5    827   698    129     3t  
+Texas              3183   2750   433     2    881   716    165     2   
+Seattle            2928   2628   300     4    758   659     99     6   
+Los Angeles        2936   3056  -120    11    739   829    -90    12   
+Oakland            2550   3287  -737    15    585   924   -339    15   
+
+Actual wins versus Pythagorean wins, record in 1-run games
+
+Team               Actual   Rank    PythW    Diff     1-run
+Baltimore           101       1       95      +6      30-16
+Tampa Bay            99       2      101      -2      22-25
+Toronto              89       5       90      -1      25-20
+New York             82       8       78      +4      17-23
+Boston               78       9t      81      -3      18-25
+                                          
+Minnesota            87       7       94      -7      19-27
+Detroit              78       9t      72      +6      21-20
+Cleveland            76      11       77      -1      27-31
+Chicago              61      13       60      +1      19-30
+Kansas City          56      14       62      -6      21-20
+                                          
+Houston              90       3t      95      -5      20-21
+Texas                90       3t      98      -8      14-22
+Seattle              88       6       92      -4      25-26
+Los Angeles          73      12       72      +1      22-21
+Oakland              50      15       46      +4      20-27
+
+Summing up for each team:
+
+Baltimore – first in wins but only seventh in TB+ differential, mainly 
+because their offense was unusually efficient (9th in offensive TB+ but 4th 
+in runs) and they excelled in one-run games ... as a result, they’re 
+unlikely to come close to 101 wins total in most DMB season replays
+
+Tampa Bay – statistically the most impressive team in the league
+
+Toronto – a good season at all three levels
+
+New York – eked out a winning season on a slightly below average TB+ 
+differential by outperforming their Pythagorean record
+
+Boston – if there’s such a thing as a respectable last-place finish, this is 
+one
+
+Minnesota – won the division comfortably, but it could have been a romp if 
+they had turned their #3 ranking in TB+ differential into the expected 
+high-90s win total
+
+Detroit – their 78 wins were a little higher than their stats would normally 
+suggest
+
+Cleveland – their run margin and wins were in line with their stats
+
+Chicago – a very bad season at all three levels
+
+Houston – very good at all three levels ... a big drop from the 2022 team 
+that produced a TB+ differential of +604 
+
+Texas – a little better than Houston in every measure except wins
+
+Seattle – statistically good enough to make the postseason
+
+Los Angeles – a below-average season at all three levels
+
+Oakland – the second-worst TB+ differential in the 162-game-season era
+
+2023 NL
+-------
+
+                   ---------- TBW ---------   -------- Runs ---------
+Team                Off   Def   Diff   Rank   Off   Def   Diff   Rank
+Atlanta            3408  2786    622     1    947   716    231     1
+Philadelphia       3034  2703    331     3    796   715     81     5t
+Miami              2705  2841   -136    10    666   723    -57    11
+New York           2816  2862    -46     8    717   729    -12     7
+Washington         2686  3193   -507    14    700   845   -145    14
+                                                               
+Milwaukee          2723  2622    101     6    728   647     81     5t
+Chicago            2963  2750    213     5    819   723     96     4
+Cincinnati         2955  3155   -200    12    783   821    -38     9
+Pittsburgh         2733  2947   -214    13    692   790    -98    12
+St. Louis          2931  3103   -172    11    719   829   -110    13
+                                                               
+Los Angeles        3241  2705    536     2    906   699    207     2
+Arizona            2817  2921   -104     9    746   761    -15     8
+San Diego          2942  2697    245     4    752   648    104     3
+San Francisco      2700  2721    -21     7    674   719    -45    10
+Colorado           2730  3376   -646    15    721   957   -236    15
+
+
+Actual wins versus Pythagorean wins, record in 1-run games
+
+Team               Actual   Rank    PythW    Diff     1-run
+Atlanta             104       1      103      +1      23-18
+Philadelphia         90       4       90       0      29-24
+Miami                84       5t      74     +10      33-14
+New York             75      12       80      -5      25-28
+Washington           71      13t      66      +5      28-21
+                                  
+Milwaukee            92       3       91      +1      29-18
+Chicago              83       7       91      -8      21-24
+Cincinnati           82       8t      77      +5      34-29
+Pittsburgh           76      11       70      +6      22-17
+St. Louis            71      13t      70      +1      17-26
+                                  
+Los Angeles         100       2      102      -2      16-15
+Arizona              84       5t      79      +5      21-21
+San Diego            82       8t      93     -11       9-23
+San Francisco        79      10       76      +3      25-19
+Colorado             59      15       59       0      23-24
+  
+Summing up for each team:
+
+Atlanta – best in the league at all three levels, and the second-best TB+ 
+differential in Atlanta history, behind only the 1998 team
+
+Philadelphia – fully worthy of their record and their deep postseason run
+
+Miami – unimpressive statistically but excellent in one-run games ... will 
+not be able to replicate their 84 wins in most DMB season replays
+
+New York – nearly a .500 team based on the underlying numbers
+
+Washington – 71 wins flattered a team that was second last in TB+ 
+diffential and run margin
+
+Milwaukee – a solid season at all three levels
+
+Chicago – shoulda been a contender ... outperformed Milwaukee in both TB+ 
+and run differential
+
+Cincinnati – their 82 wins masked a 13th place finish in TB+ differential
+
+Pittsburgh – posted a respectable win-loss record despite being third last 
+in the league in TB+ differential
+
+St. Louis – not a good season, but they might have sneaked into third place 
+in the division if their wins and runs reflected their TB+ differential
+
+Los Angeles – excellent at all three levels
+
+Arizona – like Miami, they snagged a playoff spot despite weak TB+ and run 
+differentials ... unlike Miami, they got hot in October and almost went all 
+the way
+
+San Diego – definitely one the of the league’s four best teams ... might have 
+made some noise in October had their dismal record in one-run games not kept 
+them on the sidelines
+
+San Francisco – a little below average at all three levels
+
+Colorado – historically bad ... last by a large margin at all three levels 
+in 2023 ... since 1962, only three teams have had a worse TB+ differential, 
+and all were expansion teams in their first six years of existence
+
+Rating the players
+------------------
+
+We have created a database in which all players match their real-life 
+performances when the season is simulated many times and the results are 
+averaged.
+
+But this article is about the times when the sum of the parts (the aggregate 
+performance of the players) doesn’t match the whole (the team’s win-loss 
+record).
+
+When those two things are out of sync, there is no way for DMB to accurately 
+reproduce both the player performances and the real-life win-loss records.  
+
+We could force teams to match their real-life win totals by distorting the 
+ratings of some of their players, but those distortions would be highly 
+undesirable in DMB leagues where players are drafted or traded onto new 
+rosters.
+
+Instead, we choose to rate the players accurately and accept that some teams 
+won’t match their real-life records.  In a season replay, DMB teams will 
+produce win-loss records they would have in real life had those real-life 
+teams experienced normal relationships between (a) batting events and runs 
+and (b) run differentials and wins.
