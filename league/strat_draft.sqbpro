@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/brian/dev/brianrfrank68.github.io/league/strat.db" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="0" synchronous="1"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="361"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="6603"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,14:mainfangraphs_2025"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Appearances" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="73"/><column index="9" value="80"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="August_Prospect_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="185"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="87"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="146"/><column index="10" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="BA_Top500_Dynasty" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="221"/><column index="3" value="80"/><column index="4" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Baseball-America-2025-Dynasty-Prospects-Top-150" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="185"/><column index="3" value="75"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Baseball-Americas-Top-500-Dynasty-Rankings-For-2025-1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="221"/><column index="3" value="80"/><column index="4" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="127"/><column index="31" value="152"/></column_widths><filter_values><column index="2" value="Voi"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="122"/><column index="31" value="152"/></column_widths><filter_values><column index="2" value="yand"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_LHP_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="34" mode="0"/></sort><column_widths><column index="1" value="52"/><column index="2" value="52"/><column index="3" value="221"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="52"/><column index="31" value="61"/><column index="32" value="66"/><column index="33" value="68"/><column index="34" value="173"/></column_widths><filter_values><column index="3" value="Yan"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_Value_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="69"/><column index="9" value="52"/><column index="10" value="60"/><column index="11" value="53"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="92"/><column index="18" value="90"/><column index="19" value="62"/><column index="20" value="62"/><column index="21" value="57"/><column index="22" value="88"/><column index="23" value="158"/><column index="24" value="122"/><column index="25" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Dynasty_November_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="221"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="116"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="85"/><column index="10" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Dynasty_Prospect_May_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="203"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="87"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="102"/><column index="10" value="62"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pitching_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="203"/><column index="3" value="52"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="64"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="58"/><column index="30" value="52"/><column index="31" value="59"/><column index="32" value="52"/><column index="33" value="52"/><column index="34" value="52"/><column index="35" value="52"/><column index="36" value="68"/><column index="37" value="177"/><column index="38" value="156"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fangraphs_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="63"/><column index="3" value="203"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="119"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="59"/><column index="11" value="93"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="66"/><column index="17" value="80"/><column index="18" value="79"/><column index="19" value="70"/><column index="20" value="300"/><column index="21" value="201"/><column index="22" value="126"/><column index="23" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fangraphs_2024_grad" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="63"/><column index="3" value="203"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="119"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="59"/><column index="11" value="93"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="66"/><column index="17" value="89"/><column index="18" value="79"/><column index="19" value="70"/><column index="20" value="258"/><column index="21" value="300"/><column index="22" value="121"/><column index="23" value="82"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fangraphs_2025" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="63"/><column index="3" value="199"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="119"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="59"/><column index="11" value="93"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="66"/><column index="17" value="80"/><column index="18" value="79"/><column index="19" value="70"/><column index="20" value="300"/><column index="21" value="300"/><column index="22" value="123"/><column index="23" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="player_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="1"/></sort><column_widths><column index="1" value="178"/><column index="2" value="98"/><column index="3" value="150"/><column index="4" value="82"/><column index="5" value="122"/><column index="6" value="96"/></column_widths><filter_values><column index="1" value="garcia"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="roster" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="221"/><column index="2" value="126"/><column index="3" value="97"/></column_widths><filter_values><column index="2" value="KSS"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Batting">SELECT 
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/brian/dev/brianrfrank68.github.io/league/strat.db" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="0" synchronous="1"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="361"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="6603"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:mainroster"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Appearances" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="73"/><column index="9" value="80"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="August_Prospect_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="185"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="87"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="146"/><column index="10" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="BA_Top500_Dynasty" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="221"/><column index="3" value="80"/><column index="4" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Baseball-America-2025-Dynasty-Prospects-Top-150" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="185"/><column index="3" value="75"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Baseball-Americas-Top-500-Dynasty-Rankings-For-2025-1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="221"/><column index="3" value="80"/><column index="4" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="127"/><column index="31" value="152"/></column_widths><filter_values><column index="2" value="Voi"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="59"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="122"/><column index="31" value="152"/></column_widths><filter_values><column index="2" value="yand"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_LHP_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="34" mode="0"/></sort><column_widths><column index="1" value="52"/><column index="2" value="52"/><column index="3" value="221"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="52"/><column index="30" value="52"/><column index="31" value="61"/><column index="32" value="66"/><column index="33" value="68"/><column index="34" value="173"/></column_widths><filter_values><column index="3" value="Yan"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Batting_Value_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="221"/><column index="3" value="52"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="69"/><column index="9" value="52"/><column index="10" value="60"/><column index="11" value="53"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="92"/><column index="18" value="90"/><column index="19" value="62"/><column index="20" value="62"/><column index="21" value="57"/><column index="22" value="88"/><column index="23" value="158"/><column index="24" value="122"/><column index="25" value="152"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Dynasty_November_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="221"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="116"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="85"/><column index="10" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Dynasty_Prospect_May_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="74"/><column index="3" value="203"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="87"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="102"/><column index="10" value="62"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pitching_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="203"/><column index="3" value="52"/><column index="4" value="56"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="64"/><column index="10" value="52"/><column index="11" value="52"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="52"/><column index="17" value="52"/><column index="18" value="52"/><column index="19" value="52"/><column index="20" value="52"/><column index="21" value="52"/><column index="22" value="52"/><column index="23" value="52"/><column index="24" value="52"/><column index="25" value="52"/><column index="26" value="52"/><column index="27" value="52"/><column index="28" value="52"/><column index="29" value="58"/><column index="30" value="52"/><column index="31" value="59"/><column index="32" value="52"/><column index="33" value="52"/><column index="34" value="52"/><column index="35" value="52"/><column index="36" value="68"/><column index="37" value="177"/><column index="38" value="156"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="draft_import" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="117"/><column index="2" value="87"/><column index="3" value="96"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fangraphs_2024" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="63"/><column index="3" value="203"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="119"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="59"/><column index="11" value="93"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="66"/><column index="17" value="80"/><column index="18" value="79"/><column index="19" value="70"/><column index="20" value="300"/><column index="21" value="201"/><column index="22" value="126"/><column index="23" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fangraphs_2024_grad" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="63"/><column index="3" value="203"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="119"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="59"/><column index="11" value="93"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="66"/><column index="17" value="89"/><column index="18" value="79"/><column index="19" value="70"/><column index="20" value="258"/><column index="21" value="300"/><column index="22" value="121"/><column index="23" value="82"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fangraphs_2025" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="75"/><column index="2" value="63"/><column index="3" value="199"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="119"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="52"/><column index="10" value="59"/><column index="11" value="93"/><column index="12" value="52"/><column index="13" value="52"/><column index="14" value="52"/><column index="15" value="52"/><column index="16" value="66"/><column index="17" value="80"/><column index="18" value="79"/><column index="19" value="70"/><column index="20" value="300"/><column index="21" value="300"/><column index="22" value="123"/><column index="23" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="player_list" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="1"/></sort><column_widths><column index="1" value="178"/><column index="2" value="98"/><column index="3" value="150"/><column index="4" value="82"/><column index="5" value="122"/><column index="6" value="96"/></column_widths><filter_values><column index="1" value="garcia"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="roster" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="1"/></sort><column_widths><column index="1" value="221"/><column index="2" value="126"/><column index="3" value="97"/></column_widths><filter_values><column index="1" value="candel"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Batting">SELECT 
 --flb_team_init,
 Batting.Player,
        Batting.Age,
@@ -121,10 +121,10 @@ roster.flb_team_init,
 Batting_2024.&quot;Pos&quot;,
        Batting_2024.OPS,
 	   Batting_RHP_2024.OPS AS OPS_R,
-	   Batting_LHP_2024.OPS AS OPS_L,
-	   	   	   Batting_1H_2024.OPS AS OPS_1ST,
-	   Batting_2H_2024.OPS AS OPS_2ND,
-	   Batting_2H_2024.OPS - Batting_1H_2024.OPS AS OPS_DIFF,
+	   Batting_LHP_2024.OPS AS OPS_L,
+	   	   	   Batting_1H_2024.OPS AS OPS_1ST,
+	   Batting_2H_2024.OPS AS OPS_2ND,
+	   Batting_2H_2024.OPS - Batting_1H_2024.OPS AS OPS_DIFF,
        Dynasty_November_2024.Rank,
        Dynasty_November_2024.&quot;POS.&quot;,
        December_Prospect_2024.Rank,
@@ -161,8 +161,8 @@ LEFT OUTER JOIN Dynasty_November_2024 on (player_list.player_name = Dynasty_Nove
 LEFT OUTER JOIN December_Prospect_2024 on (player_list.player_name = December_Prospect_2024.Player OR December_Prospect_2024.Player = player_list.alt_name)
 LEFT OUTER JOIN Batting_RHP_2024 on Batting_RHP_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
 LEFT OUTER JOIN Batting_LHP_2024 on Batting_LHP_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
-LEFT OUTER JOIN Batting_1H_2024 on Batting_1H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
+LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
+LEFT OUTER JOIN Batting_1H_2024 on Batting_1H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
 LEFT OUTER JOIN Batting_2H_2024 on Batting_2H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
 WHERE 
 (
@@ -382,9 +382,9 @@ roster.full_name
   ORDER BY flb_team_init, roster.full_name</sql><sql name="Pitching_2024">
 SELECT 
 flb_team_init,
-Pitching_2024.Name,
-       Age,
-       Tm,
+Pitching_2024.Player,
+       Age,
+	   Team,
        W,
        L,
        ERA,
@@ -405,16 +405,16 @@ Pitching_2024.Name,
        HR9,
        BB9,
        SO9,
-       &quot;SO/W&quot;,
-       Pitching_2024.&quot;Name-additional&quot;,
+       --&quot;SO/W&quot;,
+Pitching_2024.&quot;Player-additional&quot;,
 	   MainPos AS Position
   FROM Pitching_2024
-LEFT OUTER JOIN roster on Pitching_2024.&quot;Name-additional&quot; = roster.player_id
-LEFT OUTER JOIN player_list on player_list.player_id = Pitching_2024.&quot;Name-additional&quot;
+LEFT OUTER JOIN roster on Pitching_2024.&quot;Player-additional&quot; = roster.player_id
+LEFT OUTER JOIN player_list on player_list.player_id = Pitching_2024.&quot;Player-additional&quot;
   --inner join fielding on fielding.player_id = pitchers.player_id
  WHERE
   roster.flb_team_init IS not NULL
-  ORDER BY flb_team_init, Pitching_2024.&quot;Name-additional&quot;</sql><sql name="DNP 2024">
+  ORDER BY flb_team_init, Pitching_2024.&quot;Player-additional&quot;</sql><sql name="DNP 2024">
 SELECT 
 flb_team_init,
 roster.full_name
@@ -444,8 +444,8 @@ Batting_2024.Player,
        Batting_2024.OBP,
        Batting_2024.SLG,
        Batting_2024.OPS,
-	   Batting_RHP_2024.OPS AS OPS_R,
-	   Batting_LHP_2024.OPS AS OPS_L,
+--	   Batting_RHP_2024.OPS AS OPS_R,
+--	   Batting_LHP_2024.OPS AS OPS_L,
        Batting_2024.Pos,
        Batting_2024.&quot;Player-additional&quot;,
 	   MainPos AS Position
@@ -454,9 +454,8 @@ LEFT OUTER JOIN roster on Batting_2024.&quot;Player-additional&quot; = roster.pl
 LEFT OUTER JOIN player_list on player_list.player_id = Batting_2024.&quot;Player-additional&quot;
 LEFT OUTER JOIN Batting_RHP_2024 on Batting_RHP_2024.&quot;Player-additional&quot; = roster.player_id
 LEFT OUTER JOIN Batting_LHP_2024 on Batting_LHP_2024.&quot;Player-additional&quot; = roster.player_id
-WHERE 
-roster.flb_team_init = &quot;BFP&quot;
-ORDER BY Batting_LHP_2024.OPS DESC, flb_team_init, Batting_2024.&quot;Player-additional&quot;</sql><sql name="Clean Table">Delete from Batting_2024 where Batting_2024.Pos IN ('1', '/1', '/1H', '1/H');
+WHERE flb_team_init IS NOT NULL
+ORDER BY flb_team_init, Batting_2024.&quot;Player-additional&quot;</sql><sql name="Clean Table">Delete from Batting_2024 where Batting_2024.Pos IN ('1', '/1', '/1H', '1/H');
 
 DELETe from Pitching_2024 WHERE Pitching_2024.[Player-additional] in (select Batting_2024.[Player-additional] from Batting_2024)
 </sql><sql name="Update Player List">INSERT INTO player_list (player_name, player_id, mlb_team)
@@ -692,43 +691,43 @@ CAST(BP_Rank AS INT) ASC NULLS LAST,
 CAST(BA_Rank AS INT) ASC NULLS LAST, 
 CAST(Prospect_Rank AS INT) ASC NULLS LAST,
 WAR DESC, &quot;Player-additional&quot;
-</sql><sql name="Batter Half Breakdwon">SELECT Batting_2024.Player,
+</sql><sql name="Draft Batters">SELECT Batting_2024.Player,
 roster.flb_team_init,
 Batting_2024.&quot;Pos&quot;,
-       Batting_2024.OPS,
+roster_resource.ProjPA,
+roster_resource.ProjectedOpeningDayStatus,
+roster_resource.Age,
+roster_resource.Pos,
+roster_resource.Team,
 	   Batting_RHP_2024.OPS AS OPS_R,
 	   Batting_LHP_2024.OPS AS OPS_L,
-	   	   Batting_1H_2024.OPS AS OPS_1ST,
+	   	   	   Batting_1H_2024.OPS AS OPS_1ST,
 	   Batting_2H_2024.OPS AS OPS_2ND,
-	   Batting_2H_2024.OPS - Batting_1H_2024.OPS AS OPS_DIFF,
-       Batting_2024.Age,
+	   ROUND(Batting_2H_2024.OPS - Batting_1H_2024.OPS, 3) AS OPS_DIFF,
        Dynasty_November_2024.Rank,
        Dynasty_November_2024.&quot;POS.&quot;,
        December_Prospect_2024.Rank,
        December_Prospect_2024.&quot;POS.&quot;,
        BA_Top500_Dynasty.Rank,
        BA_Top500_Dynasty.Position,
-       Batting_2024.Team,
+	   fangraphs_2024.FV,
+	   fangraphs_2024.Top100,
+	   	   fangraphs_2024.Risk,
+		   	   fangraphs_2024_grad.FV,
+	   fangraphs_2024_grad.Top100,
+	   	   fangraphs_2024_grad.Risk,
+		   		   	   fangraphs_2025.FV,
+	   	   fangraphs_2025.Risk,
        Batting_Value_2024.WAR,
-       Batting_2024.G,
        Batting_2024.AB,
-       Batting_2024.R,
-       Batting_2024.H,
-       Batting_2024.&quot;2B&quot;,
-       Batting_2024.&quot;3B&quot;,
        Batting_2024.HR,
-       Batting_2024.RBI,
        Batting_2024.SB,
-       Batting_2024.CS,
-       Batting_2024.BB,
-       Batting_2024.SO,
        Batting_2024.BA,
        Batting_2024.OBP,
        Batting_2024.SLG,
        Batting_2024.OPS,
        Batting_2024.&quot;Pos&quot;,
        --Fielding.&quot;Pos Summary&quot;,
-       Batting_2024.&quot;Player-additional&quot;,
 	   MainPos
   FROM Batting_2024 
 LEFT OUTER JOIN roster on Batting_2024.&quot;Player-additional&quot; = roster.player_id
@@ -738,91 +737,22 @@ LEFT OUTER JOIN Dynasty_November_2024 on (player_list.player_name = Dynasty_Nove
 LEFT OUTER JOIN December_Prospect_2024 on (player_list.player_name = December_Prospect_2024.Player OR December_Prospect_2024.Player = player_list.alt_name)
 LEFT OUTER JOIN Batting_RHP_2024 on Batting_RHP_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
 LEFT OUTER JOIN Batting_LHP_2024 on Batting_LHP_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
+LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
 LEFT OUTER JOIN Batting_1H_2024 on Batting_1H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
 LEFT OUTER JOIN Batting_2H_2024 on Batting_2H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
+LEFT OUTER JOIN roster_resource on (player_list.player_name = roster_resource.Name OR roster_resource.Name = player_list.alt_name)
+LEFT OUTER JOIN fangraphs_2024 on (player_list.player_name = fangraphs_2024.Name OR fangraphs_2024.Name = player_list.alt_name)
+LEFT OUTER JOIN fangraphs_2024_grad on (player_list.player_name = fangraphs_2024_grad.Name OR fangraphs_2024_grad.Name = player_list.alt_name)
+LEFT OUTER JOIN fangraphs_2025 on (player_list.player_name = fangraphs_2025.Name OR fangraphs_2025.Name = player_list.alt_name)
 WHERE 
 (
 --Batting_2024.&quot;Pos&quot; LIKE '%3%' 
 
-Batting_2024.&quot;Pos&quot; LIKE '%'
-OR Batting_2024.&quot;Pos&quot; LIKE '*5%'
-OR Batting_2024.&quot;Pos&quot; LIKE '/5%'
+Batting_2024.&quot;Pos&quot; LIKE '3%'
+OR Batting_2024.&quot;Pos&quot; LIKE '*3%'
+OR Batting_2024.&quot;Pos&quot; LIKE '/3%'
 )
-AND (roster.flb_team_init IS NULL OR roster.flb_team_init = 'BFP')
---AND (CAST(Batting_2024.Age AS INT) &lt; 28 OR CAST(Batting_Value_2024.WAR AS NUMERIC) &gt; 0)
---AND (CAST(Batting_Value_2024.WAR AS NUMERIC) &gt; 0.8)
-AND (CAST(Batting_2024.AB AS INT) &gt; 200)
---AND Batting_LHP_2024.OPS &gt; .740
-and (BA_Top500_Dynasty.Rank is not null OR December_Prospect_2024.Rank is not null OR Dynasty_November_2024.Rank is not null OR CAST(Batting_Value_2024.WAR AS NUMERIC) &gt; 0.7)
-ORDER BY
-Batting_2H_2024.OPS - Batting_1H_2024.OPS DESC,
---Batting_RHP_2024.OPS DESC, 
-CAST(BA_Top500_Dynasty.Rank AS INT) ASC NULLS LAST, 
-CAST(Dynasty_November_2024.Rank AS INT) ASC NULLS LAST, 
-CAST(December_Prospect_2024.Rank AS INT) ASC NULLS LAST, 
-Batting_Value_2024.WAR DESC, Batting_2024.&quot;Player-additional&quot;</sql><sql name="Draft Batters">SELECT Batting_2024.Player,
-roster.flb_team_init,
-Batting_2024.&quot;Pos&quot;,
-roster_resource.ProjPA,
-roster_resource.ProjectedOpeningDayStatus,
-roster_resource.Age,
-roster_resource.Pos,
-roster_resource.Team,
-	   Batting_RHP_2024.OPS AS OPS_R,
-	   Batting_LHP_2024.OPS AS OPS_L,
-	   	   	   Batting_1H_2024.OPS AS OPS_1ST,
-	   Batting_2H_2024.OPS AS OPS_2ND,
-	   ROUND(Batting_2H_2024.OPS - Batting_1H_2024.OPS, 3) AS OPS_DIFF,
-       Dynasty_November_2024.Rank,
-       Dynasty_November_2024.&quot;POS.&quot;,
-       December_Prospect_2024.Rank,
-       December_Prospect_2024.&quot;POS.&quot;,
-       BA_Top500_Dynasty.Rank,
-       BA_Top500_Dynasty.Position,
-	   fangraphs_2024.FV,
-	   fangraphs_2024.Top100,
-	   	   fangraphs_2024.Risk,
-		   	   fangraphs_2024_grad.FV,
-	   fangraphs_2024_grad.Top100,
-	   	   fangraphs_2024_grad.Risk,
-		   		   	   fangraphs_2025.FV,
-	   	   fangraphs_2025.Risk,
-       Batting_Value_2024.WAR,
-       Batting_2024.AB,
-       Batting_2024.HR,
-       Batting_2024.SB,
-       Batting_2024.BA,
-       Batting_2024.OBP,
-       Batting_2024.SLG,
-       Batting_2024.OPS,
-       Batting_2024.&quot;Pos&quot;,
-       --Fielding.&quot;Pos Summary&quot;,
-	   MainPos
-  FROM Batting_2024 
-LEFT OUTER JOIN roster on Batting_2024.&quot;Player-additional&quot; = roster.player_id
-LEFT OUTER JOIN Batting_Value_2024 on Batting_2024.&quot;Player-additional&quot; = Batting_Value_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN player_list on player_list.player_id = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN Dynasty_November_2024 on (player_list.player_name = Dynasty_November_2024.Player OR Dynasty_November_2024.Player = player_list.alt_name)
-LEFT OUTER JOIN December_Prospect_2024 on (player_list.player_name = December_Prospect_2024.Player OR December_Prospect_2024.Player = player_list.alt_name)
-LEFT OUTER JOIN Batting_RHP_2024 on Batting_RHP_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN Batting_LHP_2024 on Batting_LHP_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
-LEFT OUTER JOIN Batting_1H_2024 on Batting_1H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN Batting_2H_2024 on Batting_2H_2024.&quot;Player-additional&quot; = Batting_2024.&quot;Player-additional&quot;
-LEFT OUTER JOIN roster_resource on (player_list.player_name = roster_resource.Name OR roster_resource.Name = player_list.alt_name)
-LEFT OUTER JOIN fangraphs_2024 on (player_list.player_name = fangraphs_2024.Name OR fangraphs_2024.Name = player_list.alt_name)
-LEFT OUTER JOIN fangraphs_2024_grad on (player_list.player_name = fangraphs_2024_grad.Name OR fangraphs_2024_grad.Name = player_list.alt_name)
-LEFT OUTER JOIN fangraphs_2025 on (player_list.player_name = fangraphs_2025.Name OR fangraphs_2025.Name = player_list.alt_name)
-WHERE 
-(
---Batting_2024.&quot;Pos&quot; LIKE '%3%' 
-
-Batting_2024.&quot;Pos&quot; LIKE '%'
-OR Batting_2024.&quot;Pos&quot; LIKE '*5%'
-OR Batting_2024.&quot;Pos&quot; LIKE '/5%'
-)
-AND (roster.flb_team_init IS NULL OR roster.flb_team_init = 'BFP')
+AND (roster.flb_team_init IS NOT NULL)
 --AND (CAST(Batting_2024.Age AS INT) &lt; 28 OR CAST(Batting_Value_2024.WAR AS NUMERIC) &gt; 0)
 --AND (CAST(Batting_Value_2024.WAR AS NUMERIC) &gt; 0.8)
 --AND (CAST(Batting_2024.AB AS INT) &gt; 200)
@@ -830,31 +760,29 @@ AND (roster.flb_team_init IS NULL OR roster.flb_team_init = 'BFP')
 and (BA_Top500_Dynasty.Rank is not null OR December_Prospect_2024.Rank is not null OR Dynasty_November_2024.Rank is not null OR CAST(Batting_Value_2024.WAR AS NUMERIC) &gt; 0.7 OR CAST(roster_resource.ProjPA As INT) &gt; 200)
 ORDER BY
 --Batting_RHP_2024.OPS DESC, 
-CAST(BA_Top500_Dynasty.Rank AS INT) ASC NULLS LAST, 
-CAST(Dynasty_November_2024.Rank AS INT) ASC NULLS LAST, 
-CAST(December_Prospect_2024.Rank AS INT) ASC NULLS LAST, 
+CAST(Dynasty_November_2024.Rank AS INT) ASC NULLS LAST, 
+CAST(December_Prospect_2024.Rank AS INT) ASC NULLS LAST, 
+CAST(BA_Top500_Dynasty.Rank AS INT) ASC NULLS LAST, 
 Batting_Value_2024.WAR DESC, Batting_2024.&quot;Player-additional&quot;</sql><sql name="Draft Pitchers">SELECT Pitching_2024.Player,
 roster.flb_team_init,
-roster_resource.ProjIP,
-roster_resource.ProjectedOpeningDayStatus,
-roster_resource.Age,
-roster_resource.Pos,
+roster_resource.ProjIP,
+roster_resource.ProjectedOpeningDayStatus,
+roster_resource.Age,
+roster_resource.Pos,
 roster_resource.Team,
        Dynasty_November_2024.Rank,
        Dynasty_November_2024.&quot;POS.&quot;,
-       Dynasty_November_2024.&quot;SEC.POS.&quot;,
        December_Prospect_2024.Rank,
        December_Prospect_2024.&quot;POS.&quot;,
-       December_Prospect_2024.&quot;SEC.POS.&quot;,
        BA_Top500_Dynasty.Rank,
        BA_Top500_Dynasty.Position,
-	   fangraphs_2024.FV,
-	   fangraphs_2024.Top100,
-	   	   fangraphs_2024.Risk,
-		   	   fangraphs_2024_grad.FV,
-	   fangraphs_2024_grad.Top100,
-	   	   fangraphs_2024_grad.Risk,
-		   		   	   fangraphs_2025.FV,
+	   fangraphs_2024.FV,
+	   fangraphs_2024.Top100,
+	   	   fangraphs_2024.Risk,
+		   	   fangraphs_2024_grad.FV,
+	   fangraphs_2024_grad.Top100,
+	   	   fangraphs_2024_grad.Risk,
+		   		   	   fangraphs_2025.FV,
 	   	   fangraphs_2025.Risk,
        Pitching_Value_2024.WAR,
        Pitching_2024.ERA,
@@ -871,15 +799,15 @@ LEFT OUTER JOIN Pitching_Value_2024 on pitching_2024.&quot;Player-additional&quo
 LEFT OUTER JOIN player_list on player_list.player_id = Pitching_2024.&quot;Player-additional&quot;
 LEFT OUTER JOIN Dynasty_November_2024 on (player_list.player_name = Dynasty_November_2024.Player OR Dynasty_November_2024.Player = player_list.alt_name)
 LEFT OUTER JOIN December_Prospect_2024 on (player_list.player_name = December_Prospect_2024.Player OR December_Prospect_2024.Player = player_list.alt_name)
-LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
-LEFT OUTER JOIN roster_resource on (player_list.player_name = roster_resource.Name OR roster_resource.Name = player_list.alt_name)
-LEFT OUTER JOIN fangraphs_2024 on (player_list.player_name = fangraphs_2024.Name OR fangraphs_2024.Name = player_list.alt_name)
-LEFT OUTER JOIN fangraphs_2024_grad on (player_list.player_name = fangraphs_2024_grad.Name OR fangraphs_2024_grad.Name = player_list.alt_name)
+LEFT OUTER JOIN BA_Top500_Dynasty ON (player_list.player_name = BA_Top500_Dynasty.Player OR BA_Top500_Dynasty.Player = player_list.alt_name)
+LEFT OUTER JOIN roster_resource on (player_list.player_name = roster_resource.Name OR roster_resource.Name = player_list.alt_name)
+LEFT OUTER JOIN fangraphs_2024 on (player_list.player_name = fangraphs_2024.Name OR fangraphs_2024.Name = player_list.alt_name)
+LEFT OUTER JOIN fangraphs_2024_grad on (player_list.player_name = fangraphs_2024_grad.Name OR fangraphs_2024_grad.Name = player_list.alt_name)
 LEFT OUTER JOIN fangraphs_2025 on (player_list.player_name = fangraphs_2025.Name OR fangraphs_2025.Name = player_list.alt_name)
   --inner join fielding on fielding.player_id = pitchers.player_id
  WHERE
  --CAST(Pitching_2024.GS AS INT) * 2 &gt;= CAST(Pitching_2024.G AS INT)
-     (roster.flb_team_init  is null)
+     (roster.flb_team_init  is null OR roster.flb_team_init = 'BFZ')
 	 and (BA_Top500_Dynasty.Rank is not null OR December_Prospect_2024.Rank is not null OR Dynasty_November_2024.Rank is not null OR CAST(Pitching_Value_2024.WAR AS NUMERIC) &gt; 0.7 OR CAST(roster_resource.ProjIP As INT) &gt; 40)
 --and (Dynasty_March_2024.Rank is not null OR Dynasty_Prospect_March_2024.Rank is not null OR Dynasty_Prospect_March.Rank is not null)
 ORDER BY 
@@ -887,4 +815,8 @@ CAST(Dynasty_November_2024.Rank AS INT) ASC NULLS LAST,
 CAST(BA_Top500_Dynasty.Rank AS INT) ASC NULLS LAST, 
 CAST(December_Prospect_2024.Rank AS INT) ASC NULLS LAST, 
 Pitching_Value_2024.WAR DESC, pitching_2024.&quot;Player-additional&quot;
-</sql><current_tab id="20"/></tab_sql></sqlb_project>
+</sql><sql name="Draft Import">
+INSERT INTO roster (full_name, flb_team_init, player_id)
+SELECT player_list.player_name, draft_import.TeamInit, draft_import.Playerid
+from draft_import
+INNER JOIN player_list ON draft_import.Playerid = player_list.player_id</sql><current_tab id="10"/></tab_sql></sqlb_project>
