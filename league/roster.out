@@ -71,11 +71,9 @@ Cal Raleigh,SEA
 Luke Raley,TBR
 Jose Ramirez,CLE
 Heliot Ramos,SFG
-Brendan Rodgers,COL
 Grayson Rodriguez,BAL
 Kyle Tucker,HOU
 Ryan Walker,SFG
-Jordan Wicks,CHC
 Gavin Williams,CLE
 Bryan Woo,SEA
 
@@ -121,7 +119,6 @@ James Wood,WSN
 Brandon Woodruff,MIL
 
 DHL
-Adbert Alzolay,CHC
 Spencer Arrighetti,HOU
 Harrison Bader,2TM
 Patrick Bailey,SFG
@@ -139,7 +136,6 @@ Tyler Glasnow,TBR
 Hunter Greene,CIN
 Tanner Houck,BOS
 Eloy Jimenez,CHW
-Kevin Kiermaier,TOR
 Craig Kimbrel,PHI
 Michael Lorenzen,2TM
 Justin Martinez,ARI
@@ -415,7 +411,6 @@ Pete Alonso,NYM
 Alex Call,WSN
 Aroldis Chapman,2TM
 JT Chargois,MIA
-Alex Cobb,SFG
 Enyel De Los Santos,CLE
 Yandy Diaz,TBR
 Pete Fairbanks,TBR
@@ -447,8 +442,6 @@ Eddie Rosario,ATL
 Luis Severino,NYY
 Albert Suárez,BAL
 Jose Urquidy,HOU
-Gio Urshela,LAA
-Justin Verlander,2TM
 Taijuan Walker,PHI
 Trevor Williams,WSN
 Josh Winckowski,BOS
@@ -474,12 +467,10 @@ Nico Hoerner,CHC
 Jackson Holliday,BAL
 Raisel Iglesias,ATL
 Cristian Javier,HOU
-Eric Lauer,MIL
 Justin Lawrence,COL
 Lance Lynn,2TM
 Alec Marsh,KCR
 Matt McLain,CIN
-Francisco Mejia,TBR
 Tobias Myers,MIL
 Andy Pages,LAD
 Freddy Peralta,MIL
@@ -500,7 +491,6 @@ Ernie Clement,TOR
 Jake Cronenworth,SDP
 Elly De La Cruz,CIN
 Elias Diaz,COL
-Thairo Estrada,SFG
 Dylan Floro,2TM
 Max Fried,ATL
 David Fry,CLE
@@ -510,8 +500,6 @@ Pierce Johnson,2TM
 Max Kepler,MIN
 Jorge Lopez,3TM
 Max Muncy,LAD
-Bo Naylor,CLE
-James Paxton,BOS
 A.J. Puk,MIA
 Trevor Richards,TOR
 David Robertson,2TM
@@ -611,6 +599,21 @@ Christian Walker,ARI
 Logan Webb,SFG
 Zack Wheeler,PHI
 Juan Yepez,STL
+
+WAIVE
+Adbert Alzolay,CHC
+Alex Cobb,SFG
+Thairo Estrada,SFG
+Kevin Kiermaier,TOR
+Eric Lauer,MIL
+Francisco Mejia,TBR
+Bo Naylor,CLE
+James Paxton,BOS
+Brendan Rodgers,COL
+Mitch Spence,OAK
+Gio Urshela,LAA
+Justin Verlander,2TM
+Jordan Wicks,CHC
 
 ZMG
 Bryan Abreu,HOU
