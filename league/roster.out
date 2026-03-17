@@ -32,19 +32,21 @@ Miguel Vargas,LAD
 Justin Verlander,2TM
 
 BFP
+Roman Anthony*,BOS
 Corbin Burnes,MIL
 Edward Cabrera,MIA
 Junior Caminero,TBR
 Corbin Carroll,ARI
 Jackson Chourio,MIL
-Rafael Devers,BOS
 Edwin Diaz,NA
 Jasson Dominguez,NYY
 Maikel Garcia,KCR
 Andres Gimenez,CLE
+Hogan Harris,OAK
 Griffin Jax,MIN
 Ryan Jeffers,MIN
 Jackson Jobe,DET
+Nick Kurtz*,ATH
 Jordan Lawlar,ARI
 Dylan Lee,ATL
 Otto Lopez,MIA
@@ -52,13 +54,14 @@ Reynaldo Lopez,3TM
 Andres Munoz,SEA
 Ceddanne Rafaela,BOS
 Cal Raleigh,SEA
-Jose Ramirez,CLE
 Carlos Rodon,NYY
 Grayson Rodriguez,BAL
+Miguel Rojas,LAD
 Framber Valdez,HOU
 Ryan Walker,SFG
 Zack Wheeler,PHI
 Gavin Williams,CLE
+Masyn Winn,STL
 Bryan Woo,SEA
 
 CEC
@@ -90,7 +93,6 @@ Edwin Uceta,NYM
 Alex Vesia,LAD
 Mark Vientos,NYM
 Jacob Wilson,OAK
-Masyn Winn,STL
 James Wood,WSN
 Brandon Woodruff,MIL
 
@@ -117,7 +119,7 @@ Shohei Ohtani,LAA
 Steven Okert,MIA
 Matt Olson,ATL
 David Peterson,NYM
-Randy Rodrï¿½guez,SFG
+Randy Rodríguez,SFG
 Spencer Schwellenbach,ATL
 Jeffrey Springs,TBR
 Fernando Tatis Jr.,SDP
@@ -154,7 +156,6 @@ Ryan Mountcastle,BAL
 Julio Rodriguez,SEA
 Keibert Ruiz,WSN
 Joe Ryan,MIN
-Tanner Scott,MIA
 Cade Smith,CLE
 Matt Strahm,PHI
 Kyle Tucker,HOU
@@ -166,7 +167,7 @@ Nolan Arenado,STL
 Josh Bell,2TM
 Brayan Bello,BOS
 Tanner Bibee,CLE
-Josï¿½ Caballero,SEA
+José Caballero,SEA
 Jazz Chisholm Jr.,MIA
 Aaron Civale,2TM
 J.P. Crawford,SEA
@@ -206,13 +207,10 @@ Jarren Duran,BOS
 Jhoan Duran,MIN
 Xavier Edwards,MIA
 Lucas Erceg,OAK
-Jeremiah Estrada,CHC
 Jake Fraley,CIN
 Ivan Herrera,STL
 Kyle Higashioka,NYY
-Adrian Houser,MIL
-Jace Jung,DET
-Zack Littell,2TM
+Edouard Julien,MIN
 Jesus Luzardo,MIA
 Manny Machado,SDP
 Chris Martin,BOS
@@ -228,11 +226,11 @@ Trea Turner,PHI
 KLO
 Jo Adell,LAA
 Graham Ashcraft,CIN
+Taj Bradley,TBR
 Dylan Carlson,STL
 Evan Carter,TEX
 Zach Eflin,TBR
 Luis Garcia,WSN
-Nolan Gorman,STL
 Orion Kerkering,PHI
 Royce Lewis,MIN
 Matthew Liberatore,STL
@@ -283,7 +281,7 @@ Matt Moore,3TM
 Aaron Nola,PHI
 Zach Plesac,CLE
 Taylor Rogers,SFG
-Josï¿½ Soriano,LAA
+José Soriano,LAA
 Juan Soto,SDP
 Myles Straw,CLE
 Ranger Suarez,PHI
@@ -296,31 +294,40 @@ CJ Abrams,WSN
 Logan Allen,CLE
 Tyler Anderson,LAA
 Orlando Arcia,ATL
-Taj Bradley,TBR
-Jake Burger,2TM
 Lawrence Butler,OAK
+Jeimer Candelario,2TM
+Rafael Devers,BOS
+Jeremiah Estrada,CHC
+Pete Fairbanks,TBR
 Bowden Francis,TOR
 Zack Gelof,OAK
+Nolan Gorman,STL
+Austin Hays,BAL
 Spencer Horwitz,TOR
+Jose Iglesias,NYM
+Jace Jung,DET
 Mitch Keller,PIT
 Kevin Kelly,TBR
-Clayton Kershaw,LAD
+Andrew Kittredge,TBR
 Michael Kopech,CHW
 Dean Kremer,BAL
 Ben Lively,CIN
-Gavin Lux,NA
 Kyle Manzardo,CLE
+Nick Martinez,SDP
 Ryan McMahon,COL
 Jackson Merrill,SDP
 Sean Murphy,ATL
 Ryan O'Hearn,BAL
 Jorge Polanco,MIN
-Jurickson Profar,2TM
 Jose Quintana,NYM
-Luke Raley,TBR
-Bryan Reynolds,PIT
+Jose Ramirez,CLE
+Colin Rea,MIL
 Adley Rutschman,BAL
+Tanner Scott,MIA
+Luis Severino,NYY
 Ryne Stanek,HOU
+Brent Suter,COL
+Taylor Ward,LAA
 Ryan Yarbrough,2TM
 Mike Yastrzemski,SFG
 Kirby Yates,ATL
@@ -330,17 +337,15 @@ Jason Adam,TBR
 Alex Call,WSN
 Aroldis Chapman,2TM
 Yandy Diaz,TBR
-Pete Fairbanks,TBR
 Freddy Fermin,KCR
-Hogan Harris,OAK
 Teoscar Hernandez,SEA
-Jose Iglesias,NYM
+Adrian Houser,MIL
 Jonathan India,CIN
 Ha-Seong Kim,SDP
-Andrew Kittredge,TBR
+Zack Littell,2TM
+Gavin Lux,NA
 Tyler Mahle,MIN
 Ketel Marte,ARI
-Nick Martinez,SDP
 Steven Matz,STL
 Jake Meyers,HOU
 Garrett Mitchell,MIL
@@ -349,11 +354,10 @@ Ryne Nelson,ARI
 Brandon Nimmo,NYM
 Joc Pederson,SFG
 Salvador Perez,KCR
-Colin Rea,MIL
 Luis Rengifo,LAA
+Bryan Reynolds,PIT
 Tyler Rogers,SFG
-Luis Severino,NYY
-Albert Suï¿½rez,BAL
+Albert Suárez,BAL
 Eugenio Suarez,SEA
 Taijuan Walker,PHI
 
@@ -363,7 +367,6 @@ Sandy Alcantara,MIA
 Ian Anderson,NA
 Javier Assad,CHC
 Javier Baez,DET
-Jeimer Candelario,2TM
 Paul DeJong,3TM
 Yainer Diaz,HOU
 Kyle Freeland,COL
@@ -376,22 +379,24 @@ Jackson Holliday,BAL
 Raisel Iglesias,ATL
 Shota Imanaga,CHC
 Cristian Javier,HOU
+Clayton Kershaw,LAD
 Justin Lawrence,COL
 Alec Marsh,KCR
 Matt McLain,CIN
 Tobias Myers,MIL
 Andy Pages,LAD
 Freddy Peralta,MIL
+Jurickson Profar,2TM
 Cole Sands,MIN
 Jorge Soler,MIA
 Mike Trout,LAA
 Jose UreÃ±a,2TM
 Matt Vierling,DET
 Matt Wallner,MIN
-Taylor Ward,LAA
 
 PMT
 Will Benson,CIN
+Jake Burger,2TM
 Willi Castro,MIN
 Ernie Clement,TOR
 Jake Cronenworth,SDP
@@ -423,8 +428,8 @@ Masataka Yoshida,BOS
 Jacob Young,WSN
 
 RHJ
-Luisangel Acuï¿½a,NYM
-Kevin Alcï¿½ntara,CHC
+Luisangel Acuña,NYM
+Kevin Alcántara,CHC
 Miguel Amaya,CHC
 Chris Bassitt,TOR
 Bo Bichette,TOR
@@ -468,7 +473,6 @@ TJ Friedl,CIN
 Zac Gallen,ARI
 MacKenzie Gore,WSN
 Sonny Gray,MIN
-Austin Hays,BAL
 Andrew Heaney,TEX
 Grant Holmes,ATL
 Tyler Holton,DET
@@ -480,10 +484,9 @@ Jake McCarthy,ARI
 Bryce Miller,SEA
 Zach Neto,LAA
 Brandon Pfaadt,ARI
-Miguel Rojas,LAD
+Luke Raley,TBR
 Marcus Semien,TEX
 Spencer Steer,CIN
-Brent Suter,COL
 Trey Sweeney,DET
 Christian Walker,ARI
 Logan Webb,SFG
@@ -507,7 +510,7 @@ Colt Keith,DET
 Michael King,NYY
 Jared Koenig,MIL
 Phil Maton,HOU
-Eury Pï¿½rez,MIA
+Eury Pérez,MIA
 Ryan Pressly,HOU
 Amed Rosario,2TM
 Clarke Schmidt,NYY
