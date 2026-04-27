@@ -5,7 +5,6 @@ from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
 
 DB_PATH = "strat.db"
-OUT_FILE = "roster.pdf"
 
 FONT      = "Courier"
 FONT_BOLD = "Courier-Bold"
@@ -31,6 +30,20 @@ PITCH_COLS = [
 ]
 
 CHAR_W = 4.35  # approximate width of one Courier char at size 7
+
+
+def fmt3(v):
+    try:
+        return f"{float(v):.3f}"
+    except (TypeError, ValueError):
+        return ""
+
+
+def fmt2(v):
+    try:
+        return f"{float(v):.2f}"
+    except (TypeError, ValueError):
+        return ""
 
 
 def col_x_positions(cols):
@@ -103,7 +116,8 @@ class PDFReport:
         self.c.save()
 
 
-def build_roster_output():
+def build_roster_output(year):
+    out_file = f"roster_{year}.pdf"
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
@@ -111,14 +125,14 @@ def build_roster_output():
     cursor.execute("SELECT player_id, player_name, MainPos FROM player_list")
     player_list = {row["player_id"]: dict(row) for row in cursor.fetchall()}
 
-    cursor.execute('''SELECT "Player-additional", Age, Team, G, AB, R, H,
+    cursor.execute(f'''SELECT "Player-additional", Age, Team, G, AB, R, H,
                       "2B", "3B", HR, RBI, SB, CS, BB, SO, BA, OBP, SLG, OPS, Pos
-                      FROM Batting_2025''')
+                      FROM Batting_{year}''')
     batting = {row["Player-additional"]: dict(row) for row in cursor.fetchall()}
 
-    cursor.execute('''SELECT "Player-additional", Age, Team, W, L, ERA, G, GS, GF,
+    cursor.execute(f'''SELECT "Player-additional", Age, Team, W, L, ERA, G, GS, GF,
                       SV, IP, H, R, ER, HR, BB, SO, FIP, WHIP, H9, HR9, BB9, SO9
-                      FROM Pitching_2025''')
+                      FROM Pitching_{year}''')
     pitching = {row["Player-additional"]: dict(row) for row in cursor.fetchall()}
 
     cursor.execute("SELECT full_name, flb_team_init, player_id FROM roster ORDER BY flb_team_init, player_id")
@@ -128,7 +142,7 @@ def build_roster_output():
 
     conn.close()
 
-    pdf = PDFReport(OUT_FILE)
+    pdf = PDFReport(out_file)
 
     for team in sorted(teams.keys()):
         pdf.team_header(team)
@@ -148,7 +162,7 @@ def build_roster_output():
                     name, main_pos, b["Age"], b["Team"],
                     b["G"], b["AB"], b["R"], b["H"], b["2B"], b["3B"],
                     b["HR"], b["RBI"], b["SB"], b["CS"], b["BB"], b["SO"],
-                    b["BA"], b["OBP"], b["SLG"], b["OPS"], b["Pos"],
+                    fmt3(b["BA"]), fmt3(b["OBP"]), fmt3(b["SLG"]), fmt3(b["OPS"]), b["Pos"],
                 ])
 
         pitchers = [(fn, pid) for fn, pid in players if pid in pitching]
@@ -163,9 +177,9 @@ def build_roster_output():
                 main_pos = pl.get("MainPos", "")
                 pdf.row(PITCH_POS, [
                     name, main_pos, p["Age"], p["Team"],
-                    p["W"], p["L"], p["ERA"], p["G"], p["GS"], p["GF"],
+                    p["W"], p["L"], fmt2(p["ERA"]), p["G"], p["GS"], p["GF"],
                     p["SV"], p["IP"], p["H"], p["R"], p["ER"], p["HR"],
-                    p["BB"], p["SO"], p["FIP"], p["WHIP"],
+                    p["BB"], p["SO"], fmt2(p["FIP"]), fmt2(p["WHIP"]),
                     p["H9"], p["HR9"], p["BB9"], p["SO9"],
                 ])
 
@@ -184,8 +198,9 @@ def build_roster_output():
         pdf.page_break()
 
     pdf.save()
-    print(f"Written to {OUT_FILE}")
+    print(f"Written to {out_file}")
 
 
 if __name__ == "__main__":
-    build_roster_output()
+    build_roster_output(2025)
+    build_roster_output(2026)
