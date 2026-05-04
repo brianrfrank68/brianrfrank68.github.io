@@ -116,8 +116,9 @@ class PDFReport:
         self.c.save()
 
 
-def build_roster_output(year):
-    out_file = f"roster_{year}.pdf"
+def build_roster_output(year, exclude=None):
+    suffix = "_active" if exclude else ""
+    out_file = f"roster_{year}{suffix}.pdf"
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
@@ -144,7 +145,7 @@ def build_roster_output(year):
 
     pdf = PDFReport(out_file)
 
-    for team in sorted(teams.keys()):
+    for team in sorted(k for k in teams.keys() if not exclude or k not in exclude):
         pdf.team_header(team)
         players = teams[team]
 
@@ -204,3 +205,5 @@ def build_roster_output(year):
 if __name__ == "__main__":
     build_roster_output(2025)
     build_roster_output(2026)
+    build_roster_output(2025, exclude={"WAIVE", "DRAFT"})
+    build_roster_output(2026, exclude={"WAIVE", "DRAFT"})
