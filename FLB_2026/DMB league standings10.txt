@@ -1,0 +1,88 @@
+                                   DMB league standings -- League                                   
+                                           Regular season                                           
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent         RF   RA  Mgn  Mgc 
+Moe
+2026 Frank Bulldogs                 93   69  .574       -    3-7   L1  lwllwwllll    767  705   62    0 
+2026 Quahog Qrew                    89   73  .549       4    5-5   W1  wlwlwlwllw    803  732   71      
+2026 Skoal Mudcats                  80   82  .494      13    6-4   L1  lwwwlwwwll    777  852  -75      
+2026 Bob's Bandits                  64   98  .395      29    3-7   W1  wlllwlwlll    766  851  -85      
+                                                                                                        
+Larry
+2026 Pontiac Harksters              82   80  .506       -    6-4   W2  wwlwwlwlwl    785  795  -10    0 
+2026 Crescent City Smelt            78   84  .481       4    8-2   L1  lwwwwwwwlw    847  904  -57      
+2026 Boise Beltiks                  64   98  .395      18    1-9   L2  llwlllllll    748  965 -217      
+2026 Boulder Bleacher Bums          64   98  .395      18    3-7   W1  wlllwllwll    805  919 -114      
+                                                                                                        
+Curly
+2026 Fusion City Plutoniums        105   57  .648       -    6-4   W1  wlwwwlwlwl    875  642  233    0 
+2026 Radium City Clockmakers        89   73  .549      16    7-3   L1  lwlwwwwwwl    778  707   71      
+2026 Florda Gators                  88   74  .543      17    6-4   L2  llwwlwwlww    887  779  108      
+2026 Danforth Tigers                80   82  .494      25    4-6   W2  wwllllllww    758  732   26      
+                                                                                                        
+Shemp
+2026 LaHogue Lugnuts                98   64  .605       -    6-4   L2  llwwwllwww    874  730  144    0 
+2026 Gilman Owls                    87   75  .537      11    6-4   W4  wwwwlwlllw    781  742   39      
+2026 North Gilman Trash Pandas      75   87  .463      23    5-5   W2  wwllwlwlwl    747  771  -24      
+2026 RNB Jazz                       60  102  .370      38    3-7   L6  llllllwlww    760  932 -172      
+
+
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent        Mgc 
+2026 Fusion City Plutoniums        105   57  .648      na    6-4   W1  wlwwwlwlwl        
+2026 LaHogue Lugnuts                98   64  .605      na    6-4   L2  llwwwllwww        
+2026 Frank Bulldogs                 93   69  .574      na    3-7   L1  lwllwwllll        
+2026 Pontiac Harksters              82   80  .506      na    6-4   W2  wwlwwlwlwl        
+2026 Radium City Clockmakers        89   73  .549       -    7-3   L1  lwlwwwwwwl      1 
+2026 Quahog Qrew                    89   73  .549       -    5-5   W1  wlwlwlwllw      1 
+2026 Florda Gators                  88   74  .543       1    6-4   L2  llwwlwwlww        
+2026 Gilman Owls                    87   75  .537       2    6-4   W4  wwwwlwlllw        
+2026 Danforth Tigers                80   82  .494       9    4-6   W2  wwllllllww        
+2026 Skoal Mudcats                  80   82  .494       9    6-4   L1  lwwwlwwwll        
+2026 Crescent City Smelt            78   84  .481      11    8-2   L1  lwwwwwwwlw        
+2026 North Gilman Trash Pandas      75   87  .463      14    5-5   W2  wwllwlwlwl        
+2026 Boise Beltiks                  64   98  .395      25    1-9   L2  llwlllllll        
+2026 Boulder Bleacher Bums          64   98  .395      25    3-7   W1  wlllwllwll        
+2026 Bob's Bandits                  64   98  .395      25    3-7   W1  wlllwlwlll        
+2026 RNB Jazz                       60  102  .370      29    3-7   L6  llllllwlww        
+
+
+
+Year Team                           Home    Road   Grass    Turf   vsLHP   vsRHP    Div   InterLg 
+2026 Fusion City Plutoniums        55-26   50-31   105-57          24-15   81-42   25-17          
+2026 LaHogue Lugnuts               48-33   50-31   98-64           16-13   82-51   26-16          
+2026 Frank Bulldogs                53-28   40-41   93-69           23-15   70-54   24-18          
+2026 Pontiac Harksters             43-38   39-42   82-80           13-21   69-59   23-19          
+2026 Radium City Clockmakers       43-38   46-35   89-73           16-19   73-54   20-22          
+2026 Quahog Qrew                   51-30   38-43   89-73           15-18   74-55   23-19          
+2026 Florda Gators                 43-38   45-36   88-74           26-17   62-57   22-20          
+2026 Gilman Owls                   44-37   43-38   87-75           20-20   67-55   23-19          
+2026 Danforth Tigers               43-38   37-44   80-82           11-20   69-62   17-25          
+2026 Skoal Mudcats                 40-41   40-41   80-82           17-16   63-66   18-24          
+2026 Crescent City Smelt           42-39   36-45   78-84           17-19   61-65   27-15          
+2026 North Gilman Trash Pandas     44-37   31-50   75-87           14-14   61-73   21-21          
+2026 Boise Beltiks                 34-47   30-51   64-98           13-20   51-78   20-22          
+2026 Boulder Bleacher Bums         35-46   29-52   64-98           11-25   53-73   14-28          
+2026 Bob's Bandits                 32-49   32-49   64-98           11-18   53-80   19-23          
+2026 RNB Jazz                      32-49   28-53   60-102          13-31   47-71   14-28          
+                                   DMB league standings -- League                                   
+                                           Regular season                                           
+
+Year Team                          Lead7   Tied7   Trail7  1-run   Extra  
+2026 Fusion City Plutoniums        87-10    11-9    7-38   30-24    9-9   
+2026 LaHogue Lugnuts                80-4    10-9    8-51   23-18   12-12  
+2026 Frank Bulldogs                 77-6    7-10    9-53   35-22    7-5   
+2026 Pontiac Harksters              62-5    13-7    7-68   34-27    11-7  
+2026 Radium City Clockmakers        71-8    11-6    7-59   21-14    8-9   
+2026 Quahog Qrew                    73-6    9-14    7-53   24-18    10-7  
+2026 Florda Gators                  76-5    8-8     4-61   22-24    8-14  
+2026 Gilman Owls                    66-5    12-5    9-65   23-21    7-5   
+2026 Danforth Tigers                67-6    8-13    5-63   20-29    12-5  
+2026 Skoal Mudcats                  64-8    6-5    10-69   25-20    7-7   
+2026 Crescent City Smelt            66-5    6-9     6-70   23-23    7-8   
+2026 North Gilman Trash Pandas      55-6    14-8    6-73   20-30   11-10  
+2026 Boise Beltiks                  47-5    6-6    11-87   24-18    7-8   
+2026 Boulder Bleacher Bums         52-11    9-9     3-78   17-31    8-10  
+2026 Bob's Bandits                  53-9    5-11    6-78   20-27    6-13  
+2026 RNB Jazz                      52-11    3-9     5-82   10-25    4-5   
+

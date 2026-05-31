@@ -1,0 +1,194 @@
+[Report]
+type,"Batting register"
+rptsource,"Memorized"
+
+[Section]
+name,"Primary"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(bat,r,,avg,d)",5,0,"AVG",r,3
+col,"^A(bat,r,,obp,d)",5,0,"OBP",r,3
+col,"^A(bat,r,,spc,d)",5,0,"SPC",r,3
+col,"^A(bat,r,,ab,d)",3,0,"AB",r,0
+col,"^A(bat,r,,h,d)",3,0,"H",r,0
+col,"^A(bat,r,,2b,d)",3,0,"2B",r,0
+col,"^A(bat,r,,3b,d)",3,0,"3B",r,0
+col,"^A(bat,r,,hr,d)",3,0,"HR",r,0
+col,"^A(bat,r,,r,d)",3,0,"R",r,0
+col,"^A(bat,r,,rbi,d)",3,0,"RBI",r,0
+col,"^A(bat,r,,hbp,d)",3,0,"HBP",r,0
+col,"^A(bat,r,,bb,d)",3,0,"BB",r,0
+col,"^A(bat,r,,k,d)",3,0,"K",r,0
+col,"^A(bat,r,,sb,d)",3,0,"SB",r,0
+col,"^A(bat,r,,cs,d)",3,0,"CS",r,0
+
+[Section]
+name,"Secondary"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(bat,r,,gs,d)",3,0,"GS",r,0
+col,"^A(bat,r,,pa,d)",3,0,"PA",r,0
+col,"^A(bat,r,,sh,d)",3,0,"SH",r,0
+col,"^A(bat,r,,sf,d)",3,0,"SF",r,0
+col,"^A(bat,r,,gdp,d)",3,0,"GDP",r,0
+col,"^A(bat,r,,ops,d)",5,0,"OPS",r,3
+col,"^A(bat,r,,rc,d)",7,0,"RC",r,1
+col,"^A(bat,r,,rc27,d)",4,0,"RC27",r,1
+col,"^A(bat,r,,iso,d)",5,0,"ISO",r,3
+col,"^A(bat,r,,tavg,d)",5,0,"TAVG",r,3
+col,"^A(bat,r,,sec,d)",5,0,"SEC",r,3
+col,"^A(bat,r,,ebh,d)",3,0,"EBH",r,0
+col,"^A(bat,r,,tb,d)",3,0,"TB",r,0
+
+[Section]
+name,"Analytical"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(bat,r,,pa/g,d)",4,0,"PA/G",r,2
+col,"^A(bat,r,,ab/g,d)",4,0,"AB/G",r,2
+col,"^A(bat,r,,bip,d)",4,0,"BIP",r,0
+col,"^A(bat,r,,ipavg,d)",5,0,"IPAVG",r,3
+col,"^A(bat,r,,tbw,d)",4,0,"TBW",r,0
+col,"^A(bat,r,,tbw/pa,d)",6,0,"TBW/PA",r,3
+col,"^A(bat,r,,tbwh,d)",4,0,"TBWH",r,0
+col,"^A(bat,r,,tbwh/pa,d)",7,0,"TBWH/PA",r,3
+col,"^A(bat,r,,k/bb,a)",4,0,"K/BB",r,1
+
+[Section]
+name,"vs LHP"
+hdr,4,17,c,"Versus Left-handed Pitchers"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(bsp,r,vs LHP,avg,d)",5,0,"AVG",r,3
+col,"^A(bsp,r,vs LHP,obp,d)",5,0,"OBP",r,3
+col,"^A(bsp,r,vs LHP,spc,d)",5,0,"SPC",r,3
+col,"^A(bsp,r,vs LHP,ops,d)",5,0,"OPS",r,3
+col,"^A(bsp,r,vs LHP,ab,d)",5,0,"AB",r,0
+col,"^A(bsp,r,vs LHP,h,d)",3,0,"H",r,0
+col,"^A(bsp,r,vs LHP,2b,d)",3,0,"2B",r,0
+col,"^A(bsp,r,vs LHP,3b,d)",3,0,"3B",r,0
+col,"^A(bsp,r,vs LHP,hr,d)",3,0,"HR",r,0
+col,"^A(bsp,r,vs LHP,rbi,d)",3,0,"RBI",r,0
+col,"^A(bsp,r,vs LHP,hbp,d)",3,0,"HBP",r,0
+col,"^A(bsp,r,vs LHP,bb,d)",3,0,"BB",r,0
+col,"^A(bsp,r,vs LHP,ibb,d)",3,0,"IBB",r,0
+col,"^A(bsp,r,vs LHP,k,d)",3,0,"K",r,0
+
+[Section]
+name,"vs RHP"
+hdr,4,17,c,"Versus Right-handed Pitchers"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(bsp,r,vs RHP,avg,d)",5,0,"AVG",r,3
+col,"^A(bsp,r,vs RHP,obp,d)",5,0,"OBP",r,3
+col,"^A(bsp,r,vs RHP,spc,d)",5,0,"SPC",r,3
+col,"^A(bsp,r,vs RHP,ops,d)",5,0,"OPS",r,3
+col,"^A(bsp,r,vs RHP,ab,d)",5,0,"AB",r,0
+col,"^A(bsp,r,vs RHP,h,d)",3,0,"H",r,0
+col,"^A(bsp,r,vs RHP,2b,d)",3,0,"2B",r,0
+col,"^A(bsp,r,vs RHP,3b,d)",3,0,"3B",r,0
+col,"^A(bsp,r,vs RHP,hr,d)",3,0,"HR",r,0
+col,"^A(bsp,r,vs RHP,rbi,d)",3,0,"RBI",r,0
+col,"^A(bsp,r,vs RHP,hbp,d)",3,0,"HBP",r,0
+col,"^A(bsp,r,vs RHP,bb,d)",3,0,"BB",r,0
+col,"^A(bsp,r,vs RHP,ibb,d)",3,0,"IBB",r,0
+col,"^A(bsp,r,vs RHP,k,d)",3,0,"K",r,0
+
+[Section]
+name,"Ratings"
+hdr,5,6,c,"vs LHP"
+hdr,7,8,c,"vs RHP"
+hdr,9,10,c,"Bunt"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(pl,,,ht,a)",4,0,"HTyp",c,0
+col,"^A(bsp,r,vs LHP,avg,d)",5,0,"AVG",r,3
+col,"^A(pl,,,lp,a)",4,0,"PW",c,0
+col,"^A(bsp,r,vs RHP,avg,d)",5,0,"AVG",r,3
+col,"^A(pl,,,rp,a)",4,0,"PW",c,0
+col,"^A(pl,,,bs,a)",4,0,"BSac",l,0
+col,"^A(pl,,,bh,a)",4,0,"BHit",l,0
+col,"^A(pl,,,run,a)",3,0,"Run",l,0
+col,"^A(pl,,,stl,a)",3,0,"Stl",l,0
+col,"^A(pl,,,jmp,a)",3,0,"Jmp",l,0
+col,"^A(pl,,,inj,a)",7,0,"Injury",l,0
+col,"^A(pl,,,clu,a)",6,0,"Clutch",l,0
+
+[Section]
+name,"Fielding"
+hdr,12,13,c,"Throw"
+col,"^A(pl,,,sn,a)",16,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(pl,,,r/err2,a)",7,0,"c",c,0
+col,"^A(pl,,,r/err3,a)",7,0,"1b",c,0
+col,"^A(pl,,,r/err4,a)",7,0,"2b",c,0
+col,"^A(pl,,,r/err5,a)",7,0,"3b",c,0
+col,"^A(pl,,,r/err6,a)",7,0,"ss",c,0
+col,"^A(pl,,,r/err7,a)",7,0,"lf",c,0
+col,"^A(pl,,,r/err8,a)",7,0,"cf",c,0
+col,"^A(pl,,,r/err9,a)",7,0,"rf",c,0
+col,"^A(pl,,,oth,a)",2,0,"OF",c,0
+col,"^A(pl,,,cth,a)",2,0,"C",c,0
+col,"^A(pl,,,pb,a)",2,0,"PB",r,0
+col,"^A(bat,r,,ops,d)",5,0,"OPS",r,3
+col,"^A(bsp,r,vs LHP,ops,d)",5,0,"OPS",r,3
+col,"^A(bsp,r,vs RHP,ops,d)",5,0,"OPS",r,3
+col,"^A(bat,r,,ab,d)",6,0,"AB",r,0
+col,"^A(pl,,,fn,a)",14,0,"First",l,0
+col,"^A(pl,,,full,a)",22,0,"Name",l,0
+
+[Section]
+name,"Contract"
+col,"^A(pl,,,nmfubs,a)",24,0,"Name",l,0
+col,"^A(tm,,,abrv,a)",7,0,"Team",l,0
+col,"^A(pl,,,pos,a)",2,0,"P",r,0
+col,"^A(pl,,,age,a)",3,0,"Age",r,0
+col,"^A(pl,,,act,a)",4,0,"%Act",r,0
+col,"^A(pl,,,il,a)",4,0,"%IL",r,0
+col,"^A(pl,,,sal,d)",6,0,"Salary",r,0
+col,"^A(pl,,,cont,d)",4,0,"Year",r,0
+
+[Content]
+scopeType,"plyrsInDB"
+scopeID,0
+currID,-1
+currBigID,0
+genall,0
+filename,"batreg"
+inclsect,0,0
+inclsect,1,0
+inclsect,2,0
+inclsect,3,0
+inclsect,4,0
+inclsect,5,0
+inclsect,7,0
+periodType,"ytd"
+category,"reg"
+bat,1
+pch,0
+agent,0
+teamSpecific,1
+combined,1
+primaryPos,0
+position,
+minGames,0
+lhb,1
+rhb,1
+switch,1
+minPA,1
+maxPA,1000
+sort,"^A(tm,,,abrv,a)","a"

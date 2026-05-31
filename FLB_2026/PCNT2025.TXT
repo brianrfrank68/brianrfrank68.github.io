@@ -1,0 +1,56 @@
+                         2025 Pitcher Durability
+                         -----------------------
+
+Pitcher durability ratings determine how many pitches can be thrown
+before a pitcher begins to lose effectiveness.  These limits apply over
+a moving five-day window.  Because there's a big difference between
+throwing 35 pitches yesterday and throwing 35 pitches three days ago,
+separate limits apply to each portion of that window:  just today,
+today plus yesterday, today plus the last two days, and so on.
+
+Pitcher usage patterns have changed over time so the limits can differ
+for the same durability rating based upon the era of play in which a
+league is set.  The tables below show the one-day and five-day limits
+for the 2025 AL and 2025 NL eras and may help you decide when to remove
+a pitcher, but it's important to keep in mind that there are two-day,
+three-day, and four-day limits, too.
+
+In addition, pitcher endurance can be affected by the weather.  If it's
+very hot, very cold, or raining, pitchers can begin to tire sooner than
+usual.  These tables give the limits for games played in ideal baseball
+weather.
+
+Era: A 2025
+For starting pitchers (pitch counts):
+Rating   One day     Five days
+Ex       105-115      180-200
+Vg        95-105      160-180
+Av        85- 95      145-165
+Fr        80- 90      140-160
+Pr        75- 85      125-145
+
+For relief pitchers (pitch counts):
+Rating   One day     Five days
+Ex        55- 65       80- 95
+Vg        40- 50       55- 70
+Av        30- 40       40- 55
+Fr        25- 35       35- 50
+Pr        15- 25       25- 40
+
+Era: N 2025
+For starting pitchers (pitch counts):
+Rating   One day     Five days
+Ex       105-115      180-200
+Vg        95-105      160-180
+Av        85- 95      145-165
+Fr        80- 90      140-160
+Pr        75- 85      125-145
+
+For relief pitchers (pitch counts):
+Rating   One day     Five days
+Ex        55- 65       80- 95
+Vg        40- 50       55- 70
+Av        30- 40       40- 55
+Fr        25- 35       35- 50
+Pr        15- 25       25- 40
+

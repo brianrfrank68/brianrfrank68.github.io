@@ -1,0 +1,864 @@
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Andrew Abbott*           MHM  sp  27 L  .236  .234  Pr  Pr  Pr  Pr  Pr  Vg      Av  13   0  32  Av/109 Normal Prone   
+Mick Abel                     sp  24 R  .284  .261  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  26  42  41  Av/74  Normal Normal  
+Philip Abner*                 mr  24 L  .300  .400  Pr  Pr  Pr  Pr  Pr      Av  Av  19  94  40  Av/100 Normal Normal  
+Bryan Abreu              ZMG  mr  29 R  .197  .196  Pr  Pr  Pr  Pr  Pr      Av  Fr  30   1  38  Av/145 Normal Iron    
+Garrett Acton                 mr  28 R  .000  .000  Pr  Pr  Pr  Pr  Pr      Av  Av  99  98  20  Av/100 Normal Normal  
+Jason Adam               MHH  mr  34 R  .164  .250  Pr  Pr  Pr  Pr  Pr      Av  Pr  25  10  44  Vg/56  Normal Prone   
+Travis Adams                  mr  26 R  .360  .211  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Av  70  47  37  Ex/78  Normal Normal  
+Ty Adcock                     mr  29 R  .333  .000  Pr  Pr  Pr  Pr  Pr      Av  Av  19  95  20  Av/100 Normal Normal  
+Zach Agnos                    mr  25 R  .293  .230  Pr  Pr  Pr  Pr  Pr      Av  Ex  32  54  47  Av/79  Normal Very pr 
+Keegan Akin*             EEB  mr  31 L  .287  .196  Pr  Pr  Pr  Pr  Pr      Av  Ex  17  11  40  Av/176 Normal Prone   
+Jorge Alcala                  mr  30 R  .298  .299  Pr  Pr  Pr  Pr  Pr      Av  Pr  52 500  35  Vg/135 Normal Normal  
+Sandy Alcantara          MHM  sp  30 R  .230  .262  Pr  Pr  Pr  Pr  Pr  Vg      Pr  24 307  52  Av/0   Normal Normal  
+Sam Aldegheri*                sp  24 L  .300  .368  Pr  Pr  Pr  Pr  Pr  Vg  Ex  Av  30  76  48  Fr/91  Normal Normal  
+Jason Alexander               sp  33 R  .267  .257  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av   7   0  51  Av/48  Normal Normal  
+Scott Alexander*              mr  36 L  .343  .306  Pr  Pr  Pr  Pr  Pr      Av  Av  15  73  65  Av/88  Normal Normal  
+Tyler Alexander*              mr  31 L  .278  .276  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Av   5 466  39  Av/99  Normal Normal  
+Kolby Allard*                 mr  28 L  .282  .251  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Av   2  11  38  Av/57  Normal Normal  
+Logan Allen*             KSS  sp  27 L  .220  .273  Pr  Pr  Pr  Pr  Pr  Av      Ex  13   0  47  Fr/300 Normal Normal  
+Dan Altavilla                 mr  33 R  .155  .238  Pr  Pr  Pr  Pr  Pr      Av  Av  19  60  56  Fr/81  Normal Prone   
+Elvis Alvarado                mr  27 R  .239  .196  Pr  Pr  Pr  Pr  Pr      Av  Av  24  39  40  Av/256 Normal Normal  
+Jose Alvarado*           CEC  mr  31 L  .269  .260  Pr  Pr  Pr  Pr  Pr      Av  Vg  58  62  47  Pr/83  Normal Prone   
+Andrew Alvarez*               sp  27 L  .286  .164  Pr  Pr  Pr  Pr  Pr  Fr      Vg  45  67  55  Fr/84  Normal Normal  
+Grant Anderson                mr  29 R  .225  .223  Pr  Pr  Pr  Pr  Pr      Av  Fr   0   0  45  Av/155 Normal Prone   
+Ian Anderson             MHM  mr  28 R  .357  .400  Pr  Pr  Pr  Pr  Pr      Ex  Av  87  83  47  Av/94  Normal Normal  
+Nick Anderson                 mr  35 R  .185  .375  Pr  Pr  Pr  Pr  Pr      Av  Fr  16  80  48  Av/128 Normal Normal  
+Shaun Anderson                mr  31 R  .333  .414  Pr  Pr  Pr  Pr  Pr      Ex  Av  16  81  41  Fr/92  Normal Normal  
+Tyler Anderson*          KSS  sp  36 L  .302  .233  Pr  Pr  Pr  Pr  Pr  Av      Av  19 453  35  Av/9   Normal Prone   
+Luarbert Arias                mr  25 R  .350  .370  Pr  Pr  Pr  Pr  Pr      Ex  Pr  40  82  33  Av/93  Normal Normal  
+Shawn Armstrong               mr  35 R  .234  .112  Pr  Pr  Pr  Pr  Pr      Fr  Vg  23   5  38  Av/51  Normal Iron    
+Spencer Arrighetti       DHL  sp  26 R  .265  .190  Pr  Pr  Pr  Pr  Pr  Av      Fr  10  48  44  Av/76  Normal Very pr 
+Aaron Ashby*             BEB  mr  28 L  .193  .245  Pr  Pr  Pr  Pr  Pr      Vg  Av  49  10  71  Av/122 Normal Very pr 
+Braxton Ashcraft              mr  26 R  .241  .237  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Av   8   3  57  Vg/54  Normal Normal  
+Graham Ashcraft          KLO  mr  28 R  .230  .298  Pr  Pr  Pr  Pr  Pr      Av  Av  39   5  69  Av/138 Normal Prone   
+Javier Assad             MHM  sp  28 R  .293  .205  Pr  Pr  Pr  Pr  Pr  Fr      Fr  15  49  57  Av/75  Normal Very pr 
+Luinder Avila                 mr  24 R  .087  .192  Pr  Pr  Pr  Pr  Pr      Av  Av  16  81  56  Av/100 Normal Normal  
+Lake Bachar                   mr  31 R  .183  .239  Pr  Pr  Pr  Pr  Pr      Vg  Vg  38   1  39  Vg/53  Tough  Normal  
+Sam Bachman                   mr  26 R  .273  .265  Pr  Pr  Pr  Pr  Pr      Av  Av  47  69  64  Av/175 Normal Very pr 
+Kyle Backhus*                 mr  28 L  .139  .365  Pr  Pr  Pr  Pr  Pr      Av  Ex  19  62  42  Av/83  Normal Normal  
+Bryan Baker                   mr  31 R  .206  .258  Pr  Pr  Pr  Pr  Pr      Av  Fr  16   9  43  Av/54  Normal Iron    
+Anthony Banda*                mr  32 L  .153  .229  Pr  Pr  Pr  Pr  Pr      Av  Pr  58  11  40  Vg/57  Normal Iron    
+Tanner Banks*                 mr  34 L  .175  .259  Pr  Pr  Pr  Pr  Pr  Pr  Av  Fr  17  11  45  Av/128 Tough  Iron    
+Hunter Barco*                 mr  25 L  .333  .222  Pr  Pr  Pr  Pr  Pr      Vg  Pr  19  96  50  Av/100 Normal Normal  
+Scott Barlow             DHL  mr  33 R  .212  .192  Pr  Pr  Pr  Pr  Pr      Av  Pr  15   0  51  Av/54  Tough  Iron    
+Jacob Barnes                  mr  36 R  .273  .350  Pr  Pr  Pr  Pr  Pr      Vg  Fr  18  88  39  Pr/95  Normal Normal  
+Mason Barnett                 sp  25 R  .243  .315  Pr  Pr  Pr  Pr  Pr  Fr      Av  43  65  38  Vg/85  Normal Normal  
+Chris Bassitt            RHJ  sp  37 R  .283  .233  Pr  Pr  Pr  Pr  Pr  Vg      Av  12 369  56  Av/170 Normal Prone   
+Brady Basso*                  mr  28 L  .200  .281  Pr  Pr  Pr  Pr  Pr      Av  Vg  16  81  70  Fr/92  Normal Very pr 
+Felix Bautista           GST  cl  31 R  .148  .121  Pr  Pr  Pr  Pr  Pr      Av  Pr  16  53  53  Pr/228 Tough  Very pr 
+Shane Baz                EEB  sp  27 R  .255  .245  Pr  Pr  Pr  Pr  Pr  Av      Av   9   0  54  Av/89  Normal Normal  
+Eduard Bazardo                mr  30 R  .220  .166  Pr  Pr  Pr  Pr  Pr      Av  Av  14   0  40  Av/48  Tough  Iron    
+Tristan Beck                  mr  30 R  .202  .241  Pr  Pr  Pr  Pr  Pr      Ex  Av  29  23  45  Av/62  Normal Normal  
+David Bednar             BEB  cl  31 R  .178  .220  Pr  Pr  Pr  Pr  Pr      Av  Fr  35  16  46  Av/58  Normal Iron    
+Jalen Beeks*                  mr  32 L  .218  .190  Pr  Pr  Pr  Pr  Pr      Av  Av  10  23  50  Vg/62  Normal Prone   
+Clayton Beeter                mr  27 R  .175  .136  Pr  Pr  Pr  Pr  Pr      Av  Pr  21  65  44  Av/83  Normal Very pr 
+Brayan Bello             GFB  sp  27 R  .232  .243  Pr  Pr  Pr  Pr  Pr  Vg      Av  16   0  55  Av/126 Normal Prone   
+Valente Bellozo               mr  26 R  .327  .213  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Ex   0 329  33  Av/46  Normal Normal  
+Anthony Bender                mr  31 R  .203  .159  Pr  Pr  Pr  Pr  Pr      Av  Fr  11  32  51  Vg/67  Tough  Prone   
+Ryan Bergert                  sp  26 R  .222  .205  Pr  Pr  Pr  Pr  Pr  Fr  Fr  Ex  14   0  33  Av/49  Normal Prone   
+Brennan Bernardino*           mr  34 L  .205  .205  Pr  Pr  Pr  Pr  Pr      Av  Av  30  25  54  Av/234 Normal Prone   
+Jose Berrios             EEB  sp  32 R  .247  .260  Pr  Pr  Pr  Pr  Pr  Av      Av   3 130  48  Av/0   Normal Normal  
+Tanner Bibee             GFB  sp  27 R  .237  .255  Pr  Pr  Pr  Pr  Pr  Av      Av   9 119  49  Av/0   Normal Normal  
+Osvaldo Bido                  mr  30 R  .294  .299  Pr  Pr  Pr  Pr  Pr  Av  Ex  Pr   0   0  34  Av/162 Normal Normal  
+Shane Bieber             ZMG  sp  31 R  .156  .297  Pr  Pr  Pr  Pr  Pr  Av      Ex   9  47  55  Av/73  Normal Prone   
+Hunter Bigge                  mr  28 R  .174  .226  Pr  Pr  Pr  Pr  Pr      Av  Fr  16  80  52  Vg/155 Normal Very pr 
+Jake Bird                     mr  30 R  .289  .267  Pr  Pr  Pr  Pr  Pr      Av  Vg  36  17  59  Av/153 Normal Normal  
+Hayden Birdsong          BEB  mr  24 R  .281  .206  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Ex  45   1  39  Av/163 Normal Normal  
+Spencer Bivens                mr  32 R  .274  .264  Pr  Pr  Pr  Pr  Pr      Vg  Vg  19   0  56  Vg/46  Normal Normal  
+Mason Black                   mr  26 R  .286  .250  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  94  56  Av/100 Normal Normal  
+Paul Blackburn                mr  32 R  .270  .318  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Fr  13 500  49  Av/74  Normal Very pr 
+Bradley Blalock               sp  25 R  .348  .351  Pr  Pr  Pr  Pr  Pr  Av      Av  16   8  44  Fr/188 Normal Normal  
+Ronel Blanco             GST  sp  32 R  .232  .196  Pr  Pr  Pr  Pr  Pr  Av      Fr   7  34  38  Av/68  Normal Very pr 
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Scott Blewett                 mr  30 R  .229  .295  Pr  Pr  Pr  Pr  Pr      Ex  Av  11  35  50  Av/70  Normal Very pr 
+A.J. Blubaugh                 mr  25 R  .132  .169  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Av  12  59  38  Av/79  Normal Normal  
+Cody Bolton                   mr  28 R  .667  .286  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  97  40  Av/100 Normal Normal  
+Cam Booser*                   mr  34 L  .196  .261  Pr  Pr  Pr  Pr  Pr      Av  Ex  47  52  36  Av/282 Normal Prone   
+Ryan Borucki*                 mr  32 L  .117  .338  Pr  Pr  Pr  Pr  Pr      Av  Av  31 500  57  Vg/77  Normal Prone   
+Caleb Boushley                mr  32 R  .346  .271  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  12  36  51  Av/71  Normal Normal  
+Ben Bowden*                   mr  31 L  .077  .296  Pr  Pr  Pr  Pr  Pr      Av  Fr  17  84  50  Av/100 Normal Prone   
+Jonathan Bowlan               mr  29 R  .288  .182  Pr  Pr  Pr  Pr  Pr      Av  Av  12  40  58  Vg/70  Normal Normal  
+Matt Bowman                   mr  35 R  .217  .350  Pr  Pr  Pr  Pr  Pr      Vg  Fr  19  62  42  Vg/84  Normal Normal  
+Matt Boyd*                    sp  35 L  .231  .236  Pr  Pr  Pr  Pr  Pr  Av      Ex   6   0  39  Vg/206 Normal Normal  
+Joe Boyle                RHJ  sp  26 R  .219  .222  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Pr  20  25  45  Fr/178 Normal Normal  
+Kyle Bradish             GST  sp  29 R  .234  .157  Pr  Pr  Pr  Pr  Pr  Av      Ex  12  58  38  Av/79  Normal Very pr 
+Taj Bradley              KLO  sp  25 R  .237  .249  Pr  Pr  Pr  Pr  Pr  Av      Vg  26 150  49  Av/103 Normal Normal  
+Matt Brash               DHL  mr  28 R  .241  .230  Pr  Pr  Pr  Pr  Pr      Av  Av   7  34  62  Av/68  Normal Prone   
+Ryan Brasier                  mr  38 R  .297  .262  Pr  Pr  Pr  Pr  Pr      Av  Pr  13  65  49  Fr/83  Normal Very pr 
+Huascar Brazoban              mr  36 R  .275  .194  Pr  Pr  Pr  Pr  Pr      Av  Vg  17  13  50  Av/58  Normal Normal  
+John Brebbia                  mr  36 R  .233  .333  Pr  Pr  Pr  Pr  Pr      Av  Av  39  62  34  Av/84  Normal Prone   
+Beau Brieske                  mr  28 R  .209  .333  Pr  Pr  Pr  Pr  Pr      Av  Fr  43  66  40  Vg/85  Normal Prone   
+Jeff Brigham                  mr  34 R  .400  .500  Pr  Pr  Pr  Pr  Pr      Av  Av  19  94  43  Av/98  Normal Normal  
+Connor Brogdon                mr  31 R  .264  .241  Pr  Pr  Pr  Pr  Pr      Av  Av  22  34  33  Av/191 Normal Normal  
+Ben Brown                EEB  sp  26 R  .288  .272  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  24   0  46  Fr/29  Normal Normal  
+Hunter Brown             GST  sp  27 R  .195  .208  Pr  Pr  Pr  Pr  Pr  Vg      Pr   0 124  55  Av/0   Normal Normal  
+McCade Brown                  sp  25 R  .362  .232  Pr  Pr  Pr  Pr  Pr  Pr      Pr  18  58  41  Ex/83  Normal Normal  
+JT Brubaker                   mr  32 R  .235  .212  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Av  38  61  50  Av/81  Normal Very pr 
+Justin Bruihl*                mr  29 L  .290  .385  Pr  Pr  Pr  Pr  Pr      Av  Av  16  78  65  Av/91  Normal Normal  
+Zach Brzykcy                  mr  26 R  .233  .340  Pr  Pr  Pr  Pr  Pr      Av  Av  40  63  32  Fr/100 Normal Prone   
+Kris Bubic*                   sp  28 L  .217  .230  Pr  Pr  Pr  Pr  Pr  Vg      Ex   5   0  52  Av/112 Normal Very pr 
+Walker Buehler                sp  31 R  .300  .221  Pr  Pr  Pr  Pr  Pr  Av      Pr   0   0  48  Av/82  Normal Prone   
+Aaron Bummer*                 mr  32 L  .258  .243  Pr  Pr  Pr  Pr  Pr      Vg  Pr   9  22  64  Av/173 Normal Prone   
+Nick Burdi                    mr  33 R  .400  .111  Pr  Pr  Pr  Pr  Pr      Av  Av  99  93  80  Av/96  Normal Very pr 
+Juan Burgos                   mr  26 R  .368  .270  Pr  Pr  Pr  Pr  Pr      Av  Av  16  78  48  Av/91  Normal Prone   
+Brock Burke*                  mr  29 L  .256  .253  Pr  Pr  Pr  Pr  Pr      Fr  Av   3 352  57  Av/183 Normal Iron    
+Sean Burke                    sp  26 R  .242  .263  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av   7   0  40  Av/300 Normal Normal  
+Corbin Burnes            BFP  sp  31 R  .208  .213  Pr  Pr  Pr  Pr  Pr  Vg      Fr   8 500  58  Av/127 Normal Very pr 
+Chase Burns                   sp  23 R  .259  .221  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av   7  37  42  Vg/152 Normal Prone   
+Ryan Burr                     mr  32 R  .000  .167  Pr  Pr  Pr  Pr  Pr      Av  Pr  19  97  67  Av/100 Normal Very pr 
+Mike Burrows                  sp  26 R  .225  .259  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Vg  11   0  46  Av/203 Normal Normal  
+Jose Butto               KLQ  mr  28 R  .257  .255  Pr  Pr  Pr  Pr  Pr      Av  Av  23 403  52  Av/123 Normal Prone   
+Edward Cabrera           BFP  sp  28 R  .234  .232  Pr  Pr  Pr  Pr  Pr  Av      Pr  31   0  55  Av/8   Normal Prone   
+Genesis Cabrera*              mr  29 L  .197  .333  Pr  Pr  Pr  Pr  Pr      Av  Pr  36 500  45  Fr/72  Normal Normal  
+Noah Cameron*                 sp  26 L  .161  .231  Pr  Pr  Pr  Pr  Pr  Av      Ex  12   0  47  Av/8   Normal Normal  
+Isaiah Campbell               mr  28 R  .455  .364  Pr  Pr  Pr  Pr  Pr      Vg  Fr  18  88  76  Av/95  Normal Normal  
+Griffin Canning               sp  30 R  .243  .236  Pr  Pr  Pr  Pr  Pr  Fr      Vg  20   0  55  Av/49  Normal Very pr 
+Jonathan Cannon               sp  25 R  .295  .261  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr  10 194  40  Av/115 Normal Prone   
+Yennier Cano                  mr  32 R  .330  .252  Pr  Pr  Pr  Pr  Pr      Fr  Pr  18 361  64  Ex/96  Normal Iron    
+Joey Cantillo*           CEC  mr  26 L  .258  .204  Pr  Pr  Pr  Pr  Pr  Av  Vg  Vg  11   0  45  Vg/36  Normal Normal  
+Carlos Carrasco               sp  39 R  .327  .300  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av  10  29  44  Av/70  Normal Normal  
+Alex Carrillo                 mr  29 R  .143  .417  Pr  Pr  Pr  Pr  Pr      Ex  Av  99  93  22  Av/100 Normal Normal  
+Ben Casparius                 mr  27 R  .266  .246  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Av   7   0  38  Fr/300 Normal Normal  
+Blas Castano                  mr  27 R  .308  .000  Pr  Pr  Pr  Pr  Pr      Ex  Pr  19  95  38  Av/100 Normal Normal  
+Jose G. Castillo*             mr  30 L  .368  .264  Pr  Pr  Pr  Pr  Pr      Av  Av  15 500  61  Av/148 Normal Normal  
+Luis Castillo            EEB  sp  33 R  .278  .212  Pr  Pr  Pr  Pr  Pr  Av      Av   9   0  45  Fr/0   Normal Iron    
+Luis F. Castillo              sp  31 R  .417  .333  Pr  Pr  Pr  Pr  Pr  Fr      Fr  17  86  50  Av/141 Normal Normal  
+Miguel Castro                 mr  31 R  .100  .333  Pr  Pr  Pr  Pr  Pr      Av  Pr  18  91  46  Vg/96  Normal Very pr 
+Cade Cavalli                  sp  27 R  .221  .381  Pr  Pr  Pr  Pr  Pr  Av      Av  30  27  58  Vg/68  Normal Prone   
+Dylan Cease              KLQ  sp  30 R  .241  .237  Pr  Pr  Pr  Pr  Pr  Av      Av  15   0  41  Av/75  Normal Iron    
+Slade Cecconi                 sp  27 R  .221  .273  Pr  Pr  Pr  Pr  Pr  Vg      Vg  12 166  47  Fr/242 Normal Very pr 
+Andrew Chafin*                mr  36 L  .136  .333  Pr  Pr  Pr  Pr  Pr      Fr  Av  99  52  45  Av/78  Normal Prone   
+Bubba Chandler                sp  23 R  .169  .259  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Pr  18  59  52  Vg/79  Normal Normal  
+Aroldis Chapman*         MHH  cl  38 L  .148  .127  Pr  Pr  Pr  Pr  Pr      Fr  Av  58  24  38  Fr/59  Normal Iron    
+Jesse Chavez                  mr  42 R  .538  .280  Pr  Pr  Pr  Pr  Pr      Ex  Fr  17  86  31  Av/95  Normal Normal  
+Angel Chivilli                mr  23 R  .271  .333  Pr  Pr  Pr  Pr  Pr      Vg  Av  32   8  61  Av/61  Normal Normal  
+Marc Church                   mr  25 R  .300  .167  Pr  Pr  Pr  Pr  Pr      Av  Pr  18  92  50  Av/100 Normal Normal  
+Aaron Civale             GFB  sp  31 R  .249  .241  Pr  Pr  Pr  Pr  Pr  Av  Ex  Ex   0 447  36  Av/32  Normal Very pr 
+Taylor Clarke                 mr  33 R  .211  .179  Pr  Pr  Pr  Pr  Pr      Av  Av  54  31  50  Av/153 Normal Normal  
+Emmanuel Clase           EEB  cl  28 R  .259  .253  Pr  Pr  Pr  Pr  Pr      Av  Fr  44  33  49  Av/206 Tough  Normal  
+Garrett Cleavinger*           mr  32 L  .187  .183  Pr  Pr  Pr  Pr  Pr      Av  Vg   9  19  53  Av/59  Normal Iron    
+Mike Clevinger                mr  35 R  .364  .091  Pr  Pr  Pr  Pr  Pr      Av  Fr  72  90  47  Av/96  Normal Normal  
+Luis Contreras                mr  30 R  .333  .160  Pr  Pr  Pr  Pr  Pr      Vg  Vg  41  82  27  Vg/92  Normal Normal  
+Roansy Contreras              mr  26 R  .167  .333  Pr  Pr  Pr  Pr  Pr      Ex  Fr  17  83  37  Av/92  Normal Normal  
+Patrick Corbin*               sp  36 L  .235  .278  Pr  Pr  Pr  Pr  Pr  Av      Pr  20   0  45  Av/82  Normal Normal  
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Jose Corniell                 mr  23 R  .375  .000  Pr  Pr  Pr  Pr  Pr      Ex  Pr  19  97  25  Pr/99  Normal Normal  
+Nestor Cortes*           VWB  sp  31 L  .400  .222  Pr  Pr  Pr  Pr  Pr  Fr      Av  10  48  38  Av/77  Normal Very pr 
+Tom Cosgrove*                 mr  30 L  .500  .154  Pr  Pr  Pr  Pr  Pr      Ex  Fr  19  95  56  Vg/97  Normal Normal  
+Danny Coulombe*               mr  36 L  .225  .188  Pr  Pr  Pr  Pr  Pr      Fr  Pr  13  41  42  Av/71  Normal Prone   
+Austin Cox*                   mr  29 L  .263  .357  Pr  Pr  Pr  Pr  Pr      Ex  Vg  44  66  49  Fr/86  Normal Normal  
+Nabil Crismatt                sp  31 R  .305  .265  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  15  49  53  Av/77  Normal Normal  
+Cooper Criswell               mr  29 R  .310  .311  Pr  Pr  Pr  Pr  Pr  Ex  Ex  Vg  15  73  56  Av/203 Normal Normal  
+Garrett Crochet*         CEC  sp  27 L  .166  .229  Pr  Pr  Pr  Pr  Pr  Vg      Av  19 334  52  Fr/0   Normal Iron    
+Fernando Cruz            DHL  mr  36 R  .225  .168  Pr  Pr  Pr  Pr  Pr      Av  Av  56  33  47  Av/68  Normal Very pr 
+Omar Cruz*                    mr  27 L  .250  .286  Pr  Pr  Pr  Pr  Pr      Vg  Av  19  94  20  Av/100 Normal Normal  
+Steven Cruz                   mr  27 R  .183  .235  Pr  Pr  Pr  Pr  Pr      Av  Vg  12  37  41  Av/70  Tough  Very pr 
+Xzavion Curry                 mr  27 R  .400  .250  Pr  Pr  Pr  Pr  Pr      Vg  Fr  19  95  38  Av/98  Normal Normal  
+John Curtiss                  mr  33 R  .150  .267  Pr  Pr  Pr  Pr  Pr      Av  Vg  11  53  35  Av/195 Normal Normal  
+Luis Curvelo                  mr  25 R  .194  .268  Pr  Pr  Pr  Pr  Pr      Av  Ex  14  72  32  Ex/87  Normal Normal  
+Caden Dana                    sp  22 R  .231  .277  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr  32  53  52  Av/78  Normal Normal  
+Davis Daniel                  sp  29 R  .231  .261  Pr  Pr  Pr  Pr  Pr  Av  Av  Pr  17  85  45  Pr/100 Normal Normal  
+Dugan Darnell                 mr  29 R  .056  .391  Pr  Pr  Pr  Pr  Pr      Vg  Pr  17  84  52  Vg/92  Normal Prone   
+Michael Darrell-Hicks         mr  28 R  .143  .364  Pr  Pr  Pr  Pr  Pr      Vg  Pr  99  86  35  Av/94  Normal Normal  
+Yu Darvish                    sp  39 R  .265  .226  Pr  Pr  Pr  Pr  Pr  Fr      Pr  30   1  45  Av/115 Normal Very pr 
+Noah Davis                    mr  29 R  .550  .344  Pr  Pr  Pr  Pr  Pr      Ex  Av  34  78  60  Fr/100 Normal Normal  
+Brett de Geus                 mr  28 R  .200  .000  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  97  67  Av/99  Normal Normal  
+Jose E. De Leon               sp  33 R  .286  .364  Pr  Pr  Pr  Pr  Pr  Ex      Fr  18  91  44  Av/100 Normal Normal  
+Enyel De Los Santos           mr  30 R  .283  .216  Pr  Pr  Pr  Pr  Pr      Av  Av  16 376  39  Av/300 Normal Iron    
+Yerry De Los Santos           mr  28 R  .291  .250  Pr  Pr  Pr  Pr  Pr      Vg  Av  28  47  61  Vg/76  Normal Prone   
+Jacob deGrom             RHJ  sp  38 R  .186  .205  Pr  Pr  Pr  Pr  Pr  Av      Av  10   0  43  Vg/0   Normal Normal  
+Anthony DeSclafani            mr  36 R  .258  .244  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Pr   9  44  48  Vg/74  Normal Prone   
+Reid Detmers*            BEB  mr  26 L  .292  .223  Pr  Pr  Pr  Pr  Pr      Av  Fr  17  11  49  Fr/58  Normal Prone   
+Chris Devenski                mr  35 R  .143  .200  Pr  Pr  Pr  Pr  Pr      Av  Pr  16  78  53  Ex/89  Normal Normal  
+Alexis Diaz              CEC  mr  29 R  .304  .178  Pr  Pr  Pr  Pr  Pr      Av  Pr  14  72  39  Av/88  Normal Prone   
+Edwin Diaz               BFP  cl  32 R  .158  .171  Pr  Pr  Pr  Pr  Pr      Av  Pr  60  14  49  Av/56  Normal Normal  
+Jhonathan Diaz*               mr  29 L  .500  .000  Pr  Pr  Pr  Pr  Pr      Av  Fr  20  98  20  Av/100 Normal Normal  
+Yilber Diaz                   mr  25 R  .143  .600  Pr  Pr  Pr  Pr  Pr      Ex  Av  99  95  29  Av/98  Normal Normal  
+Hunter Dobbins                sp  26 R  .267  .248  Pr  Pr  Pr  Pr  Pr  Fr      Ex   3  15  54  Av/59  Normal Very pr 
+Randy Dobnak                  mr  31 R  .100  .143  Pr  Pr  Pr  Pr  Pr      Ex  Fr  19  94  57  Av/96  Normal Normal  
+Dylan Dodd*                   mr  28 L  .319  .160  Pr  Pr  Pr  Pr  Pr      Av  Vg  16  55  54  Vg/77  Normal Normal  
+Chase Dollander               sp  24 R  .283  .256  Pr  Pr  Pr  Pr  Pr  Av      Pr  10   0  48  Av/300 Normal Prone   
+Seranthony Dominguez          mr  31 R  .277  .132  Pr  Pr  Pr  Pr  Pr      Av  Pr  99  13  46  Av/149 Normal Iron    
+Camilo Doval             GFB  mr  28 R  .196  .230  Pr  Pr  Pr  Pr  Pr      Av  Pr  32 500  58  Fr/142 Normal Iron    
+Jack Dreyer*                  mr  27 L  .181  .214  Pr  Pr  Pr  Pr  Pr      Av  Av   7   0  41  Fr/49  Normal Iron    
+Shawn Dubin                   mr  30 R  .226  .316  Pr  Pr  Pr  Pr  Pr      Av  Ex  10  52  57  Fr/78  Normal Very pr 
+Dane Dunning                  mr  31 R  .220  .349  Pr  Pr  Pr  Pr  Pr      Ex  Vg  23  68  50  Av/100 Normal Normal  
+Carlos Duran                  mr  24 R  .000 1.000  Pr  Pr  Pr  Pr  Pr      Av  Fr  20  98  20  Av/100 Normal Normal  
+Jhoan Duran              GST  cl  28 R  .168  .278  Pr  Pr  Pr  Pr  Pr      Av  Pr  23   4  70  Av/53  Normal Iron    
+Connelly Early*               sp  24 L  .150  .259  Pr  Pr  Pr  Pr  Pr  Fr      Av  15  74  43  Av/87  Normal Normal  
+Jake Eder*                    mr  27 L  .143  .282  Pr  Pr  Pr  Pr  Pr      Ex  Av  85  74  32  Av/88  Normal Normal  
+Carl  Edwards Jr.             mr  34 R  .333  .143  Pr  Pr  Pr  Pr  Pr      Vg  Fr  18  92  36  Av/96  Normal Normal  
+Scott Effross                 mr  32 R  .368  .310  Pr  Pr  Pr  Pr  Pr      Av  Fr  44  83  62  Av/93  Normal Very pr 
+Zach Eflin               KLO  sp  32 R  .316  .287  Pr  Pr  Pr  Pr  Pr  Av      Vg   7   0  50  Av/150 Normal Very pr 
+Brandon Eisert*               mr  28 L  .283  .269  Pr  Pr  Pr  Pr  Pr      Av  Fr  22 296  43  Ex/54  Normal Iron    
+Bryce Elder              DHL  sp  27 R  .239  .301  Pr  Pr  Pr  Pr  Pr  Vg      Fr   7   0  57  Av/0   Normal Normal  
+Fraser Ellard*                mr  28 L  .130  .161  Pr  Pr  Pr  Pr  Pr      Av  Fr  90  75  33  Fr/89  Normal Very pr 
+Mason Englert                 mr  26 R  .256  .247  Pr  Pr  Pr  Pr  Pr      Vg  Vg  24  38  46  Vg/70  Normal Prone   
+Dietrich Enns*                mr  35 L  .353  .226  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Fr  11  33  49  Fr/190 Normal Normal  
+Nic Enright                   mr  29 R  .265  .172  Pr  Pr  Pr  Pr  Pr      Av  Av  12 500  34  Av/79  Normal Prone   
+Nathan Eovaldi           RHJ  sp  36 R  .202  .186  Pr  Pr  Pr  Pr  Pr  Av      Vg  27   0  61  Av/63  Normal Very pr 
+Lucas Erceg              GST  mr  31 R  .200  .280  Pr  Pr  Pr  Pr  Pr      Av  Vg  27  17  54  Av/182 Normal Prone   
+Jose Espada                   mr  29 R  .000  .250  Pr  Pr  Pr  Pr  Pr      Ex  Fr  19  97  50  Av/100 Normal Normal  
+Joey Estes               DHL  sp  24 R  .200  .462  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  16  82  27  Av/100 Normal Prone   
+Carlos Estevez           CEC  cl  33 R  .223  .171  Pr  Pr  Pr  Pr  Pr      Av  Ex  17 336  26  Av/56  Normal Iron    
+Jeremiah Estrada         KSS  mr  27 R  .170  .245  Pr  Pr  Pr  Pr  Pr      Av  Vg  22   0  38  Fr/289 Tough  Iron    
+Lazaro Estrada                mr  27 R  .600  .190  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  88  45  Av/95  Normal Normal  
+Logan Evans                   sp  25 R  .265  .259  Pr  Pr  Pr  Pr  Pr  Av      Ex  32   0  45  Av/127 Normal Prone   
+Pete Fairbanks           KSS  cl  32 R  .208  .195  Pr  Pr  Pr  Pr  Pr      Av  Pr  18  19  53  Av/158 Normal Normal  
+Bailey Falter*                sp  29 L  .269  .241  Pr  Pr  Pr  Pr  Pr  Fr      Av  21   0  40  Av/16  Normal Prone   
+Mitch Farris*                 sp  25 L  .258  .262  Pr  Pr  Pr  Pr  Pr  Av      Av  21  64  28  Av/84  Normal Normal  
+Calvin Faucher                mr  30 R  .226  .245  Pr  Pr  Pr  Pr  Pr      Av  Av  17  15  53  Vg/60  Normal Iron    
+Erick Fedde                   sp  33 R  .310  .226  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr   7   0  45  Av/65  Normal Normal  
+Ryan Feltner                  sp  29 R  .293  .250  Pr  Pr  Pr  Pr  Pr  Av      Pr  11  55  51  Fr/80  Normal Very pr 
+Caleb Ferguson*               mr  29 L  .184  .263  Pr  Pr  Pr  Pr  Pr      Av  Fr   8  10  56  Av/56  Tough  Iron    
+Tyler Ferguson                mr  32 R  .241  .204  Pr  Pr  Pr  Pr  Pr      Av  Av   9  18  37  Fr/300 Tough  Normal  
+Jose M Fermin                 mr  24 R  .193  .200  Pr  Pr  Pr  Pr  Pr      Av  Ex  15 500  33  Av/77  Normal Prone   
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Julian Fernandez              mr  30 R  .222  .111  Pr  Pr  Pr  Pr  Pr      Av  Av  19  93  60  Vg/97  Normal Normal  
+Ryan Fernandez                mr  28 R  .286  .297  Pr  Pr  Pr  Pr  Pr      Av  Av  11  53  47  Av/212 Normal Normal  
+Jose Ferrer*                  mr  26 L  .186  .323  Pr  Pr  Pr  Pr  Pr      Av  Vg  41   0  72  Av/215 Normal Iron    
+David Festa              DHL  sp  26 R  .218  .262  Pr  Pr  Pr  Pr  Pr  Fr      Fr  10  24  36  Av/64  Normal Very pr 
+Matt Festa                    mr  33 R  .250  .196  Pr  Pr  Pr  Pr  Pr      Av  Pr  10 400  49  Av/64  Tough  Normal  
+J.P. Feyereisen               mr  33 R  .625  .429  Pr  Pr  Pr  Pr  Pr      Vg  Av  18  92  57  Av/100 Normal Normal  
+Kyle Finnegan            ZMG  cl  34 R  .204  .238  Pr  Pr  Pr  Pr  Pr      Av  Av  58  24  51  Av/62  Normal Prone   
+Braydon Fisher                mr  25 R  .149  .204  Pr  Pr  Pr  Pr  Pr      Av  Fr   7  33  39  Av/67  Tough  Normal  
+Richard Fitts                 sp  26 R  .254  .250  Pr  Pr  Pr  Pr  Pr  Pr      Av  11 464  44  Fr/70  Normal Very pr 
+Jack Flaherty            ZMG  sp  30 R  .248  .231  Pr  Pr  Pr  Pr  Pr  Av      Vg  13   0  44  Av/0   Normal Normal  
+Chris Flexen                  mr  31 R  .286  .191  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Ex  37  41  37  Av/152 Normal Normal  
+Mason Fluharty*               mr  24 L  .182  .202  Pr  Pr  Pr  Pr  Pr      Av  Ex  10  28  44  Fr/65  Normal Normal  
+J.P. France                   mr  31 R  .000  .167  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  95  20  Av/100 Normal Very pr 
+Bowden Francis           KSS  sp  30 R  .297  .265  Pr  Pr  Pr  Pr  Pr  Fr      Ex  23   4  39  Av/57  Normal Very pr 
+Kyle Freeland*           MHM  sp  33 L  .270  .300  Pr  Pr  Pr  Pr  Pr  Av      Ex   6   0  47  Av/300 Normal Prone   
+Caleb Freeman                 mr  28 R  .571  .143  Pr  Pr  Pr  Pr  Pr      Fr  Pr  19  95  20  Av/100 Normal Normal  
+Max Fried*               PMT  sp  32 L  .209  .226  Pr  Pr  Pr  Pr  Pr  Vg      Ex  22 113  58  Ex/148 Normal Iron    
+Didier Fuentes                sp  21 R  .370  .394  Pr  Pr  Pr  Pr  Pr  Pr      Ex  32  77  27  Av/100 Normal Normal  
+Carson Fulmer                 mr  32 R  .211  .245  Pr  Pr  Pr  Pr  Pr      Ex  Fr  36  59  47  Av/80  Normal Prone   
+Michael Fulmer                mr  33 R  .100  .455  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  92  25  Av/96  Normal Normal  
+Kody Funderburk*              mr  29 L  .246  .295  Pr  Pr  Pr  Pr  Pr      Av  Av  61 495  62  Vg/73  Tough  Normal  
+Hunter Gaddis            KLQ  mr  28 R  .206  .253  Pr  Pr  Pr  Pr  Pr      Av  Av  16   9  42  Av/143 Tough  Iron    
+Matt Gage*                    mr  33 L  .234  .345  Pr  Pr  Pr  Pr  Pr      Av  Ex  49  54  53  Fr/147 Normal Normal  
+Zac Gallen               VWB  sp  30 R  .256  .223  Pr  Pr  Pr  Pr  Pr  Vg      Av   5   0  49  Av/63  Normal Iron    
+Gerson Garabito               mr  30 R  .333  .471  Pr  Pr  Pr  Pr  Pr      Ex  Fr  17  86  60  Av/100 Normal Normal  
+Brandyn Garcia*               mr  26 L  .292  .333  Pr  Pr  Pr  Pr  Pr      Av  Av  34  78  60  Av/184 Normal Normal  
+Luis A. Garcia                mr  39 R  .256  .282  Pr  Pr  Pr  Pr  Pr      Av  Av  86  22  62  Av/63  Normal Prone   
+Luis H. Garcia           MHM  sp  29 R  .000  .150  Pr  Pr  Pr  Pr  Pr  Pr      Av  18  91  31  Av/95  Normal Very pr 
+Rico Garcia                   mr  32 R  .194  .275  Pr  Pr  Pr  Pr  Pr      Av  Vg  31  53  50  Av/77  Tough  Normal  
+Robert Garcia*                mr  30 L  .245  .236  Pr  Pr  Pr  Pr  Pr      Av  Vg   8 336  44  Fr/250 Normal Iron    
+Yimi Garcia              CEC  mr  35 R  .162  .179  Pr  Pr  Pr  Pr  Pr      Av  Fr  49  70  45  Av/223 Normal Very pr 
+Reed Garrett                  mr  33 R  .239  .211  Pr  Pr  Pr  Pr  Pr      Av  Av  28  21  50  Av/174 Tough  Prone   
+Justin Garza                  mr  32 R  .188  .455  Pr  Pr  Pr  Pr  Pr      Vg  Av  79  91  44  Av/100 Normal Normal  
+Robert Gasser*                sp  27 L  .000  .313  Pr  Pr  Pr  Pr  Pr  Pr      Av  18  90  33  Av/170 Normal Very pr 
+Kevin Gausman            CEC  sp  35 R  .193  .238  Pr  Pr  Pr  Pr  Pr  Vg      Av   3 234  40  Av/0   Normal Iron    
+Joey Gerber                   mr  29 R  .143  .250  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  95  50  Av/97  Normal Normal  
+Paul Gervase                  mr  26 R  .308  .200  Pr  Pr  Pr  Pr  Pr      Vg  Av  17  87  20  Av/100 Normal Normal  
+Ian Gibaut                    mr  32 R  .214  .293  Pr  Pr  Pr  Pr  Pr      Av  Av  13  64  37  Fr/166 Normal Very pr 
+Cade Gibson*                  mr  28 L  .229  .210  Pr  Pr  Pr  Pr  Pr      Av  Vg  58  23  58  Vg/64  Normal Normal  
+Kyle Gibson                   sp  38 R  .567  .353  Pr  Pr  Pr  Pr  Pr  Pr      Vg  30  76  59  Av/92  Normal Normal  
+Luis Gil                 GFB  sp  28 R  .220  .232  Pr  Pr  Pr  Pr  Pr  Av      Vg  36 500  34  Fr/300 Normal Very pr 
+Logan Gilbert            KLQ  sp  29 R  .197  .224  Pr  Pr  Pr  Pr  Pr  Av      Fr  42   0  41  Fr/119 Normal Very pr 
+Tyler Gilbert*                mr  32 L  .211  .219  Pr  Pr  Pr  Pr  Pr      Av  Pr  21  28  36  Av/66  Normal Prone   
+Lucas Gilbreath*              mr  30 L  .000  .250  Pr  Pr  Pr  Pr  Pr      Av  Pr  20  99  20  Av/100 Normal Normal  
+Logan Gillaspie               mr  29 R  .300  .250  Pr  Pr  Pr  Pr  Pr      Vg  Av  18 500  53  Av/95  Normal Very pr 
+Connor Gillispie              sp  28 R  .276  .314  Pr  Pr  Pr  Pr  Pr  Fr      Pr  18  59  45  Av/151 Normal Normal  
+Kevin Ginkel                  mr  32 R  .220  .328  Pr  Pr  Pr  Pr  Pr      Av  Vg  18  60  38  Fr/83  Normal Very pr 
+J.T. Ginn                     sp  27 R  .340  .193  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av   6   0  62  Fr/40  Normal Very pr 
+Lucas Giolito            ZMG  sp  31 R  .219  .259  Pr  Pr  Pr  Pr  Pr  Vg      Av  15   0  41  Fr/300 Normal Prone   
+Sawyer Gipson-Long            mr  28 R  .203  .368  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Pr  50  56  45  Fr/147 Normal Very pr 
+Tyler Glasnow            DHL  sp  32 R  .182  .173  Pr  Pr  Pr  Pr  Pr  Fr      Fr  30 500  50  Av/40  Normal Very pr 
+Austin Gomber*                sp  32 L  .353  .318  Pr  Pr  Pr  Pr  Pr  Av      Av  33   9  39  Vg/62  Normal Very pr 
+Yoendrys Gomez                mr  26 R  .261  .228  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  16   8  42  Av/58  Normal Normal  
+Tony Gonsolin            KLQ  sp  32 R  .276  .203  Pr  Pr  Pr  Pr  Pr  Av      Vg  14  48  44  Vg/76  Normal Very pr 
+Wikelman Gonzalez             mr  24 R  .195  .156  Pr  Pr  Pr  Pr  Pr      Vg  Av  14  71  31  Av/86  Normal Normal  
+Colton Gordon*                sp  27 L  .288  .294  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg  18 239  36  Av/183 Normal Normal  
+Tanner Gordon                 sp  28 R  .277  .333  Pr  Pr  Pr  Pr  Pr  Av      Av   7 340  42  Av/132 Normal Prone   
+MacKenzie Gore*          VWB  sp  27 L  .235  .259  Pr  Pr  Pr  Pr  Pr  Av      Av  39   0  39  Av/0   Normal Prone   
+Gordon Graceffo               mr  26 R  .263  .303  Pr  Pr  Pr  Pr  Pr      Ex  Vg  23  36  51  Fr/212 Normal Normal  
+Andre Granillo                mr  26 R  .375  .213  Pr  Pr  Pr  Pr  Pr      Vg  Vg  49  70  29  Fr/86  Normal Normal  
+Kendall Graveman         RHJ  mr  35 R  .304  .348  Pr  Pr  Pr  Pr  Pr      Av  Pr  15  73  57  Av/88  Normal Very pr 
+Jon Gray                      mr  34 R  .259  .267  Pr  Pr  Pr  Pr  Pr      Ex  Fr  16  79  20  Av/91  Normal Very pr 
+Sonny Gray               VWB  sp  36 R  .245  .282  Pr  Pr  Pr  Pr  Pr  Vg      Av   6   0  51  Av/59  Normal Iron    
+Chad Green                    mr  35 R  .246  .321  Pr  Pr  Pr  Pr  Pr      Av  Av   7  37  33  Fr/71  Normal Normal  
+Hunter Greene            DHL  sp  26 R  .184  .199  Pr  Pr  Pr  Pr  Pr  Av      Fr  26   0  36  Av/28  Normal Very pr 
+Sean Guenther*                mr  30 L  .368  .158  Pr  Pr  Pr  Pr  Pr      Av  Vg  17  86  50  Av/93  Normal Very pr 
+Luis Guerrero                 mr  25 R  .273  .086  Pr  Pr  Pr  Pr  Pr      Vg  Fr  15  76  46  Fr/100 Normal Very pr 
+Ryan Gusto                    sp  27 R  .321  .236  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av   0   0  39  Fr/32  Normal Prone   
+Josh Hader*              BEB  cl  32 L  .186  .149  Pr  Pr  Pr  Pr  Pr      Av  Fr  22  31  23  Ex/65  Normal Very pr 
+Justin Hagenman               mr  29 R  .327  .170  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  13  67  39  Av/84  Normal Normal  
+Jesse Hahn                    mr  36 R  .600  .231  Pr  Pr  Pr  Pr  Pr      Ex  Av  18 500  80  Vg/97  Normal Normal  
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+DL Hall*                      mr  27 L  .121  .213  Pr  Pr  Pr  Pr  Pr      Ex  Ex  10  48  43  Av/74  Normal Very pr 
+Seth Halvorsen                cl  26 R  .263  .284  Pr  Pr  Pr  Pr  Pr      Av  Fr  39  42  64  Fr/113 Normal Very pr 
+Dom Hamel                     mr  27 R  .500  .667  Pr  Pr  Pr  Pr  Pr      Vg  Fr  20  98  50  Av/100 Normal Normal  
+Ian Hamilton                  mr  31 R  .276  .148  Pr  Pr  Pr  Pr  Pr      Av  Ex  27  45  41  Av/73  Normal Prone   
+Emerson Hancock               sp  27 R  .264  .274  Pr  Pr  Pr  Pr  Pr  Av  Vg  Vg  12 235  52  Av/109 Normal Normal  
+Brenan Hanifee                mr  28 R  .373  .220  Pr  Pr  Pr  Pr  Pr      Av  Av  17  13  63  Av/217 Normal Normal  
+Thomas Harrington             cl  24 R  .571  .357  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  89  83  44  Av/94  Normal Normal  
+Hayden Harris*                mr  27 L 1.000  .125  Pr  Pr  Pr  Pr  Pr      Av  Av  19  96  29  Fr/100 Normal Normal  
+Hogan Harris*            KSS  mr  29 L  .236  .220  Pr  Pr  Pr  Pr  Pr      Vg  Av   8   8  38  Av/177 Normal Normal  
+Kyle Harrison*           BEB  sp  24 L  .234  .255  Pr  Pr  Pr  Pr  Pr  Fr  Vg  Av  14  48  42  Av/76  Normal Normal  
+Kyle Hart*                    mr  33 L  .189  .255  Pr  Pr  Pr  Pr  Pr  Pr  Av  Vg   8 500  34  Vg/71  Normal Normal  
+Geoff Hartlieb                mr  32 R  .714  .273  Pr  Pr  Pr  Pr  Pr      Vg  Fr  18  92  40  Av/98  Normal Normal  
+Hunter Harvey                 mr  31 R  .056  .250  Pr  Pr  Pr  Pr  Pr      Fr  Av  17  87  38  Fr/100 Normal Very pr 
+Thomas Hatch                  mr  31 R  .333  .241  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Fr  10  49  48  Av/77  Normal Normal  
+Brent Headrick*               mr  28 L  .243  .170  Pr  Pr  Pr  Pr  Pr      Vg  Vg  48  69  31  Vg/85  Normal Prone   
+Andrew Heaney*           VWB  sp  35 L  .311  .253  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg   8   0  45  Av/18  Normal Normal  
+Ryan Helsley             RHJ  cl  31 R  .278  .271  Pr  Pr  Pr  Pr  Pr      Av  Av  62  16  48  Av/63  Normal Normal  
+Logan Henderson               sp  24 R  .167  .216  Pr  Pr  Pr  Pr  Pr  Fr      Vg  13  67  22  Fr/100 Normal Very pr 
+Kyle Hendricks                sp  36 R  .238  .284  Pr  Pr  Pr  Pr  Pr  Av      Pr   0   0  43  Av/82  Normal Normal  
+Liam Hendriks                 mr  37 R  .273  .207  Pr  Pr  Pr  Pr  Pr      Av  Fr  16  80  30  Fr/91  Normal Very pr 
+Edgardo Henriquez             mr  24 R  .227  .240  Pr  Pr  Pr  Pr  Pr      Av  Av  57  74  53  Fr/170 Normal Very pr 
+Ronny Henriquez               mr  26 R  .211  .187  Pr  Pr  Pr  Pr  Pr      Av  Fr  15 500  40  Av/51  Normal Iron    
+Cole Henry                    mr  26 R  .218  .220  Pr  Pr  Pr  Pr  Pr      Av  Fr  18 475  34  Av/300 Normal Prone   
+Tommy Henry*                  mr  28 L  .250  .267  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  91  78  Av/96  Normal Very pr 
+Jimmy Herget                  mr  32 R  .244  .225  Pr  Pr  Pr  Pr  Pr      Vg  Av  13 500  40  Av/143 Tough  Normal  
+Kevin Herget                  mr  35 R  .304  .185  Pr  Pr  Pr  Pr  Pr      Ex  Vg  99  81  30  Fr/91  Normal Normal  
+Carlos Hernandez              mr  29 R  .333  .247  Pr  Pr  Pr  Pr  Pr      Av  Pr  66  32  33  Av/184 Normal Normal  
+Daysbel Hernandez             mr  29 R  .127  .263  Pr  Pr  Pr  Pr  Pr      Av  Av  27  45  43  Av/75  Normal Very pr 
+Nick Hernandez                mr  31 R  .294  .259  Pr  Pr  Pr  Pr  Pr      Av  Av  17  83  29  Av/100 Normal Normal  
+Tim Herrin*                   mr  29 L  .200  .267  Pr  Pr  Pr  Pr  Pr      Av  Av  23  35  47  Vg/72  Normal Normal  
+Codi Heuer                    mr  29 R  .300  .111  Pr  Pr  Pr  Pr  Pr      Vg  Av  99  93  60  Av/127 Normal Normal  
+Jordan Hicks             RHJ  mr  29 R  .311  .287  Pr  Pr  Pr  Pr  Pr  Av  Av  Vg  71   0  66  Av/55  Normal Very pr 
+Jaden Hill                    mr  26 R  .280  .213  Pr  Pr  Pr  Pr  Pr      Av  Pr  52  57  50  Av/80  Normal Normal  
+Rich Hill*                    sp  46 L  .111  .308  Pr  Pr  Pr  Pr  Pr  Av      Pr  17  86  55  Av/94  Normal Normal  
+Tim Hill*                     mr  36 L  .181  .282  Pr  Pr  Pr  Pr  Pr      Av  Ex   8  10  69  Vg/55  Normal Iron    
+Yaramil Hiraldo               mr  30 R  .273  .195  Pr  Pr  Pr  Pr  Pr      Av  Pr  53  72  36  Fr/172 Normal Normal  
+Sean Hjelle                   mr  29 R  .429  .265  Pr  Pr  Pr  Pr  Pr      Av  Ex  15  76  55  Av/90  Normal Normal  
+Porter Hodge             MHM  mr  25 R  .226  .297  Pr  Pr  Pr  Pr  Pr      Av  Vg  76 500  42  Av/78  Normal Very pr 
+Bryan Hoeing                  mr  29 R  .143  .389  Pr  Pr  Pr  Pr  Pr      Av  Fr  62  88  47  Vg/95  Normal Very pr 
+Jeff Hoffman             GFB  cl  33 R  .222  .205  Pr  Pr  Pr  Pr  Pr      Av  Fr  15   4  42  Fr/232 Normal Iron    
+Nolan Hoffman                 mr  28 R  .400 1.000  Pr  Pr  Pr  Pr  Pr      Vg  Av  99  98  80  Av/100 Normal Normal  
+Andrew Hoffmann               mr  26 R  .211  .313  Pr  Pr  Pr  Pr  Pr      Vg  Av  36  80  36  Av/92  Normal Normal  
+Gunnar Hoglund                sp  26 R  .258  .344  Pr  Pr  Pr  Pr  Pr  Av      Av  16  54  45  Av/78  Normal Very pr 
+Colin Holderman               mr  30 R  .286  .348  Pr  Pr  Pr  Pr  Pr      Av  Pr  53  58  59  Fr/100 Normal Very pr 
+Gavin Hollowell               mr  28 R  .250  .250  Pr  Pr  Pr  Pr  Pr      Vg  Pr  52  86  53  Av/94  Normal Normal  
+Grant Holman                  mr  26 R  .256  .296  Pr  Pr  Pr  Pr  Pr      Av  Ex  22  66  44  Pr/235 Normal Very pr 
+Clay Holmes              PMT  sp  33 R  .223  .261  Pr  Pr  Pr  Pr  Pr  Av      Vg  19 162  63  Av/58  Normal Iron    
+Grant Holmes             VWB  sp  30 R  .237  .232  Pr  Pr  Pr  Pr  Pr  Av      Ex  23   0  52  Av/73  Normal Very pr 
+Tyler Holton*            VWB  mr  30 L  .186  .259  Pr  Pr  Pr  Pr  Pr      Av  Vg  21   0  54  Vg/121 Normal Iron    
+Bailey Horn*                  mr  28 L  .364  .143  Pr  Pr  Pr  Pr  Pr      Av  Av  44  83  45  Av/92  Normal Normal  
+Cade Horton                   sp  24 R  .251  .184  Pr  Pr  Pr  Pr  Pr  Fr      Av   5   0  46  Fr/131 Normal Normal  
+Tanner Houck                  sp  30 R  .378  .247  Pr  Pr  Pr  Pr  Pr  Av      Fr  22  32  59  Av/142 Normal Very pr 
+Adrian Houser            MHH  sp  33 R  .274  .249  Pr  Pr  Pr  Pr  Pr  Vg      Av  21 500  56  Vg/71  Normal Normal  
+Bryan Hudson*                 mr  29 L  .333  .200  Pr  Pr  Pr  Pr  Pr      Av  Fr  15 500  52  Av/90  Normal Prone   
+Brant Hurter*            GFB  mr  27 L  .200  .270  Pr  Pr  Pr  Pr  Pr      Av  Fr  16   8  51  Fr/195 Normal Normal  
+Raisel Iglesias          MHM  cl  36 R  .208  .205  Pr  Pr  Pr  Pr  Pr      Av  Av   2  11  33  Vg/55  Normal Iron    
+Shota Imanaga*           MHM  sp  32 L  .218  .218  Pr  Pr  Pr  Pr  Pr  Av      Ex   4   0  32  Av/239 Normal Very pr 
+Jake Irvin               KLQ  sp  29 R  .286  .254  Pr  Pr  Pr  Pr  Pr  Vg      Av   8 145  48  Vg/51  Normal Iron    
+Luke Jackson                  mr  34 R  .253  .204  Pr  Pr  Pr  Pr  Pr      Av  Fr   5  27  52  Fr/121 Normal Normal  
+Alek Jacob                    mr  28 R  .275  .275  Pr  Pr  Pr  Pr  Pr      Av  Fr  10  49  38  Vg/78  Normal Normal  
+Drey Jameson                  cl  28 R  .286  .667  Pr  Pr  Pr  Pr  Pr      Av  Av  99  96  50  Av/98  Normal Normal  
+Kenley Jansen            BEB  cl  38 R  .217  .132  Pr  Pr  Pr  Pr  Pr      Fr  Pr   4 500  30  Fr/300 Tough  Normal  
+Bryce Jarvis                  mr  28 R  .239  .300  Pr  Pr  Pr  Pr  Pr      Ex  Vg  13  67  35  Av/85  Normal Normal  
+Cristian Javier          MHM  sp  29 R  .247  .212  Pr  Pr  Pr  Pr  Pr  Fr      Pr  42  48  32  Av/172 Normal Very pr 
+Griffin Jax              BFP  mr  31 R  .293  .202  Pr  Pr  Pr  Pr  Pr      Av  Av   1   6  51  Av/164 Normal Iron    
+Jackson Jobe             BFP  sp  23 R  .200  .295  Pr  Pr  Pr  Pr  Pr  Av      Av  10  27  42  Av/174 Normal Very pr 
+Pierce Johnson           PMT  mr  35 R  .255  .231  Pr  Pr  Pr  Pr  Pr      Av  Fr  19  21  34  Av/61  Normal Iron    
+Ryan Johnson                  mr  23 R  .455  .318  Pr  Pr  Pr  Pr  Pr      Av  Ex  15  76  52  Av/90  Normal Normal  
+Seth Johnson                  mr  27 R  .182  .250  Pr  Pr  Pr  Pr  Pr      Vg  Av  41  82  59  Av/174 Normal Normal  
+Ben Joyce                     mr  25 R  .250  .286  Pr  Pr  Pr  Pr  Pr      Av  Av  99  93  54  Pr/100 Normal Very pr 
+Jakob Junis              GFB  mr  33 R  .237  .270  Pr  Pr  Pr  Pr  Pr      Av  Av   2   9  47  Av/56  Tough  Normal  
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Janson Junk                   sp  30 R  .294  .236  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr  10   0  44  Av/27  Normal Prone   
+Tommy Kahnle                  mr  36 R  .236  .194  Pr  Pr  Pr  Pr  Pr      Fr  Ex  25  11  54  Pr/58  Normal Iron    
+Brad Keller                   mr  30 R  .223  .148  Pr  Pr  Pr  Pr  Pr      Av  Ex   8   8  58  Av/54  Normal Iron    
+Mitch Keller             KSS  sp  30 R  .270  .229  Pr  Pr  Pr  Pr  Pr  Av      Fr  15   0  50  Av/0   Normal Iron    
+Casey Kelly                   mr  36 R  .000  .250  Pr  Pr  Pr  Pr  Pr      Fr  Fr  99  98  50  Av/100 Normal Normal  
+Kevin Kelly              KSS  mr  28 R  .275  .286  Pr  Pr  Pr  Pr  Pr      Av  Fr  13 500  52  Av/74  Normal Very pr 
+Merrill Kelly            CEC  sp  37 R  .222  .229  Pr  Pr  Pr  Pr  Pr  Av      Av   3 283  48  Av/154 Normal Iron    
+Michael Kelly                 mr  33 R  .214  .230  Pr  Pr  Pr  Pr  Pr      Av  Av  13  45  45  Fr/177 Normal Normal  
+Zack Kelly                    mr  31 R  .217  .297  Pr  Pr  Pr  Pr  Pr      Vg  Av  15  49  43  Av/153 Normal Prone   
+Zak Kent                      mr  28 R  .278  .226  Pr  Pr  Pr  Pr  Pr      Vg  Av  88 500  41  Av/88  Normal Normal  
+Orion Kerkering          KLO  mr  25 R  .253  .229  Pr  Pr  Pr  Pr  Pr      Av  Vg  42  11  46  Vg/60  Normal Iron    
+Clayton Kershaw*         MHM  sp  38 L  .267  .237  Pr  Pr  Pr  Pr  Pr  Fr      Ex  24 247  51  Av/25  Normal Very pr 
+Yusei Kikuchi*                sp  35 L  .252  .264  Pr  Pr  Pr  Pr  Pr  Av      Vg  23   0  42  Av/217 Normal Iron    
+Craig Kimbrel                 mr  38 R  .313  .192  Pr  Pr  Pr  Pr  Pr      Fr  Pr  17  84  27  Av/92  Normal Normal  
+Bryan King*                   mr  29 L  .306  .204  Pr  Pr  Pr  Pr  Pr      Av  Ex  24   8  42  Av/166 Normal Iron    
+John King*                    mr  31 L  .253  .374  Pr  Pr  Pr  Pr  Pr      Av  Av  30  26  71  Ex/68  Normal Prone   
+Michael King             ZMG  sp  31 R  .237  .207  Pr  Pr  Pr  Pr  Pr  Fr      Ex  14   0  41  Av/51  Normal Very pr 
+Tyler Kinley                  mr  35 R  .202  .192  Pr  Pr  Pr  Pr  Pr      Av  Pr  43 371  37  Av/52  Normal Iron    
+George Kirby             GFB  sp  28 R  .264  .239  Pr  Pr  Pr  Pr  Pr  Av      Av  13   0  49  Av/16  Normal Very pr 
+Andrew Kittredge         KSS  mr  36 R  .191  .229  Pr  Pr  Pr  Pr  Pr      Av  Pr  11  31  58  Av/65  Tough  Very pr 
+Will Klein                    mr  26 R  .171  .364  Pr  Pr  Pr  Pr  Pr      Av  Fr  15  77  61  Vg/90  Normal Normal  
+Landon Knack                  sp  28 R  .216  .284  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av  12  38  35  Av/72  Normal Normal  
+Jack Kochanowicz              sp  25 R  .309  .309  Pr  Pr  Pr  Pr  Pr  Av      Ex  17 177  59  Av/267 Normal Normal  
+Jared Koenig*            ZMG  mr  32 L  .214  .252  Pr  Pr  Pr  Pr  Pr      Av  Ex   8  11  45  Fr/164 Normal Iron    
+Stephen Kolek                 sp  29 R  .229  .242  Pr  Pr  Pr  Pr  Pr  Vg      Ex   0   0  56  Fr/235 Normal Normal  
+Michael Kopech           KSS  mr  30 R  .000  .250  Pr  Pr  Pr  Pr  Pr      Av  Vg  99 500  36  Av/100 Normal Very pr 
+Jackson Kowar                 mr  29 R  .205  .250  Pr  Pr  Pr  Pr  Pr      Av  Fr  63  76  29  Fr/100 Normal Very pr 
+Max Kranick                   mr  28 R  .231  .250  Pr  Pr  Pr  Pr  Pr      Vg  Ex  10  51  40  Av/75  Normal Very pr 
+Dean Kremer              KSS  sp  30 R  .249  .248  Pr  Pr  Pr  Pr  Pr  Av      Ex  28 128  43  Vg/0   Normal Normal  
+Brooks Kriske                 mr  32 R  .333  .222  Pr  Pr  Pr  Pr  Pr      Vg  Av  25  71  49  Vg/88  Normal Normal  
+Matt Krook*                   mr  31 L  .250  .444  Pr  Pr  Pr  Pr  Pr      Av  Pr  99  95  20  Av/98  Normal Normal  
+Joe La Sorsa*                 mr  28 L  .538  .333  Pr  Pr  Pr  Pr  Pr      Vg  Fr  18  89  38  Av/100 Normal Normal  
+Alex Lange                    mr  30 R  .000  .500  Pr  Pr  Pr  Pr  Pr      Vg  Av  20  98  20  Av/100 Normal Very pr 
+Sauryn Lao                    mr  26 R  .273  .333  Pr  Pr  Pr  Pr  Pr      Vg  Av  17  84  52  Av/93  Normal Normal  
+Andry Lara                    mr  23 R  .280  .476  Pr  Pr  Pr  Pr  Pr      Ex  Vg  15  74  61  Av/90  Normal Normal  
+Jake Latz*                    mr  30 L  .170  .250  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av  13   0  40  Fr/43  Normal Normal  
+Eric Lauer*                   sp  31 L  .234  .224  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Fr   0   0  31  Fr/300 Normal Normal  
+Cody Laweryson                mr  28 R  .167  .167  Pr  Pr  Pr  Pr  Pr      Av  Av  18  91  43  Av/95  Normal Normal  
+Casey Lawrence                mr  38 R  .313  .356  Pr  Pr  Pr  Pr  Pr      Ex  Fr  28  73  40  Fr/88  Normal Normal  
+Justin Lawrence          MHM  mr  31 R  .136  .162  Pr  Pr  Pr  Pr  Pr      Av  Av  64  77  52  Av/88  Normal Very pr 
+Max Lazar                     mr  27 R  .260  .262  Pr  Pr  Pr  Pr  Pr      Av  Vg  39  43  44  Fr/72  Normal Normal  
+Kyle Leahy                    mr  29 R  .252  .238  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Ex  31   0  51  Av/113 Normal Normal  
+Jordan Leasure                mr  27 R  .223  .196  Pr  Pr  Pr  Pr  Pr      Av  Av  25  10  29  Fr/57  Normal Iron    
+Jose Leclerc                  mr  32 R  .250  .360  Pr  Pr  Pr  Pr  Pr      Av  Fr  48 500  40  Av/94  Normal Very pr 
+Chase Lee                     mr  27 R  .193  .273  Pr  Pr  Pr  Pr  Pr      Av  Av  10  51  45  Av/75  Normal Normal  
+Dylan Lee*               BFP  mr  31 L  .200  .223  Pr  Pr  Pr  Pr  Pr      Av  Vg  25 500  45  Av/54  Normal Iron    
+Casey Legumina                mr  29 R  .230  .262  Pr  Pr  Pr  Pr  Pr      Av  Ex  10  27  38  Av/67  Normal Normal  
+Jack Leiter              EEB  sp  26 R  .183  .263  Pr  Pr  Pr  Pr  Pr  Av      Av  34 140  40  Av/85  Normal Prone   
+Mark Leiter                   mr  35 R  .269  .315  Pr  Pr  Pr  Pr  Pr      Av  Av  81  27  51  Fr/194 Normal Prone   
+Matthew Liberatore*      KLO  sp  26 L  .274  .265  Pr  Pr  Pr  Pr  Pr  Av      Av  21   0  42  Av/0   Normal Normal  
+Zack Littell             MHH  sp  30 R  .238  .250  Pr  Pr  Pr  Pr  Pr  Vg      Fr   9   0  44  Av/65  Normal Iron    
+Brendon Little*               mr  29 L  .195  .197  Pr  Pr  Pr  Pr  Pr      Av  Ex  53 307  68  Vg/277 Tough  Iron    
+Jack Little                   mr  28 R  .600  .143  Pr  Pr  Pr  Pr  Pr      Vg  Av  19  95  20  Av/100 Normal Normal  
+Luke Little*                  mr  25 L  .000  .167  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  95  33  Av/133 Normal Normal  
+Ben Lively               KSS  sp  34 R  .241  .226  Pr  Pr  Pr  Pr  Pr  Fr      Pr   8  41  32  Fr/70  Normal Very pr 
+Jonathan Loaisiga             mr  31 R  .304  .267  Pr  Pr  Pr  Pr  Pr      Av  Vg  16  55  59  Ex/80  Normal Very pr 
+Nick Lodolo*             BEB  sp  28 L  .297  .216  Pr  Pr  Pr  Pr  Pr  Av      Av   7 178  48  Av/178 Normal Prone   
+Sam Long*                     mr  30 L  .328  .265  Pr  Pr  Pr  Pr  Pr      Av  Ex  59  37  45  Av/161 Normal Very pr 
+Jacob Lopez*                  sp  28 L  .216  .234  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av   0 227  31  Av/280 Normal Prone   
+Jorge Lopez              PMT  mr  33 R  .289  .245  Pr  Pr  Pr  Pr  Pr      Av  Pr  63  65  52  Av/84  Normal Normal  
+Pablo Lopez              CEC  sp  30 R  .272  .163  Pr  Pr  Pr  Pr  Pr  Av      Fr   7 500  45  Av/261 Normal Very pr 
+Reynaldo Lopez           BFP  sp  32 R  .417  .364  Pr  Pr  Pr  Pr  Pr  Vg      Av  18  92  54  Av/97  Normal Very pr 
+Brad Lord                     mr  26 R  .270  .241  Pr  Pr  Pr  Pr  Pr  Fr  Vg  Ex   4   0  54  Av/13  Normal Iron    
+Michael Lorenzen         DHL  sp  34 R  .268  .267  Pr  Pr  Pr  Pr  Pr  Av      Av  44   0  45  Av/6   Normal Prone   
+Ryan Loutos                   mr  27 R  .333  .364  Pr  Pr  Pr  Pr  Pr      Vg  Fr  15  77  47  Av/249 Normal Normal  
+Richard Lovelady*             mr  30 L  .227  .304  Pr  Pr  Pr  Pr  Pr      Vg  Av  16  81  70  Av/92  Normal Normal  
+Easton Lucas*                 sp  29 L  .150  .306  Pr  Pr  Pr  Pr  Pr  Pr      Vg  21  64  42  Av/84  Normal Normal  
+Joey Lucchesi*                mr  33 L  .219  .250  Pr  Pr  Pr  Pr  Pr      Av  Vg  27 500  61  Av/74  Tough  Normal  
+Seth Lugo                EEB  sp  36 R  .272  .203  Pr  Pr  Pr  Pr  Pr  Vg      Ex  18   0  43  Av/3   Normal Prone   
+Jesus Luzardo*           GST  sp  28 L  .205  .251  Pr  Pr  Pr  Pr  Pr  Vg      Pr   6 151  48  Av/189 Normal Iron    
+Daniel Lynch*                 mr  29 L  .262  .259  Pr  Pr  Pr  Pr  Pr  Pr  Av  Vg   8   4  53  Av/55  Normal Prone   
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Kenta Maeda                   mr  38 R  .286  .263  Pr  Pr  Pr  Pr  Pr      Vg  Av  99  86  50  Av/95  Normal Normal  
+Tyler Mahle              MHH  sp  31 R  .179  .250  Pr  Pr  Pr  Pr  Pr  Av      Vg   0 262  41  Vg/42  Normal Very pr 
+Anthony Maldonado             mr  28 R  .200  .391  Pr  Pr  Pr  Pr  Pr      Vg  Fr  67  89  27  Vg/100 Normal Normal  
+Sean Manaea*             VWB  sp  34 L  .258  .257  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av  17  12  44  Av/60  Normal Very pr 
+Joe Mantiply*                 mr  35 L  .480  .483  Pr  Pr  Pr  Pr  Pr      Vg  Av  16  81  65  Av/94  Normal Normal  
+Ron Marinaccio                mr  30 R  .200  .148  Pr  Pr  Pr  Pr  Pr      Vg  Fr  17  86  40  Av/93  Normal Normal  
+German Marquez                sp  31 R  .311  .323  Pr  Pr  Pr  Pr  Pr  Av      Pr  23   0  41  Fr/16  Normal Prone   
+Chris Martin             GST  mr  40 R  .274  .255  Pr  Pr  Pr  Pr  Pr      Av  Pr  26  42  48  Vg/72  Normal Very pr 
+Corbin Martin                 mr  30 R  .237  .342  Pr  Pr  Pr  Pr  Pr      Av  Av  25 500  52  Fr/147 Normal Normal  
+Davis Martin                  sp  29 R  .255  .248  Pr  Pr  Pr  Pr  Pr  Av      Av   7 301  52  Av/5   Normal Prone   
+Justin Martinez          VWB  cl  24 R  .071  .208  Pr  Pr  Pr  Pr  Pr      Av  Av  66  78  64  Fr/140 Normal Very pr 
+Nick Martinez            KSS  sp  35 R  .244  .263  Pr  Pr  Pr  Pr  Pr  Av  Vg  Av  20   0  45  Av/85  Normal Iron    
+Seth Martinez                 mr  31 R  .143  .250  Pr  Pr  Pr  Pr  Pr      Av  Fr  18 500  25  Av/96  Normal Normal  
+Phil Maton               ZMG  mr  33 R  .226  .174  Pr  Pr  Pr  Pr  Pr      Av  Fr   9  17  45  Av/173 Normal Normal  
+Yuki Matsui*                  mr  30 L  .263  .201  Pr  Pr  Pr  Pr  Pr      Av  Av  41   9  35  Av/58  Normal Normal  
+Zebby Matthews                sp  26 R  .316  .267  Pr  Pr  Pr  Pr  Pr  Av      Ex  13   0  36  Vg/112 Normal Prone   
+Isaac Mattson                 mr  30 R  .267  .155  Pr  Pr  Pr  Pr  Pr      Av  Ex   7  34  25  Ex/130 Normal Normal  
+Steven Matz*             MHH  mr  35 L  .211  .276  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Ex  22   0  49  Vg/49  Normal Normal  
+Tyler Matzek*                 mr  35 L  .500  .294  Pr  Pr  Pr  Pr  Pr      Av  Pr  18  88  20  Av/100 Normal Normal  
+Zach Maxwell                  mr  25 R  .143  .320  Pr  Pr  Pr  Pr  Pr      Vg  Fr  17  86  50  Av/100 Normal Normal  
+Dustin May               BEB  sp  28 R  .261  .256  Pr  Pr  Pr  Pr  Pr  Vg      Pr   4   0  48  Av/127 Normal Prone   
+Tim Mayza*                    mr  34 L  .200  .293  Pr  Pr  Pr  Pr  Pr      Av  Av  30  75  63  Av/89  Normal Very pr 
+Adam Mazur                    sp  25 R  .278  .245  Pr  Pr  Pr  Pr  Pr  Av      Vg  32  54  51  Vg/80  Normal Normal  
+Darren McCaughan              mr  30 R  .000  .294  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  92  20  Av/100 Normal Normal  
+Lance McCullers               sp  32 R  .231  .303  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Pr   8   9  54  Av/115 Normal Very pr 
+Garrett McDaniels*            mr  26 L  .267  .346  Pr  Pr  Pr  Pr  Pr      Av  Pr  89  83  80  Fr/100 Normal Prone   
+Chayce McDermott              mr  27 R  .278  .389  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  87 500  38  Av/94  Normal Prone   
+Trevor McDonald               sp  25 R  .333  .167  Pr  Pr  Pr  Pr  Pr  Vg  Ex  Av  37  80  57  Vg/90  Normal Normal  
+T.J. McFarland*               mr  37 L  .393  .366  Pr  Pr  Pr  Pr  Pr      Fr  Vg  30  75  67  Av/90  Normal Prone   
+Easton McGee                  mr  28 R  .294  .227  Pr  Pr  Pr  Pr  Pr      Vg  Av  16  79  62  Vg/90  Normal Normal  
+Scott McGough                 mr  36 R  .219  .314  Pr  Pr  Pr  Pr  Pr      Vg  Ex  15  75  33  Fr/89  Normal Normal  
+Michael McGreevy         GFB  sp  25 R  .318  .225  Pr  Pr  Pr  Pr  Pr  Vg      Ex   0 286  53  Vg/82  Normal Normal  
+Triston McKenzie              mr  28 R  .364  .273  Pr  Pr  Pr  Pr  Pr      Ex  Av  99  90  25  Fr/96  Normal Normal  
+Nolan McLean                  sp  24 R  .178  .225  Pr  Pr  Pr  Pr  Pr  Vg      Ex  24  37  68  Vg/68  Normal Normal  
+Nick Mears                    mr  29 R  .214  .212  Pr  Pr  Pr  Pr  Pr      Fr  Vg  20  26  37  Av/62  Normal Prone   
+Victor Mederos                sp  25 R  .278  .276  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg  27  73  41  Av/100 Normal Prone   
+Trevor Megill            GFB  cl  32 R  .187  .235  Pr  Pr  Pr  Pr  Pr      Av  Pr  23  36  46  Av/69  Normal Prone   
+Tylor Megill                  sp  30 R  .221  .237  Pr  Pr  Pr  Pr  Pr  Av      Vg  22   0  41  Av/182 Normal Very pr 
+Juan M. Mejia                 mr  25 R  .267  .198  Pr  Pr  Pr  Pr  Pr      Av  Vg  17  13  43  Av/219 Normal Normal  
+Troy Melton                   mr  25 R  .200  .182  Pr  Pr  Pr  Pr  Pr  Fr  Vg  Av  25  40  47  Vg/70  Normal Normal  
+Cristian Mena                 mr  23 R  .077  .200  Pr  Pr  Pr  Pr  Pr      Ex  Av  85  91  67  Av/96  Normal Very pr 
+Michael Mercado               mr  27 R  .571  .375  Pr  Pr  Pr  Pr  Pr      Vg  Av  19  93  40  Av/100 Normal Normal  
+Julian Merryweather           mr  34 R  .286  .317  Pr  Pr  Pr  Pr  Pr      Av  Pr  25  71  58  Av/209 Normal Normal  
+Parker Messick*               sp  25 L  .256  .302  Pr  Pr  Pr  Pr  Pr  Vg      Ex  27 500  51  Pr/300 Normal Normal  
+Luis Mey                      mr  25 R  .188  .244  Pr  Pr  Pr  Pr  Pr      Av  Ex  46  68  56  Av/86  Normal Normal  
+Max Meyer                     sp  27 R  .237  .315  Pr  Pr  Pr  Pr  Pr  Vg      Vg   1 401  57  Av/57  Normal Very pr 
+Miles Mikolas                 sp  37 R  .270  .274  Pr  Pr  Pr  Pr  Pr  Av      Av   3   0  45  Av/50  Normal Normal  
+Wade Miley*                   sp  39 L  .133  .406  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr  16  82  48  Av/92  Normal Very pr 
+Bobby Miller             KLO  sp  27 R  .357  .545  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Av  18  91  57  Av/97  Normal Normal  
+Bryce Miller             VWB  sp  27 R  .258  .274  Pr  Pr  Pr  Pr  Pr  Av      Fr  11   0  45  Av/40  Normal Very pr 
+Erik Miller*                  mr  28 L  .216  .250  Pr  Pr  Pr  Pr  Pr      Av  Vg  17  57  52  Av/80  Normal Very pr 
+Mason Miller             EEB  cl  27 R  .162  .123  Pr  Pr  Pr  Pr  Pr      Av  Av  28 418  45  Av/59  Normal Normal  
+Shelby Miller                 mr  35 R  .139  .259  Pr  Pr  Pr  Pr  Pr      Av  Pr  12  38  35  Av/169 Normal Very pr 
+Hoby Milner*             KLQ  mr  35 L  .208  .295  Pr  Pr  Pr  Pr  Pr      Av  Ex   0   2  61  Av/53  Normal Iron    
+A.J. Minter*                  mr  32 L  .176  .136  Pr  Pr  Pr  Pr  Pr      Fr  Av  17 500  53  Vg/93  Normal Very pr 
+Anthony Misiewicz*            mr  31 L  .333  .231  Pr  Pr  Pr  Pr  Pr      Av  Av  99  92  33  Av/97  Normal Very pr 
+Jacob Misiorowski             sp  24 R  .221  .205  Pr  Pr  Pr  Pr  Pr  Fr      Ex   8   9  41  Pr/228 Normal Prone   
+Casey Mize               KLO  sp  29 R  .268  .258  Pr  Pr  Pr  Pr  Pr  Av      Av   7   0  43  Av/150 Normal Prone   
+Carmen Mlodzinski             mr  27 R  .247  .282  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  27   0  53  Av/34  Tough  Normal  
+Anthony Molina                mr  24 R  .400  .308  Pr  Pr  Pr  Pr  Pr  Vg  Ex  Vg  14 500  48  Av/77  Normal Normal  
+Sam Moll*                     mr  34 L  .171  .310  Pr  Pr  Pr  Pr  Pr      Fr  Fr  99  73  41  Fr/88  Normal Prone   
+Frankie Montas                sp  33 R  .309  .287  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr  12  41  44  Av/74  Normal Very pr 
+Keider Montero                sp  25 R  .282  .255  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Ex  11   0  46  Av/40  Normal Normal  
+Rafael Montero                mr  35 R  .187  .202  Pr  Pr  Pr  Pr  Pr      Av  Vg   3  16  50  Av/60  Normal Normal  
+Christian Montes De Oca       mr  26 R  .000  .000  Pr  Pr  Pr  Pr  Pr      Ex  Fr  19  97  50  Av/98  Normal Very pr 
+Patrick Monteverde*           mr  28 L  .556  .400  Pr  Pr  Pr  Pr  Pr      Ex  Fr  19  93  20  Av/100 Normal Normal  
+Mason Montgomery*             mr  26 L  .206  .321  Pr  Pr  Pr  Pr  Pr      Av  Fr  11  30  55  Fr/136 Normal Normal  
+Luis Morales                  sp  23 R  .222  .202  Pr  Pr  Pr  Pr  Pr  Av      Fr  22  34  38  Av/68  Normal Normal  
+Jovani Moran*                 mr  29 L  .333  .273  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  93  43  Av/100 Normal Normal  
+Adrian Morejon*          KLO  mr  27 L  .148  .216  Pr  Pr  Pr  Pr  Pr      Av  Fr  16   5  58  Av/158 Normal Iron    
+Dauri Moreta                  mr  30 R  .280  .257  Pr  Pr  Pr  Pr  Pr      Av  Pr  15  77  28  Av/89  Normal Very pr 
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+David Morgan                  mr  26 R  .224  .200  Pr  Pr  Pr  Pr  Pr      Av  Av  23  36  52  Vg/68  Normal Prone   
+Eli Morgan                    mr  30 R  .353  .400  Pr  Pr  Pr  Pr  Pr      Av  Pr  18  88  56  Ex/95  Normal Very pr 
+Juan Morillo                  mr  27 R  .264  .320  Pr  Pr  Pr  Pr  Pr      Av  Ex  44  49  55  Fr/77  Normal Normal  
+Charlie Morton                sp  42 R  .257  .289  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  10 277  52  Av/228 Normal Normal  
+Andres Munoz             BFP  cl  27 R  .150  .181  Pr  Pr  Pr  Pr  Pr      Av  Av  61  15  55  Fr/58  Normal Iron    
+Roddery Munoz                 mr  26 R  .188  .250  Pr  Pr  Pr  Pr  Pr      Vg  Fr  44  83  33  Av/93  Normal Normal  
+Rolddy Munoz                  mr  26 R  .222  .400  Pr  Pr  Pr  Pr  Pr      Vg  Av  99  93  80  Av/100 Normal Normal  
+Noah Murdock                  mr  27 R  .318  .358  Pr  Pr  Pr  Pr  Pr      Vg  Fr  13 500  43  Vg/89  Normal Normal  
+Penn Murfee                   mr  32 R  .294  .350  Pr  Pr  Pr  Pr  Pr      Av  Ex  16  79  40  Av/92  Normal Normal  
+Chris Murphy*                 mr  28 L  .196  .158  Pr  Pr  Pr  Pr  Pr      Vg  Av  15  51  60  Vg/77  Normal Very pr 
+Jayden Murray                 mr  29 R  .167  .269  Pr  Pr  Pr  Pr  Pr      Av  Av  17  84  35  Av/92  Normal Normal  
+Tobias Myers             MHM  mr  27 R  .274  .265  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Ex   5 500  39  Av/149 Normal Prone   
+Tommy Nance                   mr  35 R  .225  .208  Pr  Pr  Pr  Pr  Pr      Av  Pr  18  58  60  Av/138 Normal Normal  
+Kyle Nelson*                  cl  29 L  .333  .000  Pr  Pr  Pr  Pr  Pr      Av  Av  99  96  20  Av/100 Normal Normal  
+Ryne Nelson              MHH  sp  28 R  .191  .239  Pr  Pr  Pr  Pr  Pr  Av  Ex  Ex   4   0  44  Av/0   Normal Normal  
+Hector Neris                  mr  37 R  .263  .298  Pr  Pr  Pr  Pr  Pr      Av  Fr  72 500  33  Av/82  Normal Normal  
+Sean Newcomb*                 mr  33 L  .226  .287  Pr  Pr  Pr  Pr  Pr  Av  Vg  Fr  11   0  48  Av/38  Tough  Normal  
+Kyle Nicolas                  mr  27 R  .211  .247  Pr  Pr  Pr  Pr  Pr      Vg  Av  13  44  39  Av/75  Normal Normal  
+Doug Nikhazy*                 sp  26 L  .500  .182  Pr  Pr  Pr  Pr  Pr  Fr  Fr  Av  97  92  29  Av/100 Normal Normal  
+Aaron Nola               KLQ  sp  33 R  .270  .262  Pr  Pr  Pr  Pr  Pr  Vg      Av   6   0  50  Av/37  Normal Very pr 
+Dedniel Nunez                 mr  30 R  .154  .182  Pr  Pr  Pr  Pr  Pr      Av  Av  54  86  22  Av/100 Normal Very pr 
+Eduarniel Nunez               mr  27 R  .381  .208  Pr  Pr  Pr  Pr  Pr      Vg  Fr  74  80  23  Av/100 Normal Normal  
+Riley O'Brien                 mr  31 R  .157  .224  Pr  Pr  Pr  Pr  Pr      Av  Vg  34  34  62  Vg/68  Normal Normal  
+Bailey Ober              KLO  sp  30 R  .274  .275  Pr  Pr  Pr  Pr  Pr  Av      Ex   4 290  33  Av/2   Normal Prone   
+Shinnosuke Ogasawara*         mr  28 L  .258  .310  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Av  13  42  42  Vg/74  Normal Normal  
+Pierson Ohl                   mr  26 R  .264  .352  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  11  56  43  Av/80  Normal Normal  
+Shohei Ohtani            DHL  dh  31 R  .179  .265  Pr  Pr  Av  Vg  Av  Pr      Ex  99  37  53  Vg/69  Normal Iron    
+Steven Okert*            DHL  mr  34 L  .184  .180  Pr  Pr  Pr  Pr  Pr      Av  Pr   2   8  24  Av/169 Normal Iron    
+Reese Olson              KLO  sp  26 R  .207  .246  Pr  Pr  Pr  Pr  Pr  Av      Vg  16   5  47  Fr/54  Normal Very pr 
+Kaleb Ort                     mr  34 R  .254  .188  Pr  Pr  Pr  Pr  Pr      Av  Av  23  35  43  Fr/69  Normal Very pr 
+Luis L. Ortiz            RHJ  sp  27 R  .222  .253  Pr  Pr  Pr  Pr  Pr  Vg      Fr   0   0  53  Vg/300 Normal Normal  
+Eric Orze                     mr  28 R  .217  .274  Pr  Pr  Pr  Pr  Pr      Vg  Pr   8  41  40  Av/72  Normal Normal  
+Michel Otanez                 mr  28 R  .000  .412  Pr  Pr  Pr  Pr  Pr      Av  Fr  18  91  44  Fr/100 Normal Prone   
+Adam Ottavino                 mr  40 R  .000  .000  Pr  Pr  Pr  Pr  Pr      Fr  Pr  19  97  20  Fr/100 Normal Normal  
+Johan Oviedo                  sp  28 R  .151  .214  Pr  Pr  Pr  Pr  Pr  Fr      Av  13 500  34  Av/73  Normal Very pr 
+Tyler Owens                   mr  25 R  .250  .250  Pr  Pr  Pr  Pr  Pr      Av  Av  19  95  50  Av/100 Normal Normal  
+Chris Paddack                 sp  30 R  .256  .281  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg  17   0  42  Av/50  Normal Normal  
+Emilio Pagan                  cl  35 R  .161  .175  Pr  Pr  Pr  Pr  Pr      Av  Av   8 424  29  Av/54  Normal Iron    
+Daniel Palencia               cl  26 R  .242  .210  Pr  Pr  Pr  Pr  Pr      Av  Av  21  28  46  Fr/65  Normal Prone   
+Jake Palisch*                 mr  27 L  .000  .600  Pr  Pr  Pr  Pr  Pr      Vg  Fr  20  98  33  Av/100 Normal Normal  
+Andre Pallante           KLO  sp  27 R  .266  .275  Pr  Pr  Pr  Pr  Pr  Av      Av  37 320  68  Av/174 Normal Normal  
+Carson Palmquist*             sp  25 L  .368  .304  Pr  Pr  Pr  Pr  Pr  Av  Ex  Pr  13  42  32  Vg/77  Normal Normal  
+Mitchell Parker*              sp  26 L  .270  .273  Pr  Pr  Pr  Pr  Pr  Av  Ex  Ex   9   0  39  Av/300 Normal Normal  
+Chad Patrick                  sp  27 R  .267  .233  Pr  Pr  Pr  Pr  Pr  Av  Av  Vg   4   0  38  Av/91  Normal Normal  
+Joel Payamps                  mr  32 R  .450  .206  Pr  Pr  Pr  Pr  Pr      Av  Ex  12  61  39  Av/82  Normal Normal  
+Nate Pearson             KLO  mr  29 R  .400  .333  Pr  Pr  Pr  Pr  Pr      Vg  Av  30  75  31  Fr/90  Normal Normal  
+Elvis Peguero                 mr  29 R  .375  .250  Pr  Pr  Pr  Pr  Pr      Vg  Vg  47  84  50  Av/94  Normal Prone   
+Joel Peguero                  mr  29 R  .357  .104  Pr  Pr  Pr  Pr  Pr      Av  Fr  14 500  53  Fr/85  Normal Normal  
+Ryan Pepiot              BEB  sp  28 R  .175  .260  Pr  Pr  Pr  Pr  Pr  Av      Fr  16   0  43  Av/0   Normal Normal  
+Freddy Peralta           MHM  sp  30 R  .204  .181  Pr  Pr  Pr  Pr  Pr  Av      Av  12 317  41  Av/0   Normal Iron    
+Luis Peralta*                 mr  25 L  .351  .302  Pr  Pr  Pr  Pr  Pr      Av  Fr  22 500  31  Av/87  Normal Prone   
+Sammy Peralta*                mr  28 L  .267  .345  Pr  Pr  Pr  Pr  Pr      Ex  Fr  17  83  33  Av/93  Normal Normal  
+Wandy Peralta*                mr  34 L  .237  .239  Pr  Pr  Pr  Pr  Pr      Av  Vg   7 366  66  Fr/52  Normal Iron    
+Angel Perdomo*                mr  32 L  .333  .111  Pr  Pr  Pr  Pr  Pr      Av  Pr  19  95  62  Av/100 Normal Normal  
+Cionel Perez*                 mr  30 L  .265  .358  Pr  Pr  Pr  Pr  Pr      Vg  Vg  20 500  69  Vg/86  Normal Normal  
+Eury Perez               ZMG  sp  23 R  .188  .204  Pr  Pr  Pr  Pr  Pr  Fr      Pr  52 500  34  Av/150 Normal Very pr 
+Martin Perez*                 sp  35 L  .145  .218  Pr  Pr  Pr  Pr  Pr  Av      Vg   5  24  45  Av/300 Normal Very pr 
+Jack Perkins                  cl  26 R  .205  .179  Pr  Pr  Pr  Pr  Pr  Av  Ex  Av  41  46  44  Av/74  Normal Prone   
+Michael Petersen              mr  32 R  .242  .263  Pr  Pr  Pr  Pr  Pr      Av  Ex  56  74  33  Av/88  Normal Normal  
+David Peterson*          DHL  sp  30 L  .228  .267  Pr  Pr  Pr  Pr  Pr  Vg      Ex   9 158  61  Av/0   Normal Normal  
+Chase Petty                   sp  23 R  .182  .600  Pr  Pr  Pr  Pr  Pr  Pr  Av  Av  17  87  30  Av/96  Normal Normal  
+Brandon Pfaadt           VWB  sp  27 R  .268  .291  Pr  Pr  Pr  Pr  Pr  Av      Av   9   0  49  Fr/280 Normal Iron    
+Connor Phillips               mr  25 R  .182  .100  Pr  Pr  Pr  Pr  Pr      Av  Fr  45  67  37  Fr/192 Normal Normal  
+Evan Phillips                 mr  31 R  .200  .200  Pr  Pr  Pr  Pr  Pr      Fr  Pr  19  93  60  Av/96  Normal Very pr 
+Tyler Phillips                mr  28 R  .195  .253  Pr  Pr  Pr  Pr  Pr      Vg  Vg  43   0  63  Av/48  Tough  Normal  
+Konnor Pilkington*            mr  28 L  .262  .183  Pr  Pr  Pr  Pr  Pr      Av  Vg  36  59  33  Vg/81  Normal Normal  
+Robinson Pina                 mr  27 R  .286  .500  Pr  Pr  Pr  Pr  Pr      Vg  Av  19  95  43  Av/98  Normal Prone   
+Jonathan Pintaro              mr  28 R  .500  .500  Pr  Pr  Pr  Pr  Pr      Vg  Av  20  98  80  Av/100 Normal Normal  
+Nick Pivetta             GST  sp  33 R  .185  .205  Pr  Pr  Pr  Pr  Pr  Av      Av   3   0  39  Av/89  Normal Normal  
+Colin Poche*                  mr  32 L  .348  .308  Pr  Pr  Pr  Pr  Pr      Av  Fr  43  83  27  Av/94  Normal Normal  
+Drew Pomeranz*                mr  37 L  .176  .234  Pr  Pr  Pr  Pr  Pr      Av  Av  11  32  38  Av/67  Tough  Normal  
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Zach Pop                      mr  29 R  .438  .400  Pr  Pr  Pr  Pr  Pr      Ex  Av  17  87  80  Av/96  Normal Normal  
+Austin Pope                   mr  27 R  .333  .200  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  97  60  Av/99  Normal Normal  
+Cody Poteet                   mr  31 R  .286  .571  Pr  Pr  Pr  Pr  Pr      Ex  Vg  19  95  43  Av/100 Normal Very pr 
+PJ Poulin*                    mr  29 L  .243  .250  Pr  Pr  Pr  Pr  Pr      Av  Fr  13  63  47  Vg/137 Normal Normal  
+Cade Povich*                  sp  26 L  .288  .284  Pr  Pr  Pr  Pr  Pr  Av      Vg  27   0  48  Av/123 Normal Very pr 
+Ryan Pressly             ZMG  mr  37 R  .289  .286  Pr  Pr  Pr  Pr  Pr      Av  Vg   8  39  65  Av/72  Normal Normal  
+Quinn Priester                sp  25 R  .249  .241  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg  14   0  62  Av/67  Normal Normal  
+A.J. Puk*                PMT  cl  31 L  .231  .263  Pr  Pr  Pr  Pr  Pr      Av  Pr  63  88  42  Av/95  Normal Very pr 
+Cal Quantrill                 sp  31 R  .230  .335  Pr  Pr  Pr  Pr  Pr  Fr      Fr  13   0  38  Av/22  Normal Normal  
+Jose Quijada*                 mr  30 L  .000  .250  Pr  Pr  Pr  Pr  Pr      Av  Fr  19  97  50  Av/100 Normal Normal  
+Jose Quintana*           KSS  sp  37 L  .220  .248  Pr  Pr  Pr  Pr  Pr  Av      Av   4 206  47  Av/76  Normal Prone   
+Cole Ragans*             CEC  sp  28 L  .233  .227  Pr  Pr  Pr  Pr  Pr  Fr      Vg  26  14  45  Av/59  Normal Very pr 
+Carson Ragsdale               mr  28 R  .333  .500  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  92  30  Av/97  Normal Normal  
+Tanner Rainey                 mr  33 R  .190  .286  Pr  Pr  Pr  Pr  Pr      Av  Av  17 500  47  Av/94  Normal Normal  
+Brooks Raley*                 mr  38 L  .103  .177  Pr  Pr  Pr  Pr  Pr      Fr  Vg  13  67  31  Fr/83  Normal Very pr 
+Erasmo Ramirez                mr  36 R  .348  .125  Pr  Pr  Pr  Pr  Pr      Av  Av  53  86  44  Av/93  Normal Normal  
+Yohan Ramirez                 mr  31 R  .261  .239  Pr  Pr  Pr  Pr  Pr      Vg  Ex  57  48  46  Av/150 Normal Normal  
+Alan Rangel                   mr  28 R  .158  .333  Pr  Pr  Pr  Pr  Pr      Ex  Vg  17 500  36  Av/93  Normal Normal  
+Nick Raquet*                  mr  30 L  .000  .000  Pr  Pr  Pr  Pr  Pr      Fr  Fr  20  98  40  Av/100 Normal Normal  
+Taylor Rashi                  mr  30 R  .138  .343  Pr  Pr  Pr  Pr  Pr      Ex  Av  31  76  42  Av/100 Normal Normal  
+Drew Rasmussen           CEC  sp  30 R  .228  .198  Pr  Pr  Pr  Pr  Pr  Pr      Pr  11   0  55  Av/0   Normal Normal  
+Robbie Ray*              GST  sp  34 L  .188  .230  Pr  Pr  Pr  Pr  Pr  Vg      Av  21 152  40  Fr/0   Normal Iron    
+Colin Rea                KSS  sp  35 R  .292  .222  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg   7   0  44  Av/46  Normal Normal  
+Sean Reynolds                 mr  28 R  .216  .200  Pr  Pr  Pr  Pr  Pr      Vg  Fr  19  61  36  Ex/82  Normal Prone   
+Orlando Ribalta               mr  28 R  .286  .271  Pr  Pr  Pr  Pr  Pr      Vg  Vg  12 500  39  Av/84  Normal Very pr 
+Trevor Richards               mr  33 R  .444  .438  Pr  Pr  Pr  Pr  Pr      Vg  Av  99  90  40  Fr/96  Normal Normal  
+Lyon Richardson               mr  26 R  .300  .224  Pr  Pr  Pr  Pr  Pr      Av  Vg   9  43  63  Av/124 Normal Normal  
+Christian Roa                 mr  27 R  .200  .000  Pr  Pr  Pr  Pr  Pr      Vg  Pr  19  96  60  Av/100 Normal Normal  
+Daniel Robert                 mr  31 R  .083  .360  Pr  Pr  Pr  Pr  Pr      Av  Vg  16  80  30  Fr/100 Normal Prone   
+Ethan Roberts                 mr  28 R  .286  .286  Pr  Pr  Pr  Pr  Pr      Av  Av  57  87  35  Av/94  Normal Normal  
+David Robertson          PMT  mr  41 R  .313  .211  Pr  Pr  Pr  Pr  Pr      Av  Vg  15  74  53  Av/88  Normal Normal  
+Joe Rock*                     mr  25 L  .286  .176  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  88  69  Av/100 Normal Normal  
+Kumar Rocker             GST  sp  26 R  .319  .229  Pr  Pr  Pr  Pr  Pr  Fr      Pr  46   4  58  Vg/127 Normal Prone   
+Carlos Rodon*            BFP  sp  33 L  .177  .192  Pr  Pr  Pr  Pr  Pr  Vg      Av  11   0  48  Av/0   Normal Iron    
+Bradgley Rodriguez            mr  22 R  .000  .267  Pr  Pr  Pr  Pr  Pr      Av  Av  18  90  58  Av/95  Normal Normal  
+Carlos F. Rodriguez           mr  24 R  .316  .318  Pr  Pr  Pr  Pr  Pr      Ex  Av  44  83  29  Fr/100 Normal Normal  
+Eduardo Rodriguez*            sp  33 L  .303  .281  Pr  Pr  Pr  Pr  Pr  Vg      Ex  13 165  44  Av/0   Normal Prone   
+Elvin Rodriguez               mr  28 R  .300  .327  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg  14  70  21  Av/172 Normal Normal  
+Manuel Rodriguez              mr  29 R  .216  .240  Pr  Pr  Pr  Pr  Pr      Av  Fr  18  60  66  Vg/80  Normal Very pr 
+Randy Rodriguez          DHL  mr  26 R  .128  .250  Pr  Pr  Pr  Pr  Pr      Av  Fr  22  34  41  Av/66  Normal Prone   
+Yariel Rodriguez              mr  29 R  .229  .176  Pr  Pr  Pr  Pr  Pr      Av  Av  15 500  45  Vg/51  Normal Iron    
+Taylor Rogers*           KLQ  mr  35 L  .227  .265  Pr  Pr  Pr  Pr  Pr      Av  Fr   5  26  51  Av/176 Normal Normal  
+Trevor Rogers*           KLO  sp  28 L  .159  .185  Pr  Pr  Pr  Pr  Pr  Av      Ex   0 214  49  Av/27  Normal Prone   
+Tyler Rogers             MHH  mr  35 R  .230  .229  Pr  Pr  Pr  Pr  Pr      Av  Av   0   0  67  Av/48  Normal Iron    
+Ryan Rolison*                 mr  28 L  .274  .361  Pr  Pr  Pr  Pr  Pr      Vg  Vg  12 500  58  Av/222 Normal Normal  
+Jordan Romano                 mr  33 R  .253  .295  Pr  Pr  Pr  Pr  Pr      Av  Pr   8 500  43  Av/72  Normal Prone   
+JoJo Romero*                  mr  29 L  .211  .220  Pr  Pr  Pr  Pr  Pr      Av  Vg  17  15  58  Av/59  Normal Iron    
+John Rooney*                  mr  29 L  .000  .500  Pr  Pr  Pr  Pr  Pr      Vg  Fr  20  98  50  Av/100 Normal Prone   
+Joe Ross                      mr  33 R  .282  .282  Pr  Pr  Pr  Pr  Pr      Vg  Ex   5  24  54  Fr/66  Normal Prone   
+Landen Roupp                  sp  27 R  .261  .275  Pr  Pr  Pr  Pr  Pr  Av      Vg  33 240  50  Av/29  Normal Very pr 
+Chris Roycroft                mr  29 R  .333  .291  Pr  Pr  Pr  Pr  Pr      Av  Av  66  66  53  Fr/86  Normal Normal  
+Jose Ruiz                     mr  31 R  .308  .357  Pr  Pr  Pr  Pr  Pr      Av  Vg  15 500  48  Av/89  Normal Prone   
+Jackson Rutledge              mr  27 R  .363  .249  Pr  Pr  Pr  Pr  Pr      Av  Av  40   0  45  Av/51  Normal Normal  
+Joe Ryan                 EEB  sp  30 R  .241  .193  Pr  Pr  Pr  Pr  Pr  Av      Fr   0 263  38  Av/140 Normal Normal  
+Andrew Saalfrank*             mr  28 L  .207  .181  Pr  Pr  Pr  Pr  Pr      Av  Pr  39  62  46  Av/100 Tough  Normal  
+Erik Sabrowski*               mr  28 L  .104  .184  Pr  Pr  Pr  Pr  Pr      Av  Pr  12  60  30  Av/80  Tough  Very pr 
+Eduardo Salazar               mr  28 R  .328  .384  Pr  Pr  Pr  Pr  Pr      Av  Fr  44 500  63  Av/81  Normal Normal  
+Chris Sale*              PMT  sp  37 L  .163  .233  Pr  Pr  Pr  Pr  Pr  Vg      Fr  13   0  44  Vg/94  Normal Very pr 
+Cristopher Sanchez*      GFB  sp  29 L  .189  .237  Pr  Pr  Pr  Pr  Pr  Vg      Vg  17 142  65  Av/59  Normal Iron    
+Cam Sanders                   mr  29 R  .200  .368  Pr  Pr  Pr  Pr  Pr      Vg  Av  18  89  25  Av/100 Normal Normal  
+Nick Sandlin                  mr  29 R  .115  .242  Pr  Pr  Pr  Pr  Pr      Av  Vg  32  77  41  Vg/89  Normal Very pr 
+Jayvien Sandridge*            mr  27 L  .000  .500  Pr  Pr  Pr  Pr  Pr      Vg  Fr  20  98  50  Pr/100 Normal Normal  
+Cole Sands               MHM  mr  28 R  .242  .241  Pr  Pr  Pr  Pr  Pr      Av  Fr  22   0  48  Av/119 Normal Iron    
+Reiver Sanmartin*             mr  30 L  .000  .333  Pr  Pr  Pr  Pr  Pr      Ex  Av  99  97  67  Fr/100 Normal Normal  
+Dennis Santana                mr  30 R  .143  .203  Pr  Pr  Pr  Pr  Pr      Av  Vg   2  10  40  Av/168 Normal Iron    
+Tony Santillan                mr  29 R  .223  .175  Pr  Pr  Pr  Pr  Pr      Av  Ex  30   0  41  Av/51  Normal Iron    
+Gregory Santos                mr  26 R  .333  .278  Pr  Pr  Pr  Pr  Pr      Av  Fr  99  88  68  Av/100 Normal Very pr 
+Roki Sasaki                   sp  24 R  .203  .239  Pr  Pr  Pr  Pr  Pr  Fr  Fr  Fr  28  46  42  Fr/76  Normal Very pr 
+Tayler Saucedo*               mr  33 L  .267  .379  Pr  Pr  Pr  Pr  Pr      Vg  Pr  16  78  61  Vg/91  Normal Normal  
+Matt Sauer                    mr  27 R  .373  .242  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Ex  17  57  52  Fr/80  Normal Normal  
+Max Scherzer             PMT  sp  41 R  .257  .269  Pr  Pr  Pr  Pr  Pr  Av      Av  12   0  31  Av/43  Normal Very pr 
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Cam Schlittler                sp  25 R  .222  .211  Pr  Pr  Pr  Pr  Pr  Av      Pr  22   0  40  Av/51  Normal Normal  
+Clarke Schmidt           ZMG  sp  30 R  .216  .182  Pr  Pr  Pr  Pr  Pr  Av      Av  14 500  36  Vg/48  Normal Very pr 
+Jesse Scholtens               mr  32 R  .250  .273  Pr  Pr  Pr  Pr  Pr      Ex  Fr  58  87  43  Av/94  Normal Normal  
+John Schreiber           GFB  mr  32 R  .243  .227  Pr  Pr  Pr  Pr  Pr      Av  Ex  17  12  45  Av/162 Normal Iron    
+Paxton Schultz                mr  28 R  .271  .280  Pr  Pr  Pr  Pr  Pr      Ex  Ex  13  63  43  Av/84  Normal Prone   
+Spencer Schwellenbach    DHL  sp  26 R  .225  .208  Pr  Pr  Pr  Pr  Pr  Vg      Ex  10   0  57  Ex/61  Normal Very pr 
+Tanner Scott*            KSS  cl  31 L  .259  .252  Pr  Pr  Pr  Pr  Pr      Av  Ex  19  21  45  Fr/62  Normal Prone   
+Tayler Scott                  mr  34 R  .300  .310  Pr  Pr  Pr  Pr  Pr      Vg  Pr  11  55  44  Vg/141 Normal Normal  
+Connor Seabold                mr  30 R  .167  .471  Pr  Pr  Pr  Pr  Pr      Vg  Vg  46  84  30  Vg/93  Normal Normal  
+JP Sears*                PMT  sp  30 L  .289  .264  Pr  Pr  Pr  Pr  Pr  Av      Av   4   0  34  Av/10  Normal Normal  
+Colin Selby                   mr  28 R  .333  .200  Pr  Pr  Pr  Pr  Pr      Vg  Av  16  80  57  Av/91  Normal Very pr 
+Kodai Senga              GST  sp  33 R  .237  .209  Pr  Pr  Pr  Pr  Pr  Av      Vg  23   0  54  Av/130 Normal Prone   
+Antonio Senzatela             sp  31 R  .348  .345  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg  32 185  53  Av/13  Normal Prone   
+Luis Severino            KSS  sp  32 R  .270  .245  Pr  Pr  Pr  Pr  Pr  Av      Vg   9   0  45  Vg/0   Normal Prone   
+Paul Sewald                   mr  36 R  .278  .216  Pr  Pr  Pr  Pr  Pr      Av  Av  15  73  20  Av/300 Normal Very pr 
+Carson Seymour                mr  27 R  .304  .222  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  10  48  60  Av/76  Normal Normal  
+Ian Seymour*                  mr  27 L  .178  .243  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg   4  19  44  Vg/145 Normal Normal  
+Emmet Sheehan            BFP  sp  26 R  .165  .196  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Ex  15   3  36  Fr/211 Normal Very pr 
+Chase Shugart                 mr  29 R  .222  .198  Pr  Pr  Pr  Pr  Pr      Av  Av  37  40  37  Fr/70  Normal Prone   
+Jared Shuster*                mr  27 L  .308  .396  Pr  Pr  Pr  Pr  Pr      Vg  Av  27  73  50  Av/90  Normal Very pr 
+Chase Silseth                 mr  26 R  .385  .179  Pr  Pr  Pr  Pr  Pr      Av  Pr  45  84  53  Av/93  Normal Normal  
+Josh Simpson*                 mr  28 L  .207  .328  Pr  Pr  Pr  Pr  Pr      Av  Ex  44  50  60  Fr/80  Normal Normal  
+Lucas Sims                    mr  32 R  .375  .229  Pr  Pr  Pr  Pr  Pr      Av  Av  93  76  57  Vg/145 Normal Normal  
+Brady Singer             RHJ  sp  29 R  .250  .222  Pr  Pr  Pr  Pr  Pr  Av      Av   9   0  45  Av/0   Normal Iron    
+Evan Sisk*                    mr  29 L  .192  .275  Pr  Pr  Pr  Pr  Pr      Av  Pr  83 500  46  Av/88  Normal Normal  
+Paul Skenes              RHJ  sp  24 R  .210  .186  Pr  Pr  Pr  Pr  Pr  Av      Ex   6   0  50  Fr/170 Normal Iron    
+Tarik Skubal*            PMT  sp  29 L  .215  .196  Pr  Pr  Pr  Pr  Pr  Vg      Ex   9 242  48  Vg/93  Normal Normal  
+Justin Slaten                 mr  28 R  .189  .233  Pr  Pr  Pr  Pr  Pr      Av  Av  16  54  44  Av/77  Normal Very pr 
+Cade Smith               EEB  mr  27 R  .159  .239  Pr  Pr  Pr  Pr  Pr      Av  Ex  22 500  42  Av/138 Normal Iron    
+Dylan Smith                   mr  26 R  .059  .217  Pr  Pr  Pr  Pr  Pr      Vg  Vg  17  84  57  Av/91  Normal Normal  
+Shane Smith                   sp  26 R  .225  .204  Pr  Pr  Pr  Pr  Pr  Av      Av  29   0  43  Av/2   Normal Prone   
+AJ Smith-Shawver              sp  23 R  .212  .300  Pr  Pr  Pr  Pr  Pr  Av      Pr  35  36  40  Av/70  Normal Very pr 
+Blake Snell*             CEC  sp  33 L  .224  .231  Pr  Pr  Pr  Pr  Pr  Av      Fr  61  15  55  Av/59  Normal Very pr 
+Collin Snider                 mr  30 R  .375  .237  Pr  Pr  Pr  Pr  Pr      Av  Vg  19  60  49  Av/197 Normal Very pr 
+Drew Sommers*                 mr  25 L  .400  .600  Pr  Pr  Pr  Pr  Pr      Av  Av  19  94  40  Av/100 Normal Normal  
+George Soriano                mr  27 R  .359  .250  Pr  Pr  Pr  Pr  Pr      Ex  Vg  39 500  54  Vg/76  Normal Normal  
+Jose Soriano             KLQ  sp  27 R  .233  .268  Pr  Pr  Pr  Pr  Pr  Av      Ex  25   0  73  Av/0   Normal Prone   
+Michael Soroka                sp  28 R  .226  .203  Pr  Pr  Pr  Pr  Pr  Fr  Vg  Av  12 302  49  Av/40  Normal Very pr 
+Gregory Soto*                 mr  31 L  .192  .307  Pr  Pr  Pr  Pr  Pr      Av  Fr  80   7  51  Av/296 Normal Iron    
+Bennett Sousa*                mr  31 L  .145  .235  Pr  Pr  Pr  Pr  Pr      Av  Fr  45  34  45  Vg/198 Normal Prone   
+Gabe Speier*                  mr  31 L  .179  .203  Pr  Pr  Pr  Pr  Pr      Fr  Pr   9  19  37  Av/59  Normal Iron    
+Mitch Spence                  mr  28 R  .311  .254  Pr  Pr  Pr  Pr  Pr  Av  Ex  Vg   6   0  48  Av/144 Normal Normal  
+Carson Spiers                 sp  28 R  .333  .192  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Vg  16  80  37  Av/91  Normal Very pr 
+Jeffrey Springs*         DHL  sp  33 L  .241  .235  Pr  Pr  Pr  Pr  Pr  Av      Fr   0 381  35  Av/130 Normal Normal  
+Brandon Sproat                sp  25 R  .282  .200  Pr  Pr  Pr  Pr  Pr  Av      Av  14  72  60  Av/131 Normal Normal  
+Ryne Stanek              KSS  mr  34 R  .295  .222  Pr  Pr  Pr  Pr  Pr      Av  Ex  44  15  28  Av/63  Normal Iron    
+Justin Steele*           RHJ  sp  30 L  .185  .276  Pr  Pr  Pr  Pr  Pr  Av      Ex  14  69  52  Av/85  Normal Very pr 
+Robert Stephenson             mr  33 R  .143  .217  Pr  Pr  Pr  Pr  Pr      Av  Fr  53 500  35  Av/100 Normal Very pr 
+Justin Sterner                mr  29 R  .140  .241  Pr  Pr  Pr  Pr  Pr      Av  Fr   8  11  33  Ex/57  Normal Normal  
+Brock Stewart                 mr  34 R  .344  .130  Pr  Pr  Pr  Pr  Pr      Av  Pr  14  47  34  Av/173 Normal Very pr 
+Robert Stock                  mr  36 R  .400  .333  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  95  33  Av/100 Normal Normal  
+Matt Strahm*             EEB  mr  34 L  .233  .196  Pr  Pr  Pr  Pr  Pr      Av  Vg  26  15  21  Av/194 Normal Iron    
+Chris Stratton                mr  35 R  .333  .360  Pr  Pr  Pr  Pr  Pr      Vg  Vg  13  65  60  Av/86  Normal Normal  
+Hunter Stratton               mr  29 R  .412  .209  Pr  Pr  Pr  Pr  Pr      Vg  Ex  14  70  43  Av/87  Normal Normal  
+Hunter Strickland             mr  37 R  .184  .238  Pr  Pr  Pr  Pr  Pr      Av  Av  24  70  37  Fr/85  Normal Very pr 
+Spencer Strider          ZMG  sp  27 R  .270  .251  Pr  Pr  Pr  Pr  Pr  Vg      Fr   4 212  43  Av/189 Normal Very pr 
+Marcus Stroman                sp  35 R  .302  .250  Pr  Pr  Pr  Pr  Pr  Fr      Av  13  42  51  Av/74  Normal Very pr 
+Kade Strowd                   mr  28 R  .176  .179  Pr  Pr  Pr  Pr  Pr      Av  Vg  42  65  55  Av/168 Normal Normal  
+Albert Suarez            MHH  mr  36 R  .235  .217  Pr  Pr  Pr  Pr  Pr      Ex  Fr  99  85  41  Vg/92  Normal Very pr 
+Jose Suarez*                  mr  28 L  .156  .270  Pr  Pr  Pr  Pr  Pr  Ex  Ex  Av  15  73  56  Fr/87  Normal Normal  
+Ranger Suarez*           KLQ  sp  30 L  .221  .265  Pr  Pr  Pr  Pr  Pr  Vg      Ex   0   0  49  Vg/135 Normal Prone   
+Robert Suarez            PMT  cl  35 R  .230  .150  Pr  Pr  Pr  Pr  Pr      Av  Av   8  10  39  Av/54  Normal Iron    
+Wander Suero                  mr  34 R  .583  .188  Pr  Pr  Pr  Pr  Pr      Vg  Fr  18 500  36  Av/100 Normal Normal  
+Tomoyuki Sugano               sp  36 R  .273  .280  Pr  Pr  Pr  Pr  Pr  Av      Vg  10 134  44  Vg/0   Normal Normal  
+Cole Sulser                   mr  36 R  .220  .262  Pr  Pr  Pr  Pr  Pr      Av  Fr  14  70  46  Fr/85  Normal Normal  
+Brent Suter*             KSS  mr  36 L  .243  .266  Pr  Pr  Pr  Pr  Pr      Vg  Ex  15   3  47  Av/220 Normal Normal  
+Matt Svanson                  mr  27 R  .117  .186  Pr  Pr  Pr  Pr  Pr      Vg  Ex   9  22  45  Av/60  Tough  Normal  
+Erik Swanson                  mr  32 R  .111  .538  Pr  Pr  Pr  Pr  Pr      Av  Fr  74  90  31  Fr/96  Normal Very pr 
+Jameson Taillon          PMT  sp  34 R  .191  .258  Pr  Pr  Pr  Pr  Pr  Av      Av   4   0  39  Av/14  Normal Very pr 
+Freddy Tarnok                 mr  27 R  .063  .000  Pr  Pr  Pr  Pr  Pr      Vg  Av  18  91  75  Vg/95  Normal Prone   
+Dillon Tate                   mr  32 R  .333  .278  Pr  Pr  Pr  Pr  Pr      Vg  Av  18  89  27  Av/100 Normal Normal  
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Grant Taylor                  mr  24 R  .227  .317  Pr  Pr  Pr  Pr  Pr      Av  Pr  71  48  50  Pr/235 Normal Normal  
+Troy Taylor                   mr  24 R  .500  .438  Pr  Pr  Pr  Pr  Pr      Av  Av  18  88  31  Av/100 Normal Prone   
+Kai-Wei Teng                  sp  27 R  .262  .245  Pr  Pr  Pr  Pr  Pr  Pr      Vg  11  54  43  Fr/177 Normal Normal  
+Caleb Thielbar*               mr  39 L  .161  .205  Pr  Pr  Pr  Pr  Pr      Fr  Vg   5  27  38  Av/61  Normal Iron    
+Connor Thomas*                mr  28 L  .545  .400  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  90  55  Av/100 Normal Very pr 
+Mason Thompson                mr  28 R  .368  .310  Pr  Pr  Pr  Pr  Pr      Av  Pr  16  80  43  Av/100 Normal Very pr 
+Ryan Thompson                 mr  34 R  .294  .239  Pr  Pr  Pr  Pr  Pr      Av  Pr   8 500  51  Av/72  Normal Very pr 
+Zach R. Thompson              mr  32 R  .000  .000  Pr  Pr  Pr  Pr  Pr      Vg  Fr  99  96  38  Av/100 Normal Normal  
+Trent Thornton                mr  32 R  .286  .232  Pr  Pr  Pr  Pr  Pr      Vg  Fr  12  40  51  Av/72  Tough  Very pr 
+Blade Tidwell                 sp  25 R  .320  .366  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Av  15  74  44  Av/90  Normal Normal  
+Jesus Tinoco                  mr  31 R  .138  .310  Pr  Pr  Pr  Pr  Pr      Av  Av  15  73  45  Av/87  Normal Very pr 
+Payton Tolle*                 mr  23 L  .308  .269  Pr  Pr  Pr  Pr  Pr  Pr  Vg  Pr  30  75  38  Av/89  Normal Normal  
+Jonah Tong                    sp  23 R  .250  .366  Pr  Pr  Pr  Pr  Pr  Pr      Ex  77  71  38  Fr/169 Normal Normal  
+Michael Tonkin                mr  36 R  .306  .125  Pr  Pr  Pr  Pr  Pr      Av  Av  22  66  39  Av/84  Normal Very pr 
+Justin Topa              KLQ  mr  35 R  .305  .263  Pr  Pr  Pr  Pr  Pr      Av  Av   2  11  56  Av/207 Normal Prone   
+Touki Toussaint               mr  30 R  .600  .200  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  96  33  Fr/100 Normal Normal  
+Blake Treinen            PMT  mr  38 R  .318  .254  Pr  Pr  Pr  Pr  Pr      Av  Pr  17  57  38  Fr/82  Normal Very pr 
+Lou Trivino                   mr  34 R  .311  .221  Pr  Pr  Pr  Pr  Pr      Av  Av  21 500  37  Av/68  Normal Normal  
+Spencer Turnbull              mr  33 R  .462  .375  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Fr  18  89  54  Fr/96  Normal Normal  
+Edwin Uceta              CEC  mr  28 R  .226  .215  Pr  Pr  Pr  Pr  Pr      Av  Fr   0 500  39  Vg/49  Normal Iron    
+Jose Urena               MHM  mr  34 R  .259  .267  Pr  Pr  Pr  Pr  Pr  Pr  Ex  Vg  18  18  43  Av/223 Normal Normal  
+Abner Uribe              ZMG  mr  26 R  .171  .211  Pr  Pr  Pr  Pr  Pr      Av  Ex  37 384  62  Vg/111 Normal Iron    
+Jose Urquidy                  mr  31 R  .250  .667  Pr  Pr  Pr  Pr  Pr      Vg  Pr  19  95  25  Av/100 Normal Very pr 
+Framber Valdez*          BFP  sp  32 L  .257  .234  Pr  Pr  Pr  Pr  Pr  Vg      Fr  33 113  66  Av/0   Normal Normal  
+Brian van Belle               mr  29 R  .421  .294  Pr  Pr  Pr  Pr  Pr      Ex  Fr  62  88  29  Av/100 Normal Prone   
+Logan VanWey                  mr  27 R  .381  .292  Pr  Pr  Pr  Pr  Pr      Vg  Av  17  84  45  Av/93  Normal Normal  
+Carlos Vargas                 mr  26 R  .205  .327  Pr  Pr  Pr  Pr  Pr      Av  Av  34 273  58  Av/120 Normal Iron    
+Louis Varland                 mr  28 R  .254  .236  Pr  Pr  Pr  Pr  Pr      Av  Av   0   1  63  Vg/99  Tough  Iron    
+Mike Vasil                    mr  26 R  .205  .204  Pr  Pr  Pr  Pr  Pr  Pr  Av  Pr  21 428  54  Av/33  Normal Normal  
+Randy Vasquez                 sp  27 R  .264  .232  Pr  Pr  Pr  Pr  Pr  Av      Av  12 201  40  Av/94  Normal Normal  
+Anthony Veneziano*            mr  28 L  .288  .262  Pr  Pr  Pr  Pr  Pr      Av  Fr  19  61  60  Av/138 Normal Normal  
+Justin Verlander         BEB  sp  43 R  .262  .259  Pr  Pr  Pr  Pr  Pr  Av      Av   7   0  38  Av/98  Normal Prone   
+Alex Vesia*              CEC  mr  30 L  .159  .193  Pr  Pr  Pr  Pr  Pr      Fr  Av  28  21  30  Av/60  Normal Prone   
+Will Vest                DHL  cl  31 R  .243  .230  Pr  Pr  Pr  Pr  Pr      Av  Ex  31   5  63  Av/54  Normal Iron    
+Victor Vodnik                 mr  26 R  .260  .217  Pr  Pr  Pr  Pr  Pr      Av  Ex  41  28  62  Fr/66  Normal Prone   
+Michael Wacha            ZMG  sp  34 R  .245  .260  Pr  Pr  Pr  Pr  Pr  Av      Ex   6   0  40  Av/0   Normal Normal  
+Brandon Waddell*              mr  32 L  .262  .228  Pr  Pr  Pr  Pr  Pr      Ex  Ex  11  55  45  Av/79  Normal Prone   
+Hurston Waldrep               sp  24 R  .248  .189  Pr  Pr  Pr  Pr  Pr  Av      Fr   5  24  58  Fr/62  Normal Normal  
+Matt Waldron                  sp  29 R  .111  .500  Pr  Pr  Pr  Pr  Pr  Vg      Pr  99  92  50  Av/97  Normal Very pr 
+Josh Walker*                  mr  31 L  .500  .313  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  92  50  Av/100 Normal Normal  
+Ryan Walker              BFP  mr  30 R  .266  .244  Pr  Pr  Pr  Pr  Pr      Av  Vg   8 500  63  Av/59  Normal Iron    
+Taijuan Walker           MHH  sp  33 R  .268  .272  Pr  Pr  Pr  Pr  Pr  Av  Vg  Av   4   0  50  Av/68  Normal Normal  
+Brandon Walter*               sp  29 L  .162  .240  Pr  Pr  Pr  Pr  Pr  Vg      Av   6  29  49  Fr/64  Normal Very pr 
+Andrew Walters                mr  25 R  .000  .400  Pr  Pr  Pr  Pr  Pr      Fr  Fr  20  98  50  Av/100 Normal Very pr 
+Austin Warren                 mr  30 R  .214  .125  Pr  Pr  Pr  Pr  Pr      Vg  Av  18  89  44  Av/94  Normal Normal  
+Will Warren                   sp  27 R  .266  .232  Pr  Pr  Pr  Pr  Pr  Av      Vg   6 127  50  Av/122 Normal Iron    
+Ryan Weathers*           KLO  sp  26 L  .233  .248  Pr  Pr  Pr  Pr  Pr  Fr      Av  13  45  50  Av/74  Normal Very pr 
+Luke Weaver              PMT  mr  32 R  .176  .216  Pr  Pr  Pr  Pr  Pr      Av  Vg   8  13  27  Av/127 Normal Prone   
+Jacob Webb                    mr  32 R  .200  .203  Pr  Pr  Pr  Pr  Pr      Av  Fr   2  11  38  Vg/56  Normal Prone   
+Logan Webb               VWB  sp  29 R  .286  .242  Pr  Pr  Pr  Pr  Pr  Vg      Vg   5   0  64  Vg/47  Normal Iron    
+Jordan Weems                  mr  33 R  .429  .462  Pr  Pr  Pr  Pr  Pr      Vg  Pr  18  92  36  Vg/100 Normal Normal  
+Greg Weissert                 mr  31 R  .214  .235  Pr  Pr  Pr  Pr  Pr      Fr  Av   8   7  44  Av/55  Normal Iron    
+Tyler Wells              DHL  sp  31 R  .267  .143  Pr  Pr  Pr  Pr  Pr  Fr      Fr  15  73  36  Av/86  Normal Very pr 
+Joey Wentz*                   mr  28 L  .295  .274  Pr  Pr  Pr  Pr  Pr  Fr  Vg  Pr  25   0  42  Av/35  Normal Normal  
+Hayden Wesneski          RHJ  sp  28 R  .224  .250  Pr  Pr  Pr  Pr  Pr  Av      Av  11  56  42  Av/79  Normal Very pr 
+Zack Wheeler             BFP  sp  36 R  .193  .203  Pr  Pr  Pr  Pr  Pr  Vg      Vg   8   0  49  Av/98  Normal Prone   
+Carson Whisenhunt*            sp  25 L  .194  .281  Pr  Pr  Pr  Pr  Pr  Fr      Av  44  66  49  Av/84  Normal Prone   
+Owen White                    mr  26 R  .417  .450  Pr  Pr  Pr  Pr  Pr      Ex  Av  18  88  58  Av/95  Normal Prone   
+Forrest Whitley               mr  28 R  .233  .462  Pr  Pr  Pr  Pr  Pr      Vg  Av  34  78  38  Av/100 Normal Very pr 
+Garrett Whitlock         RHJ  mr  30 R  .197  .214  Pr  Pr  Pr  Pr  Pr      Av  Av  23   2  50  Fr/209 Normal Normal  
+Jordan Wicks*                 mr  26 L  .440  .325  Pr  Pr  Pr  Pr  Pr      Ex  Vg  16  78  39  Av/90  Normal Normal  
+Cole Wilcox                   mr  26 R  .500  .429  Pr  Pr  Pr  Pr  Pr      Ex  Pr  19  96  50  Fr/100 Normal Normal  
+Nathan Wiles                  mr  27 R 1.000  .333  Pr  Pr  Pr  Pr  Pr      Vg  Av  20  98  20  Av/100 Normal Normal  
+Devin Williams           EEB  cl  31 R  .198  .197  Pr  Pr  Pr  Pr  Pr      Av  Pr  34  14  51  Av/59  Normal Iron    
+Gavin Williams           BFP  sp  26 R  .163  .262  Pr  Pr  Pr  Pr  Pr  Av      Vg  28 129  51  Av/0   Normal Normal  
+Trevor Williams               sp  34 R  .386  .216  Pr  Pr  Pr  Pr  Pr  Av      Fr   6   0  37  Av/45  Normal Very pr 
+Bryse Wilson                  mr  28 R  .354  .322  Pr  Pr  Pr  Pr  Pr  Av  Ex  Fr   5  25  36  Fr/300 Normal Normal  
+Justin Wilson*                mr  38 L  .212  .306  Pr  Pr  Pr  Pr  Pr      Fr  Fr  32  31  51  Fr/68  Normal Normal  
+Steven Wilson                 mr  31 R  .325  .186  Pr  Pr  Pr  Pr  Pr      Fr  Pr  18  20  28  Av/100 Normal Normal  
+Allan Winans                  mr  30 R  .389  .286  Pr  Pr  Pr  Pr  Pr  Fr  Ex  Vg  17  85  45  Av/94  Normal Normal  
+Josh Winckowski               mr  28 R  .353  .185  Pr  Pr  Pr  Pr  Pr      Ex  Fr  17  83  58  Fr/244 Normal Very pr 
+                            Pitcher Profiles -- All players in database                             
+                                           Regular season                                           
+
+                                       vsLHB vsRHB --Bunt-             --Dur--                                        
+Name                     Tm    P Age T   AVG   AVG Sac Hit Run Stl Jmp  St Rel Hld  WP  BK GB%   Fld   Jam    Injury  
+Cole Winn                     mr  26 R  .260  .114  Pr  Pr  Pr  Pr  Pr      Av  Vg  14  46  52  Vg/72  Normal Prone   
+Keaton Winn                   mr  28 R  .333  .273  Pr  Pr  Pr  Pr  Pr      Vg  Fr  17  86  53  Fr/93  Normal Normal  
+Grant Wolfram*                mr  29 L  .313  .294  Pr  Pr  Pr  Pr  Pr      Vg  Av  50  56  51  Fr/82  Normal Normal  
+Bryan Woo                BFP  sp  26 R  .197  .203  Pr  Pr  Pr  Pr  Pr  Vg      Vg   9   0  46  Av/61  Normal Normal  
+Jake Woodford                 mr  29 R  .271  .311  Pr  Pr  Pr  Pr  Pr      Ex  Vg  13  43  51  Av/76  Normal Normal  
+Brandon Woodruff         CEC  sp  33 R  .181  .196  Pr  Pr  Pr  Pr  Pr  Av      Fr   9  14  34  Av/57  Normal Very pr 
+Simeon Woods Richardso   KLO  sp  25 R  .229  .230  Pr  Pr  Pr  Pr  Pr  Fr      Av  19 192  34  Fr/219 Normal Prone   
+Justin Wrobleski*             mr  25 L  .194  .279  Pr  Pr  Pr  Pr  Pr  Ex  Ex  Av   8   7  58  Av/56  Normal Normal  
+Randy Wynne                   cl  33 R  .167  .333  Pr  Pr  Pr  Pr  Pr      Ex  Av  19  96  33  Av/100 Normal Normal  
+Yoshinobu Yamamoto       KLO  sp  27 R  .174  .191  Pr  Pr  Pr  Pr  Pr  Av      Vg  16   0  58  Av/43  Normal Normal  
+Ryan Yarbrough*          KSS  mr  34 L  .198  .263  Pr  Pr  Pr  Pr  Pr  Fr  Vg  Fr   2  12  47  Vg/57  Normal Very pr 
+Kirby Yates              KSS  mr  39 R  .258  .227  Pr  Pr  Pr  Pr  Pr      Av  Pr  12  41  35  Av/132 Normal Very pr 
+Trey Yesavage                 sp  22 R  .161  .333  Pr  Pr  Pr  Pr  Pr  Fr      Vg  16  79  50  Av/91  Normal Normal  
+Craig Yoho                    mr  26 R  .333  .250  Pr  Pr  Pr  Pr  Pr      Av  Av  17  86  47  Av/100 Normal Normal  
+Brandon Young                 sp  27 R  .315  .262  Pr  Pr  Pr  Pr  Pr  Av      Ex   3  15  51  Fr/124 Normal Prone   
+Danny Young*                  mr  32 L  .267  .294  Pr  Pr  Pr  Pr  Pr      Av  Vg  18  88  80  Fr/100 Normal Very pr 
+Rob Zastryzny*                mr  34 L  .196  .212  Pr  Pr  Pr  Pr  Pr      Av  Vg  48  69  49  Av/85  Normal Very pr 
+Ryan Zeferjahn                mr  28 R  .240  .216  Pr  Pr  Pr  Pr  Pr      Av  Fr  26  14  44  Vg/62  Normal Prone   
+Angel Zerpa*                  mr  26 L  .225  .303  Pr  Pr  Pr  Pr  Pr      Av  Ex   8 329  75  Vg/57  Tough  Iron    
+Bruce Zimmermann*             sp  31 L  .500  .167  Pr  Pr  Pr  Pr  Pr  Ex      Av  18  91  61  Av/96  Normal Normal  
+Tyler Zuber                   mr  31 R  .389  .294  Pr  Pr  Pr  Pr  Pr      Vg  Av  16  80  41  Av/92  Normal Prone   
+Yosver Zulueta                mr  28 R  .154  .231  Pr  Pr  Pr  Pr  Pr      Av  Fr  69  89  35  Av/95  Normal Normal  
+
