@@ -6,13 +6,19 @@ wholesale every week: it overwrites dmrpt.css with its plain default and adds
 new box-score files that have no stylesheet link at all. This script repairs
 both, and is safe to run repeatedly:
 
-  1. Copies the maintained dmrpt_template.css over each directory's dmrpt.css.
+  1. Copies the maintained dmrpt_template.css over each directory's dmrpt.css,
+     and dmrpt_sort.js over each directory's dmrpt_sort.js.
   2. For every game box score (bare-digit filename, e.g. 2026032601020.htm):
      - skips it if already processed (has a <link rel="stylesheet"> tag)
      - injects the dmrpt.css link
      - wraps the <pre> block in <div class="boxscore"> so it picks up the
        card styling from the stylesheet
      - fills in the empty <title> from the first line of the box score
+  3. For every report page with a data table (standings, rosters, leaders,
+     team stats, ...):
+     - skips it if already processed (has a <script src="dmrpt_sort.js">)
+     - injects the dmrpt_sort.js include before </body>, which makes each
+       table's column headers clickable to sort
 
 Usage:
     python league/style_flb_reports.py
@@ -27,11 +33,14 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-TEMPLATE_CSS = Path(__file__).resolve().parent / "dmrpt_template.css"
+SCRIPT_DIR = Path(__file__).resolve().parent
+TEMPLATE_CSS = SCRIPT_DIR / "dmrpt_template.css"
+TEMPLATE_JS = SCRIPT_DIR / "dmrpt_sort.js"
 DEFAULT_DIRS = ["FLB_2026", "FLB_2026_pre_1", "FLB_2026_pre_2", "FLB_2026_pre_3"]
 
 BOX_SCORE_RE = re.compile(r"^\d+\.htm$")
 CSS_LINK = '<link rel="stylesheet" type="text/css" href="dmrpt.css">'
+SORT_SCRIPT_TAG = '<script src="dmrpt_sort.js" defer></script>'
 
 
 def style_box_score(html: str) -> str | None:
@@ -57,34 +66,60 @@ def style_box_score(html: str) -> str | None:
     return updated
 
 
+def add_sort_script(html: str) -> tuple[str | None, str]:
+    """Return (updated HTML or None if unchanged, reason for no-op)."""
+    if "dmrpt_sort.js" in html:
+        return None, "already sortable"
+    if "<table" not in html.lower():
+        return None, "no table"
+
+    if "</body>" in html:
+        return html.replace("</body>", f"{SORT_SCRIPT_TAG}\n</body>", 1), ""
+    return html + f"\n{SORT_SCRIPT_TAG}\n", ""
+
+
 def process_directory(directory: Path, dry_run: bool) -> None:
     if not directory.is_dir():
         print(f"skip {directory.name}: not a directory")
         return
 
-    css_path = directory / "dmrpt.css"
     if dry_run:
-        print(f"[dry-run] would copy {TEMPLATE_CSS.name} -> {css_path}")
+        print(f"[dry-run] would copy {TEMPLATE_CSS.name} and {TEMPLATE_JS.name} into {directory.name}")
     else:
-        shutil.copyfile(TEMPLATE_CSS, css_path)
+        shutil.copyfile(TEMPLATE_CSS, directory / "dmrpt.css")
+        shutil.copyfile(TEMPLATE_JS, directory / "dmrpt_sort.js")
 
-    updated_count = 0
-    skipped_count = 0
+    box_updated = box_skipped = 0
+    sort_updated = 0
+    sort_already = sort_no_table = 0
     for htm_file in sorted(directory.glob("*.htm")):
-        if not BOX_SCORE_RE.match(htm_file.name):
-            continue
         original = htm_file.read_text(encoding="utf-8", errors="replace")
-        updated = style_box_score(original)
-        if updated is None:
-            skipped_count += 1
+
+        if BOX_SCORE_RE.match(htm_file.name):
+            updated = style_box_score(original)
+            if updated is None:
+                box_skipped += 1
+                continue
+            box_updated += 1
+            if not dry_run:
+                htm_file.write_text(updated, encoding="utf-8")
             continue
-        updated_count += 1
+
+        updated, reason = add_sort_script(original)
+        if updated is None:
+            if reason == "already sortable":
+                sort_already += 1
+            else:
+                sort_no_table += 1
+            continue
+        sort_updated += 1
         if not dry_run:
             htm_file.write_text(updated, encoding="utf-8")
 
     verb = "would update" if dry_run else "updated"
-    print(f"{directory.name}: css refreshed, {verb} {updated_count} box score(s), "
-          f"{skipped_count} already styled")
+    print(f"{directory.name}: css/js refreshed, {verb} {box_updated} box score(s) "
+          f"({box_skipped} already styled), {verb} {sort_updated} report table page(s) "
+          f"({sort_already} already sortable, {sort_no_table} with no table)")
 
 
 def main() -> int:
@@ -101,6 +136,9 @@ def main() -> int:
 
     if not TEMPLATE_CSS.exists():
         print(f"error: template stylesheet not found at {TEMPLATE_CSS}", file=sys.stderr)
+        return 1
+    if not TEMPLATE_JS.exists():
+        print(f"error: template script not found at {TEMPLATE_JS}", file=sys.stderr)
         return 1
 
     for name in args.directories:

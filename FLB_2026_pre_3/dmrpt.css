@@ -93,6 +93,26 @@ tr.dmrptsecthdr td, td.dmrptbodyhdr {
   font-weight: 700;
 }
 
+/* Click-to-sort column headers, wired up by dmrpt_sort.js */
+tr.dmrptsecthdr td.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+tr.dmrptsecthdr td.sortable:hover {
+  background-color: var(--flb-green-dark);
+}
+tr.dmrptsecthdr td.sortable::after {
+  content: "";
+  display: inline-block;
+  width: 0.7em;
+}
+tr.dmrptsecthdr td.sortable[data-dir="asc"]::after {
+  content: " \25B2";
+}
+tr.dmrptsecthdr td.sortable[data-dir="desc"]::after {
+  content: " \25BC";
+}
+
 tr.dmrptbody td { background-color: #ffffff; }
 tr.dmrptbody2 td { background-color: #f6f2e6; }
 
