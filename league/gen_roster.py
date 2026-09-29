@@ -203,7 +203,5 @@ def build_roster_output(year, exclude=None):
 
 
 if __name__ == "__main__":
-    build_roster_output(2025)
     build_roster_output(2026)
-    build_roster_output(2025, exclude={"WAIVE", "DRAFT"})
     build_roster_output(2026, exclude={"WAIVE", "DRAFT"})
