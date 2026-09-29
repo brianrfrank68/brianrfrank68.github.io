@@ -7,15 +7,15 @@ DB_PATH = "strat.db"
 
 FONT      = "Courier"
 FONT_BOLD = "Courier-Bold"
-FONT_SIZE = 7
-LINE_H    = 9
+FONT_SIZE = 8
+LINE_H    = 10
 MARGIN    = 0.4 * inch
 
 PAGE_W, PAGE_H = landscape(letter)
 CONTENT_W = PAGE_W - 2 * MARGIN
 
-# Positions in draft-board order: infield/outfield/DH, then pitchers.
-POSITION_ORDER = ["C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "DH", "SP", "RP"]
+# Positions in draft-board order: DH first, then the rest of the field, then pitchers.
+POSITION_ORDER = ["DH", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF", "SP", "RP"]
 PITCHER_POSITIONS = {"SP", "RP"}
 POSITION_LABELS = {
     "C": "Catcher", "1B": "First Base", "2B": "Second Base", "3B": "Third Base",
@@ -24,20 +24,22 @@ POSITION_LABELS = {
 }
 
 BAT_COLS   = [
-    ("Name",    28), ("Age", 3), ("Tm", 5),
+    ("No", 4), ("Name",    28), ("Age", 3), ("Tm", 5),
     ("G", 3), ("AB", 4), ("R", 3), ("H", 3), ("2B", 3), ("3B", 3),
     ("HR", 3), ("RBI", 4), ("SB", 3), ("CS", 3), ("BB", 4), ("SO", 4),
-    ("BA", 5), ("OBP", 5), ("SLG", 5), ("OPS", 5), ("BRPos", 6),
+    ("BA", 5), ("OBP", 5), ("SLG", 5), ("OPS", 5), ("BRPos", 11),
 ]
 PITCH_COLS = [
-    ("Name",    28), ("Age", 3), ("Tm", 5),
+    ("No", 4), ("Name",    28), ("Age", 3), ("Tm", 5),
     ("W", 3), ("L", 3), ("ERA", 5), ("G", 3), ("GS", 3), ("GF", 3),
     ("SV", 3), ("IP", 6), ("H", 4), ("R", 4), ("ER", 4), ("HR", 3),
     ("BB", 4), ("SO", 4), ("FIP", 5), ("WHIP", 6),
     ("H9", 5), ("HR9", 5), ("BB9", 5), ("SO9", 5),
 ]
 
-CHAR_W = 4.35  # approximate width of one Courier char at size 7
+CHAR_W = FONT_SIZE * 0.62  # approximate width of one Courier char
+SHADE_COLOR = (0.90, 0.90, 0.90)
+EXTRA_GAP_BEFORE = {"BRPos": 12}  # breathing room before the trailing position column
 
 
 def fmt3(v):
@@ -59,8 +61,9 @@ def col_x_positions(cols):
     positions = []
     x = MARGIN
     for i, (label, chars) in enumerate(cols):
+        x += EXTRA_GAP_BEFORE.get(label, 0)
         w = chars * CHAR_W
-        right_align = i > 0  # name column is left-aligned, stats are right
+        right_align = i != 1  # name column is left-aligned, No + stats are right
         positions.append((label, x, w, right_align))
         x += w + 2
     return positions
@@ -84,8 +87,13 @@ class PDFReport:
         self.c.setFont(FONT_BOLD if bold else FONT, size)
         self.c.drawString(x, y, txt)
 
-    def row(self, col_positions, values, bold=False):
+    def row(self, col_positions, values, bold=False, shade=False, grid=False):
         self._check_space()
+        total_w = col_positions[-1][1] + col_positions[-1][2] - MARGIN
+        if shade:
+            self.c.setFillColorRGB(*SHADE_COLOR)
+            self.c.rect(MARGIN, self.y - 2, total_w, LINE_H, fill=1, stroke=0)
+            self.c.setFillColorRGB(0, 0, 0)
         self.c.setFont(FONT_BOLD if bold else FONT, FONT_SIZE)
         for (label, x, w, right_align), val in zip(col_positions, values):
             val = str(val) if val is not None else ""
@@ -94,6 +102,11 @@ class PDFReport:
             else:
                 self.c.drawString(x, self.y, val)
         self.y -= LINE_H
+        if grid:
+            self.c.setLineWidth(0.25)
+            self.c.setStrokeColorRGB(0.6, 0.6, 0.6)
+            self.c.line(MARGIN, self.y + LINE_H - 2, MARGIN + total_w, self.y + LINE_H - 2)
+            self.c.setStrokeColorRGB(0, 0, 0)
 
     def separator(self, col_positions):
         self._check_space()
@@ -159,6 +172,7 @@ def build_draft_list(year=2026, out_file=None):
         by_position[pos].append((p, stat))
 
     pdf = PDFReport(out_file)
+    draft_no = 1  # keeps climbing across every position, not reset per group
 
     for pos in POSITION_ORDER:
         players = by_position[pos]
@@ -175,23 +189,25 @@ def build_draft_list(year=2026, out_file=None):
         pdf.row(cols, [h for h, _ in col_defs], bold=True)
         pdf.separator(cols)
 
-        for p, stat in players:
+        for i, (p, stat) in enumerate(players):
             name = p["player_name"]
+            shade = i % 2 == 1
             if pos in PITCHER_POSITIONS:
                 pdf.row(cols, [
-                    name, stat["Age"], stat["Team"],
+                    draft_no, name, stat["Age"], stat["Team"],
                     stat["W"], stat["L"], fmt2(stat["ERA"]), stat["G"], stat["GS"], stat["GF"],
                     stat["SV"], stat["IP"], stat["H"], stat["R"], stat["ER"], stat["HR"],
                     stat["BB"], stat["SO"], fmt2(stat["FIP"]), fmt2(stat["WHIP"]),
                     stat["H9"], stat["HR9"], stat["BB9"], stat["SO9"],
-                ])
+                ], shade=shade, grid=True)
             else:
                 pdf.row(cols, [
-                    name, stat["Age"], stat["Team"],
+                    draft_no, name, stat["Age"], stat["Team"],
                     stat["G"], stat["AB"], stat["R"], stat["H"], stat["2B"], stat["3B"],
                     stat["HR"], stat["RBI"], stat["SB"], stat["CS"], stat["BB"], stat["SO"],
                     fmt3(stat["BA"]), fmt3(stat["OBP"]), fmt3(stat["SLG"]), fmt3(stat["OPS"]), stat["Pos"],
-                ])
+                ], shade=shade, grid=True)
+            draft_no += 1
 
         pdf.page_break()
 
