@@ -24,14 +24,17 @@ POSITION_LABELS = {
 }
 
 BAT_COLS   = [
-    ("Rk", 3), ("Name", 26), ("Age", 3), ("Tm", 5),
-    ("G", 3), ("AB", 4), ("R", 3), ("H", 3), ("HR", 3), ("RBI", 4), ("SB", 3),
-    ("BA", 5), ("OBP", 5), ("SLG", 5), ("OPS", 5), ("WAR", 5),
+    ("Name",    28), ("Age", 3), ("Tm", 5),
+    ("G", 3), ("AB", 4), ("R", 3), ("H", 3), ("2B", 3), ("3B", 3),
+    ("HR", 3), ("RBI", 4), ("SB", 3), ("CS", 3), ("BB", 4), ("SO", 4),
+    ("BA", 5), ("OBP", 5), ("SLG", 5), ("OPS", 5), ("BRPos", 6),
 ]
 PITCH_COLS = [
-    ("Rk", 3), ("Name", 26), ("Age", 3), ("Tm", 5),
-    ("W", 3), ("L", 3), ("ERA", 5), ("G", 3), ("GS", 3), ("SV", 3),
-    ("IP", 6), ("SO", 4), ("WHIP", 6), ("WAR", 5),
+    ("Name",    28), ("Age", 3), ("Tm", 5),
+    ("W", 3), ("L", 3), ("ERA", 5), ("G", 3), ("GS", 3), ("GF", 3),
+    ("SV", 3), ("IP", 6), ("H", 4), ("R", 4), ("ER", 4), ("HR", 3),
+    ("BB", 4), ("SO", 4), ("FIP", 5), ("WHIP", 6),
+    ("H9", 5), ("HR9", 5), ("BB9", 5), ("SO9", 5),
 ]
 
 CHAR_W = 4.35  # approximate width of one Courier char at size 7
@@ -51,20 +54,13 @@ def fmt2(v):
         return ""
 
 
-def fmt1(v):
-    try:
-        return f"{float(v):.1f}"
-    except (TypeError, ValueError):
-        return ""
-
-
 def col_x_positions(cols):
     """Return list of (label, x_start, width_px, right_align) for each column."""
     positions = []
     x = MARGIN
     for i, (label, chars) in enumerate(cols):
         w = chars * CHAR_W
-        right_align = i > 1  # Rk and Name are left-aligned, stats are right
+        right_align = i > 0  # name column is left-aligned, stats are right
         positions.append((label, x, w, right_align))
         x += w + 2
     return positions
@@ -127,25 +123,29 @@ def build_draft_list(year=2026, out_file=None):
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    cursor.execute("SELECT player_id, player_name, MainPos, mlb_team FROM player_list")
+    cursor.execute("SELECT player_id, player_name, MainPos, mlb_team FROM player_list ORDER BY player_id")
     player_list = {row["player_id"]: dict(row) for row in cursor.fetchall()}
 
     cursor.execute("SELECT DISTINCT player_id FROM roster")
     rostered = {row["player_id"] for row in cursor.fetchall()}
 
-    cursor.execute(f'''SELECT "Player-additional", Age, Team, G, AB, R, H, HR, RBI, SB,
-                      BA, OBP, SLG, OPS, WAR FROM Batting_{year}''')
+    cursor.execute(f'''SELECT "Player-additional", Age, Team, G, AB, R, H, "2B", "3B",
+                      HR, RBI, SB, CS, BB, SO, BA, OBP, SLG, OPS, Pos
+                      FROM Batting_{year}''')
     batting = {row["Player-additional"]: dict(row) for row in cursor.fetchall()}
 
-    cursor.execute(f'''SELECT "Player-additional", Age, Team, W, L, ERA, G, GS, SV, IP,
-                      SO, WHIP, WAR FROM Pitching_{year}''')
+    cursor.execute(f'''SELECT "Player-additional", Age, Team, W, L, ERA, G, GS, GF,
+                      SV, IP, H, R, ER, HR, BB, SO, FIP, WHIP, H9, HR9, BB9, SO9
+                      FROM Pitching_{year}''')
     pitching = {row["Player-additional"]: dict(row) for row in cursor.fetchall()}
 
     conn.close()
 
-    # Players not on any team roster, grouped by their primary position. Only
-    # players with current-year stats are draft-relevant (excludes retired /
-    # inactive entries that linger in player_list).
+    # Players not on any team roster, grouped by their primary position and
+    # ordered by player_id (same convention as gen_roster.py, which sorts
+    # players alphabetically by last name via the Baseball-Reference id
+    # scheme). Only players with current-year stats are draft-relevant
+    # (excludes retired / inactive entries that linger in player_list).
     by_position = {pos: [] for pos in POSITION_ORDER}
     for player_id, p in player_list.items():
         if player_id in rostered:
@@ -157,14 +157,6 @@ def build_draft_list(year=2026, out_file=None):
         if stat is None:
             continue
         by_position[pos].append((p, stat))
-
-    def war_key(entry):
-        _, stat = entry
-        war = stat["WAR"]
-        return war if war is not None else float("-inf")
-
-    for pos in by_position:
-        by_position[pos].sort(key=war_key, reverse=True)
 
     pdf = PDFReport(out_file)
 
@@ -183,19 +175,22 @@ def build_draft_list(year=2026, out_file=None):
         pdf.row(cols, [h for h, _ in col_defs], bold=True)
         pdf.separator(cols)
 
-        for rank, (p, stat) in enumerate(players, start=1):
+        for p, stat in players:
             name = p["player_name"]
             if pos in PITCHER_POSITIONS:
                 pdf.row(cols, [
-                    rank, name, stat["Age"], stat["Team"],
-                    stat["W"], stat["L"], fmt2(stat["ERA"]), stat["G"], stat["GS"], stat["SV"],
-                    fmt1(stat["IP"]), stat["SO"], fmt2(stat["WHIP"]), fmt1(stat["WAR"]),
+                    name, stat["Age"], stat["Team"],
+                    stat["W"], stat["L"], fmt2(stat["ERA"]), stat["G"], stat["GS"], stat["GF"],
+                    stat["SV"], stat["IP"], stat["H"], stat["R"], stat["ER"], stat["HR"],
+                    stat["BB"], stat["SO"], fmt2(stat["FIP"]), fmt2(stat["WHIP"]),
+                    stat["H9"], stat["HR9"], stat["BB9"], stat["SO9"],
                 ])
             else:
                 pdf.row(cols, [
-                    rank, name, stat["Age"], stat["Team"],
-                    stat["G"], stat["AB"], stat["R"], stat["H"], stat["HR"], stat["RBI"], stat["SB"],
-                    fmt3(stat["BA"]), fmt3(stat["OBP"]), fmt3(stat["SLG"]), fmt3(stat["OPS"]), fmt1(stat["WAR"]),
+                    name, stat["Age"], stat["Team"],
+                    stat["G"], stat["AB"], stat["R"], stat["H"], stat["2B"], stat["3B"],
+                    stat["HR"], stat["RBI"], stat["SB"], stat["CS"], stat["BB"], stat["SO"],
+                    fmt3(stat["BA"]), fmt3(stat["OBP"]), fmt3(stat["SLG"]), fmt3(stat["OPS"]), stat["Pos"],
                 ])
 
         pdf.page_break()
